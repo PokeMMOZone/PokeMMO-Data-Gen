@@ -1,0 +1,2048 @@
+{
+    "bulbasaur": {
+        "obtainable": true
+    },
+    "ivysaur": {
+        "obtainable": true
+    },
+    "venusaur": {
+        "obtainable": true
+    },
+    "charmander": {
+        "obtainable": true
+    },
+    "charmeleon": {
+        "obtainable": true
+    },
+    "charizard": {
+        "obtainable": true
+    },
+    "squirtle": {
+        "obtainable": true
+    },
+    "wartortle": {
+        "obtainable": true
+    },
+    "blastoise": {
+        "obtainable": true
+    },
+    "caterpie": {
+        "obtainable": true
+    },
+    "metapod": {
+        "obtainable": true
+    },
+    "butterfree": {
+        "obtainable": true
+    },
+    "weedle": {
+        "obtainable": true
+    },
+    "kakuna": {
+        "obtainable": true
+    },
+    "beedrill": {
+        "obtainable": true
+    },
+    "pidgey": {
+        "obtainable": true
+    },
+    "pidgeotto": {
+        "obtainable": true
+    },
+    "pidgeot": {
+        "obtainable": true
+    },
+    "rattata": {
+        "obtainable": true
+    },
+    "raticate": {
+        "obtainable": true
+    },
+    "spearow": {
+        "obtainable": true
+    },
+    "fearow": {
+        "obtainable": true
+    },
+    "ekans": {
+        "obtainable": true
+    },
+    "arbok": {
+        "obtainable": true
+    },
+    "pikachu": {
+        "obtainable": true
+    },
+    "raichu": {
+        "obtainable": true
+    },
+    "sandshrew": {
+        "obtainable": true
+    },
+    "sandslash": {
+        "obtainable": true
+    },
+    "nidoran-f": {
+        "obtainable": true
+    },
+    "nidorina": {
+        "obtainable": true
+    },
+    "nidoqueen": {
+        "obtainable": true
+    },
+    "nidoran-m": {
+        "obtainable": true
+    },
+    "nidorino": {
+        "obtainable": true
+    },
+    "nidoking": {
+        "obtainable": true
+    },
+    "clefairy": {
+        "obtainable": true
+    },
+    "clefable": {
+        "obtainable": true
+    },
+    "vulpix": {
+        "obtainable": true
+    },
+    "ninetales": {
+        "obtainable": true
+    },
+    "jigglypuff": {
+        "obtainable": true
+    },
+    "wigglytuff": {
+        "obtainable": true
+    },
+    "zubat": {
+        "obtainable": true
+    },
+    "golbat": {
+        "obtainable": true
+    },
+    "oddish": {
+        "obtainable": true
+    },
+    "gloom": {
+        "obtainable": true
+    },
+    "vileplume": {
+        "obtainable": true
+    },
+    "paras": {
+        "obtainable": true
+    },
+    "parasect": {
+        "obtainable": true
+    },
+    "venonat": {
+        "obtainable": true
+    },
+    "venomoth": {
+        "obtainable": true
+    },
+    "diglett": {
+        "obtainable": true
+    },
+    "dugtrio": {
+        "obtainable": true
+    },
+    "meowth": {
+        "obtainable": true
+    },
+    "persian": {
+        "obtainable": true
+    },
+    "psyduck": {
+        "obtainable": true
+    },
+    "golduck": {
+        "obtainable": true
+    },
+    "mankey": {
+        "obtainable": true
+    },
+    "primeape": {
+        "obtainable": true
+    },
+    "growlithe": {
+        "obtainable": true
+    },
+    "arcanine": {
+        "obtainable": true
+    },
+    "poliwag": {
+        "obtainable": true
+    },
+    "poliwhirl": {
+        "obtainable": true
+    },
+    "poliwrath": {
+        "obtainable": true
+    },
+    "abra": {
+        "obtainable": true
+    },
+    "kadabra": {
+        "obtainable": true
+    },
+    "alakazam": {
+        "obtainable": true
+    },
+    "machop": {
+        "obtainable": true
+    },
+    "machoke": {
+        "obtainable": true
+    },
+    "machamp": {
+        "obtainable": true
+    },
+    "bellsprout": {
+        "obtainable": true
+    },
+    "weepinbell": {
+        "obtainable": true
+    },
+    "victreebel": {
+        "obtainable": true
+    },
+    "tentacool": {
+        "obtainable": true
+    },
+    "tentacruel": {
+        "obtainable": true
+    },
+    "geodude": {
+        "obtainable": true
+    },
+    "graveler": {
+        "obtainable": true
+    },
+    "golem": {
+        "obtainable": true
+    },
+    "ponyta": {
+        "obtainable": true
+    },
+    "rapidash": {
+        "obtainable": true
+    },
+    "slowpoke": {
+        "obtainable": true
+    },
+    "slowbro": {
+        "obtainable": true
+    },
+    "magnemite": {
+        "obtainable": true
+    },
+    "magneton": {
+        "obtainable": true
+    },
+    "farfetchd": {
+        "obtainable": true
+    },
+    "doduo": {
+        "obtainable": true
+    },
+    "dodrio": {
+        "obtainable": true
+    },
+    "seel": {
+        "obtainable": true
+    },
+    "dewgong": {
+        "obtainable": true
+    },
+    "grimer": {
+        "obtainable": true
+    },
+    "muk": {
+        "obtainable": true
+    },
+    "shellder": {
+        "obtainable": true
+    },
+    "cloyster": {
+        "obtainable": true
+    },
+    "gastly": {
+        "obtainable": true
+    },
+    "haunter": {
+        "obtainable": true
+    },
+    "gengar": {
+        "obtainable": true
+    },
+    "onix": {
+        "obtainable": true
+    },
+    "drowzee": {
+        "obtainable": true
+    },
+    "hypno": {
+        "obtainable": true
+    },
+    "krabby": {
+        "obtainable": true
+    },
+    "kingler": {
+        "obtainable": true
+    },
+    "voltorb": {
+        "obtainable": true
+    },
+    "electrode": {
+        "obtainable": true
+    },
+    "exeggcute": {
+        "obtainable": true
+    },
+    "exeggutor": {
+        "obtainable": true
+    },
+    "cubone": {
+        "obtainable": true
+    },
+    "marowak": {
+        "obtainable": true
+    },
+    "hitmonlee": {
+        "obtainable": true
+    },
+    "hitmonchan": {
+        "obtainable": true
+    },
+    "lickitung": {
+        "obtainable": true
+    },
+    "koffing": {
+        "obtainable": true
+    },
+    "weezing": {
+        "obtainable": true
+    },
+    "rhyhorn": {
+        "obtainable": true
+    },
+    "rhydon": {
+        "obtainable": true
+    },
+    "chansey": {
+        "obtainable": true
+    },
+    "tangela": {
+        "obtainable": true
+    },
+    "kangaskhan": {
+        "obtainable": true
+    },
+    "horsea": {
+        "obtainable": true
+    },
+    "seadra": {
+        "obtainable": true
+    },
+    "goldeen": {
+        "obtainable": true
+    },
+    "seaking": {
+        "obtainable": true
+    },
+    "staryu": {
+        "obtainable": true
+    },
+    "starmie": {
+        "obtainable": true
+    },
+    "mr-mime": {
+        "obtainable": true
+    },
+    "scyther": {
+        "obtainable": true
+    },
+    "jynx": {
+        "obtainable": true
+    },
+    "electabuzz": {
+        "obtainable": true
+    },
+    "magmar": {
+        "obtainable": true
+    },
+    "pinsir": {
+        "obtainable": true
+    },
+    "tauros": {
+        "obtainable": true
+    },
+    "magikarp": {
+        "obtainable": true
+    },
+    "gyarados": {
+        "obtainable": true
+    },
+    "lapras": {
+        "obtainable": true
+    },
+    "ditto": {
+        "obtainable": true
+    },
+    "eevee": {
+        "obtainable": true
+    },
+    "vaporeon": {
+        "obtainable": true
+    },
+    "jolteon": {
+        "obtainable": true
+    },
+    "flareon": {
+        "obtainable": true
+    },
+    "porygon": {
+        "obtainable": true
+    },
+    "omanyte": {
+        "obtainable": true
+    },
+    "omastar": {
+        "obtainable": true
+    },
+    "kabuto": {
+        "obtainable": true
+    },
+    "kabutops": {
+        "obtainable": true
+    },
+    "aerodactyl": {
+        "obtainable": true
+    },
+    "snorlax": {
+        "obtainable": true
+    },
+    "articuno": {
+        "obtainable": true
+    },
+    "zapdos": {
+        "obtainable": true
+    },
+    "moltres": {
+        "obtainable": true
+    },
+    "dratini": {
+        "obtainable": true
+    },
+    "dragonair": {
+        "obtainable": true
+    },
+    "dragonite": {
+        "obtainable": true
+    },
+    "mewtwo": {
+        "obtainable": true
+    },
+    "mew": {
+        "obtainable": false
+    },
+    "chikorita": {
+        "obtainable": true
+    },
+    "bayleef": {
+        "obtainable": true
+    },
+    "meganium": {
+        "obtainable": true
+    },
+    "cyndaquil": {
+        "obtainable": true
+    },
+    "quilava": {
+        "obtainable": true
+    },
+    "typhlosion": {
+        "obtainable": true
+    },
+    "totodile": {
+        "obtainable": true
+    },
+    "croconaw": {
+        "obtainable": true
+    },
+    "feraligatr": {
+        "obtainable": true
+    },
+    "sentret": {
+        "obtainable": true
+    },
+    "furret": {
+        "obtainable": true
+    },
+    "hoothoot": {
+        "obtainable": true
+    },
+    "noctowl": {
+        "obtainable": true
+    },
+    "ledyba": {
+        "obtainable": true
+    },
+    "ledian": {
+        "obtainable": true
+    },
+    "spinarak": {
+        "obtainable": true
+    },
+    "ariados": {
+        "obtainable": true
+    },
+    "crobat": {
+        "obtainable": true
+    },
+    "chinchou": {
+        "obtainable": true
+    },
+    "lanturn": {
+        "obtainable": true
+    },
+    "pichu": {
+        "obtainable": true
+    },
+    "cleffa": {
+        "obtainable": true
+    },
+    "igglybuff": {
+        "obtainable": true
+    },
+    "togepi": {
+        "obtainable": true
+    },
+    "togetic": {
+        "obtainable": true
+    },
+    "natu": {
+        "obtainable": true
+    },
+    "xatu": {
+        "obtainable": true
+    },
+    "mareep": {
+        "obtainable": true
+    },
+    "flaaffy": {
+        "obtainable": true
+    },
+    "ampharos": {
+        "obtainable": true
+    },
+    "bellossom": {
+        "obtainable": true
+    },
+    "marill": {
+        "obtainable": true
+    },
+    "azumarill": {
+        "obtainable": true
+    },
+    "sudowoodo": {
+        "obtainable": true
+    },
+    "politoed": {
+        "obtainable": true
+    },
+    "hoppip": {
+        "obtainable": true
+    },
+    "skiploom": {
+        "obtainable": true
+    },
+    "jumpluff": {
+        "obtainable": true
+    },
+    "aipom": {
+        "obtainable": true
+    },
+    "sunkern": {
+        "obtainable": true
+    },
+    "sunflora": {
+        "obtainable": true
+    },
+    "yanma": {
+        "obtainable": true
+    },
+    "wooper": {
+        "obtainable": true
+    },
+    "quagsire": {
+        "obtainable": true
+    },
+    "espeon": {
+        "obtainable": true
+    },
+    "umbreon": {
+        "obtainable": true
+    },
+    "murkrow": {
+        "obtainable": true
+    },
+    "slowking": {
+        "obtainable": true
+    },
+    "misdreavus": {
+        "obtainable": true
+    },
+    "unown": {
+        "obtainable": true
+    },
+    "wobbuffet": {
+        "obtainable": true
+    },
+    "girafarig": {
+        "obtainable": true
+    },
+    "pineco": {
+        "obtainable": true
+    },
+    "forretress": {
+        "obtainable": true
+    },
+    "dunsparce": {
+        "obtainable": true
+    },
+    "gligar": {
+        "obtainable": true
+    },
+    "steelix": {
+        "obtainable": true
+    },
+    "snubbull": {
+        "obtainable": true
+    },
+    "granbull": {
+        "obtainable": true
+    },
+    "qwilfish": {
+        "obtainable": true
+    },
+    "scizor": {
+        "obtainable": true
+    },
+    "shuckle": {
+        "obtainable": true
+    },
+    "heracross": {
+        "obtainable": true
+    },
+    "sneasel": {
+        "obtainable": true
+    },
+    "teddiursa": {
+        "obtainable": true
+    },
+    "ursaring": {
+        "obtainable": true
+    },
+    "slugma": {
+        "obtainable": true
+    },
+    "magcargo": {
+        "obtainable": true
+    },
+    "swinub": {
+        "obtainable": true
+    },
+    "piloswine": {
+        "obtainable": true
+    },
+    "corsola": {
+        "obtainable": true
+    },
+    "remoraid": {
+        "obtainable": true
+    },
+    "octillery": {
+        "obtainable": true
+    },
+    "delibird": {
+        "obtainable": true
+    },
+    "mantine": {
+        "obtainable": true
+    },
+    "skarmory": {
+        "obtainable": true
+    },
+    "houndour": {
+        "obtainable": true
+    },
+    "houndoom": {
+        "obtainable": true
+    },
+    "kingdra": {
+        "obtainable": true
+    },
+    "phanpy": {
+        "obtainable": true
+    },
+    "donphan": {
+        "obtainable": true
+    },
+    "porygon2": {
+        "obtainable": true
+    },
+    "stantler": {
+        "obtainable": true
+    },
+    "smeargle": {
+        "obtainable": true
+    },
+    "tyrogue": {
+        "obtainable": true
+    },
+    "hitmontop": {
+        "obtainable": true
+    },
+    "smoochum": {
+        "obtainable": true
+    },
+    "elekid": {
+        "obtainable": true
+    },
+    "magby": {
+        "obtainable": true
+    },
+    "miltank": {
+        "obtainable": true
+    },
+    "blissey": {
+        "obtainable": true
+    },
+    "raikou": {
+        "obtainable": true
+    },
+    "entei": {
+        "obtainable": true
+    },
+    "suicune": {
+        "obtainable": true
+    },
+    "larvitar": {
+        "obtainable": true
+    },
+    "pupitar": {
+        "obtainable": true
+    },
+    "tyranitar": {
+        "obtainable": true
+    },
+    "lugia": {
+        "obtainable": true
+    },
+    "ho-oh": {
+        "obtainable": false
+    },
+    "celebi": {
+        "obtainable": false
+    },
+    "treecko": {
+        "obtainable": true
+    },
+    "grovyle": {
+        "obtainable": true
+    },
+    "sceptile": {
+        "obtainable": true
+    },
+    "torchic": {
+        "obtainable": true
+    },
+    "combusken": {
+        "obtainable": true
+    },
+    "blaziken": {
+        "obtainable": true
+    },
+    "mudkip": {
+        "obtainable": true
+    },
+    "marshtomp": {
+        "obtainable": true
+    },
+    "swampert": {
+        "obtainable": true
+    },
+    "poochyena": {
+        "obtainable": true
+    },
+    "mightyena": {
+        "obtainable": true
+    },
+    "zigzagoon": {
+        "obtainable": true
+    },
+    "linoone": {
+        "obtainable": true
+    },
+    "wurmple": {
+        "obtainable": true
+    },
+    "silcoon": {
+        "obtainable": true
+    },
+    "beautifly": {
+        "obtainable": true
+    },
+    "cascoon": {
+        "obtainable": true
+    },
+    "dustox": {
+        "obtainable": true
+    },
+    "lotad": {
+        "obtainable": true
+    },
+    "lombre": {
+        "obtainable": true
+    },
+    "ludicolo": {
+        "obtainable": true
+    },
+    "seedot": {
+        "obtainable": true
+    },
+    "nuzleaf": {
+        "obtainable": true
+    },
+    "shiftry": {
+        "obtainable": true
+    },
+    "taillow": {
+        "obtainable": true
+    },
+    "swellow": {
+        "obtainable": true
+    },
+    "wingull": {
+        "obtainable": true
+    },
+    "pelipper": {
+        "obtainable": true
+    },
+    "ralts": {
+        "obtainable": true
+    },
+    "kirlia": {
+        "obtainable": true
+    },
+    "gardevoir": {
+        "obtainable": true
+    },
+    "surskit": {
+        "obtainable": true
+    },
+    "masquerain": {
+        "obtainable": true
+    },
+    "shroomish": {
+        "obtainable": true
+    },
+    "breloom": {
+        "obtainable": true
+    },
+    "slakoth": {
+        "obtainable": true
+    },
+    "vigoroth": {
+        "obtainable": true
+    },
+    "slaking": {
+        "obtainable": true
+    },
+    "nincada": {
+        "obtainable": true
+    },
+    "ninjask": {
+        "obtainable": true
+    },
+    "shedinja": {
+        "obtainable": true
+    },
+    "whismur": {
+        "obtainable": true
+    },
+    "loudred": {
+        "obtainable": true
+    },
+    "exploud": {
+        "obtainable": true
+    },
+    "makuhita": {
+        "obtainable": true
+    },
+    "hariyama": {
+        "obtainable": true
+    },
+    "azurill": {
+        "obtainable": true
+    },
+    "nosepass": {
+        "obtainable": true
+    },
+    "skitty": {
+        "obtainable": true
+    },
+    "delcatty": {
+        "obtainable": true
+    },
+    "sableye": {
+        "obtainable": true
+    },
+    "mawile": {
+        "obtainable": true
+    },
+    "aron": {
+        "obtainable": true
+    },
+    "lairon": {
+        "obtainable": true
+    },
+    "aggron": {
+        "obtainable": true
+    },
+    "meditite": {
+        "obtainable": true
+    },
+    "medicham": {
+        "obtainable": true
+    },
+    "electrike": {
+        "obtainable": true
+    },
+    "manectric": {
+        "obtainable": true
+    },
+    "plusle": {
+        "obtainable": true
+    },
+    "minun": {
+        "obtainable": true
+    },
+    "volbeat": {
+        "obtainable": true
+    },
+    "illumise": {
+        "obtainable": true
+    },
+    "roselia": {
+        "obtainable": true
+    },
+    "gulpin": {
+        "obtainable": true
+    },
+    "swalot": {
+        "obtainable": true
+    },
+    "carvanha": {
+        "obtainable": true
+    },
+    "sharpedo": {
+        "obtainable": true
+    },
+    "wailmer": {
+        "obtainable": true
+    },
+    "wailord": {
+        "obtainable": true
+    },
+    "numel": {
+        "obtainable": true
+    },
+    "camerupt": {
+        "obtainable": true
+    },
+    "torkoal": {
+        "obtainable": true
+    },
+    "spoink": {
+        "obtainable": true
+    },
+    "grumpig": {
+        "obtainable": true
+    },
+    "spinda": {
+        "obtainable": true
+    },
+    "trapinch": {
+        "obtainable": true
+    },
+    "vibrava": {
+        "obtainable": true
+    },
+    "flygon": {
+        "obtainable": true
+    },
+    "cacnea": {
+        "obtainable": true
+    },
+    "cacturne": {
+        "obtainable": true
+    },
+    "swablu": {
+        "obtainable": true
+    },
+    "altaria": {
+        "obtainable": true
+    },
+    "zangoose": {
+        "obtainable": true
+    },
+    "seviper": {
+        "obtainable": true
+    },
+    "lunatone": {
+        "obtainable": true
+    },
+    "solrock": {
+        "obtainable": true
+    },
+    "barboach": {
+        "obtainable": true
+    },
+    "whiscash": {
+        "obtainable": true
+    },
+    "corphish": {
+        "obtainable": true
+    },
+    "crawdaunt": {
+        "obtainable": true
+    },
+    "baltoy": {
+        "obtainable": true
+    },
+    "claydol": {
+        "obtainable": true
+    },
+    "lileep": {
+        "obtainable": true
+    },
+    "cradily": {
+        "obtainable": true
+    },
+    "anorith": {
+        "obtainable": true
+    },
+    "armaldo": {
+        "obtainable": true
+    },
+    "feebas": {
+        "obtainable": true
+    },
+    "milotic": {
+        "obtainable": true
+    },
+    "castform": {
+        "obtainable": false
+    },
+    "kecleon": {
+        "obtainable": true
+    },
+    "shuppet": {
+        "obtainable": true
+    },
+    "banette": {
+        "obtainable": true
+    },
+    "duskull": {
+        "obtainable": true
+    },
+    "dusclops": {
+        "obtainable": true
+    },
+    "tropius": {
+        "obtainable": true
+    },
+    "chimecho": {
+        "obtainable": true
+    },
+    "absol": {
+        "obtainable": true
+    },
+    "wynaut": {
+        "obtainable": true
+    },
+    "snorunt": {
+        "obtainable": true
+    },
+    "glalie": {
+        "obtainable": true
+    },
+    "spheal": {
+        "obtainable": true
+    },
+    "sealeo": {
+        "obtainable": true
+    },
+    "walrein": {
+        "obtainable": true
+    },
+    "clamperl": {
+        "obtainable": true
+    },
+    "huntail": {
+        "obtainable": true
+    },
+    "gorebyss": {
+        "obtainable": true
+    },
+    "relicanth": {
+        "obtainable": true
+    },
+    "luvdisc": {
+        "obtainable": true
+    },
+    "bagon": {
+        "obtainable": true
+    },
+    "shelgon": {
+        "obtainable": true
+    },
+    "salamence": {
+        "obtainable": true
+    },
+    "beldum": {
+        "obtainable": true
+    },
+    "metang": {
+        "obtainable": true
+    },
+    "metagross": {
+        "obtainable": true
+    },
+    "regirock": {
+        "obtainable": false
+    },
+    "regice": {
+        "obtainable": false
+    },
+    "registeel": {
+        "obtainable": false
+    },
+    "latias": {
+        "obtainable": false
+    },
+    "latios": {
+        "obtainable": false
+    },
+    "kyogre": {
+        "obtainable": false
+    },
+    "groudon": {
+        "obtainable": false
+    },
+    "rayquaza": {
+        "obtainable": true
+    },
+    "jirachi": {
+        "obtainable": false
+    },
+    "deoxys": {
+        "obtainable": false
+    },
+    "turtwig": {
+        "obtainable": true
+    },
+    "grotle": {
+        "obtainable": true
+    },
+    "torterra": {
+        "obtainable": true
+    },
+    "chimchar": {
+        "obtainable": true
+    },
+    "monferno": {
+        "obtainable": true
+    },
+    "infernape": {
+        "obtainable": true
+    },
+    "piplup": {
+        "obtainable": true
+    },
+    "prinplup": {
+        "obtainable": true
+    },
+    "empoleon": {
+        "obtainable": true
+    },
+    "starly": {
+        "obtainable": true
+    },
+    "staravia": {
+        "obtainable": true
+    },
+    "staraptor": {
+        "obtainable": true
+    },
+    "bidoof": {
+        "obtainable": true
+    },
+    "bibarel": {
+        "obtainable": true
+    },
+    "kricketot": {
+        "obtainable": true
+    },
+    "kricketune": {
+        "obtainable": true
+    },
+    "shinx": {
+        "obtainable": true
+    },
+    "luxio": {
+        "obtainable": true
+    },
+    "luxray": {
+        "obtainable": true
+    },
+    "budew": {
+        "obtainable": true
+    },
+    "roserade": {
+        "obtainable": true
+    },
+    "cranidos": {
+        "obtainable": true
+    },
+    "rampardos": {
+        "obtainable": true
+    },
+    "shieldon": {
+        "obtainable": true
+    },
+    "bastiodon": {
+        "obtainable": true
+    },
+    "burmy": {
+        "obtainable": true
+    },
+    "wormadam": {
+        "obtainable": false
+    },
+    "mothim": {
+        "obtainable": true
+    },
+    "combee": {
+        "obtainable": true
+    },
+    "vespiquen": {
+        "obtainable": true
+    },
+    "pachirisu": {
+        "obtainable": true
+    },
+    "buizel": {
+        "obtainable": true
+    },
+    "floatzel": {
+        "obtainable": true
+    },
+    "cherubi": {
+        "obtainable": true
+    },
+    "cherrim": {
+        "obtainable": true
+    },
+    "shellos": {
+        "obtainable": true
+    },
+    "gastrodon": {
+        "obtainable": true
+    },
+    "ambipom": {
+        "obtainable": true
+    },
+    "drifloon": {
+        "obtainable": true
+    },
+    "drifblim": {
+        "obtainable": true
+    },
+    "buneary": {
+        "obtainable": true
+    },
+    "lopunny": {
+        "obtainable": true
+    },
+    "mismagius": {
+        "obtainable": true
+    },
+    "honchkrow": {
+        "obtainable": true
+    },
+    "glameow": {
+        "obtainable": true
+    },
+    "purugly": {
+        "obtainable": true
+    },
+    "chingling": {
+        "obtainable": true
+    },
+    "stunky": {
+        "obtainable": true
+    },
+    "skuntank": {
+        "obtainable": true
+    },
+    "bronzor": {
+        "obtainable": true
+    },
+    "bronzong": {
+        "obtainable": true
+    },
+    "bonsly": {
+        "obtainable": true
+    },
+    "mime-jr": {
+        "obtainable": true
+    },
+    "happiny": {
+        "obtainable": true
+    },
+    "chatot": {
+        "obtainable": true
+    },
+    "spiritomb": {
+        "obtainable": true
+    },
+    "gible": {
+        "obtainable": true
+    },
+    "gabite": {
+        "obtainable": true
+    },
+    "garchomp": {
+        "obtainable": true
+    },
+    "munchlax": {
+        "obtainable": true
+    },
+    "riolu": {
+        "obtainable": true
+    },
+    "lucario": {
+        "obtainable": true
+    },
+    "hippopotas": {
+        "obtainable": true
+    },
+    "hippowdon": {
+        "obtainable": true
+    },
+    "skorupi": {
+        "obtainable": true
+    },
+    "drapion": {
+        "obtainable": true
+    },
+    "croagunk": {
+        "obtainable": true
+    },
+    "toxicroak": {
+        "obtainable": true
+    },
+    "carnivine": {
+        "obtainable": true
+    },
+    "finneon": {
+        "obtainable": true
+    },
+    "lumineon": {
+        "obtainable": true
+    },
+    "mantyke": {
+        "obtainable": true
+    },
+    "snover": {
+        "obtainable": true
+    },
+    "abomasnow": {
+        "obtainable": true
+    },
+    "weavile": {
+        "obtainable": true
+    },
+    "magnezone": {
+        "obtainable": true
+    },
+    "lickilicky": {
+        "obtainable": true
+    },
+    "rhyperior": {
+        "obtainable": true
+    },
+    "tangrowth": {
+        "obtainable": true
+    },
+    "electivire": {
+        "obtainable": true
+    },
+    "magmortar": {
+        "obtainable": true
+    },
+    "togekiss": {
+        "obtainable": true
+    },
+    "yanmega": {
+        "obtainable": true
+    },
+    "leafeon": {
+        "obtainable": true
+    },
+    "glaceon": {
+        "obtainable": true
+    },
+    "gliscor": {
+        "obtainable": true
+    },
+    "mamoswine": {
+        "obtainable": true
+    },
+    "porygon-z": {
+        "obtainable": true
+    },
+    "gallade": {
+        "obtainable": true
+    },
+    "probopass": {
+        "obtainable": true
+    },
+    "dusknoir": {
+        "obtainable": true
+    },
+    "froslass": {
+        "obtainable": true
+    },
+    "rotom": {
+        "obtainable": false
+    },
+    "uxie": {
+        "obtainable": false
+    },
+    "mesprit": {
+        "obtainable": false
+    },
+    "azelf": {
+        "obtainable": false
+    },
+    "dialga": {
+        "obtainable": false
+    },
+    "palkia": {
+        "obtainable": false
+    },
+    "heatran": {
+        "obtainable": false
+    },
+    "regigigas": {
+        "obtainable": false
+    },
+    "giratina": {
+        "obtainable": false
+    },
+    "cresselia": {
+        "obtainable": false
+    },
+    "phione": {
+        "obtainable": false
+    },
+    "manaphy": {
+        "obtainable": false
+    },
+    "darkrai": {
+        "obtainable": false
+    },
+    "shaymin": {
+        "obtainable": false
+    },
+    "arceus": {
+        "obtainable": true
+    },
+    "victini": {
+        "obtainable": false
+    },
+    "snivy": {
+        "obtainable": true
+    },
+    "servine": {
+        "obtainable": true
+    },
+    "serperior": {
+        "obtainable": true
+    },
+    "tepig": {
+        "obtainable": true
+    },
+    "pignite": {
+        "obtainable": true
+    },
+    "emboar": {
+        "obtainable": true
+    },
+    "oshawott": {
+        "obtainable": true
+    },
+    "dewott": {
+        "obtainable": true
+    },
+    "samurott": {
+        "obtainable": true
+    },
+    "patrat": {
+        "obtainable": true
+    },
+    "watchog": {
+        "obtainable": true
+    },
+    "lillipup": {
+        "obtainable": true
+    },
+    "herdier": {
+        "obtainable": true
+    },
+    "stoutland": {
+        "obtainable": true
+    },
+    "purrloin": {
+        "obtainable": true
+    },
+    "liepard": {
+        "obtainable": true
+    },
+    "pansage": {
+        "obtainable": true
+    },
+    "simisage": {
+        "obtainable": true
+    },
+    "pansear": {
+        "obtainable": true
+    },
+    "simisear": {
+        "obtainable": true
+    },
+    "panpour": {
+        "obtainable": true
+    },
+    "simipour": {
+        "obtainable": true
+    },
+    "munna": {
+        "obtainable": true
+    },
+    "musharna": {
+        "obtainable": true
+    },
+    "pidove": {
+        "obtainable": true
+    },
+    "tranquill": {
+        "obtainable": true
+    },
+    "unfezant": {
+        "obtainable": true
+    },
+    "blitzle": {
+        "obtainable": true
+    },
+    "zebstrika": {
+        "obtainable": true
+    },
+    "roggenrola": {
+        "obtainable": true
+    },
+    "boldore": {
+        "obtainable": true
+    },
+    "gigalith": {
+        "obtainable": true
+    },
+    "woobat": {
+        "obtainable": true
+    },
+    "swoobat": {
+        "obtainable": true
+    },
+    "drilbur": {
+        "obtainable": true
+    },
+    "excadrill": {
+        "obtainable": true
+    },
+    "audino": {
+        "obtainable": true
+    },
+    "timburr": {
+        "obtainable": true
+    },
+    "gurdurr": {
+        "obtainable": true
+    },
+    "conkeldurr": {
+        "obtainable": true
+    },
+    "tympole": {
+        "obtainable": true
+    },
+    "palpitoad": {
+        "obtainable": true
+    },
+    "seismitoad": {
+        "obtainable": true
+    },
+    "throh": {
+        "obtainable": true
+    },
+    "sawk": {
+        "obtainable": true
+    },
+    "sewaddle": {
+        "obtainable": true
+    },
+    "swadloon": {
+        "obtainable": true
+    },
+    "leavanny": {
+        "obtainable": true
+    },
+    "venipede": {
+        "obtainable": true
+    },
+    "whirlipede": {
+        "obtainable": true
+    },
+    "scolipede": {
+        "obtainable": true
+    },
+    "cottonee": {
+        "obtainable": true
+    },
+    "whimsicott": {
+        "obtainable": true
+    },
+    "petilil": {
+        "obtainable": true
+    },
+    "lilligant": {
+        "obtainable": true
+    },
+    "basculin": {
+        "obtainable": false
+    },
+    "sandile": {
+        "obtainable": true
+    },
+    "krokorok": {
+        "obtainable": true
+    },
+    "krookodile": {
+        "obtainable": true
+    },
+    "darumaka": {
+        "obtainable": true
+    },
+    "darmanitan": {
+        "obtainable": false
+    },
+    "maractus": {
+        "obtainable": true
+    },
+    "dwebble": {
+        "obtainable": true
+    },
+    "crustle": {
+        "obtainable": true
+    },
+    "scraggy": {
+        "obtainable": true
+    },
+    "scrafty": {
+        "obtainable": true
+    },
+    "sigilyph": {
+        "obtainable": true
+    },
+    "yamask": {
+        "obtainable": true
+    },
+    "cofagrigus": {
+        "obtainable": true
+    },
+    "tirtouga": {
+        "obtainable": true
+    },
+    "carracosta": {
+        "obtainable": true
+    },
+    "archen": {
+        "obtainable": true
+    },
+    "archeops": {
+        "obtainable": true
+    },
+    "trubbish": {
+        "obtainable": true
+    },
+    "garbodor": {
+        "obtainable": true
+    },
+    "zorua": {
+        "obtainable": true
+    },
+    "zoroark": {
+        "obtainable": true
+    },
+    "minccino": {
+        "obtainable": true
+    },
+    "cinccino": {
+        "obtainable": true
+    },
+    "gothita": {
+        "obtainable": true
+    },
+    "gothorita": {
+        "obtainable": true
+    },
+    "gothitelle": {
+        "obtainable": true
+    },
+    "solosis": {
+        "obtainable": true
+    },
+    "duosion": {
+        "obtainable": true
+    },
+    "reuniclus": {
+        "obtainable": true
+    },
+    "ducklett": {
+        "obtainable": true
+    },
+    "swanna": {
+        "obtainable": true
+    },
+    "vanillite": {
+        "obtainable": true
+    },
+    "vanillish": {
+        "obtainable": true
+    },
+    "vanilluxe": {
+        "obtainable": true
+    },
+    "deerling": {
+        "obtainable": true
+    },
+    "sawsbuck": {
+        "obtainable": true
+    },
+    "emolga": {
+        "obtainable": true
+    },
+    "karrablast": {
+        "obtainable": true
+    },
+    "escavalier": {
+        "obtainable": true
+    },
+    "foongus": {
+        "obtainable": true
+    },
+    "amoonguss": {
+        "obtainable": true
+    },
+    "frillish": {
+        "obtainable": true
+    },
+    "jellicent": {
+        "obtainable": true
+    },
+    "alomomola": {
+        "obtainable": true
+    },
+    "joltik": {
+        "obtainable": true
+    },
+    "galvantula": {
+        "obtainable": true
+    },
+    "ferroseed": {
+        "obtainable": true
+    },
+    "ferrothorn": {
+        "obtainable": true
+    },
+    "klink": {
+        "obtainable": true
+    },
+    "klang": {
+        "obtainable": true
+    },
+    "klinklang": {
+        "obtainable": true
+    },
+    "tynamo": {
+        "obtainable": true
+    },
+    "eelektrik": {
+        "obtainable": true
+    },
+    "eelektross": {
+        "obtainable": true
+    },
+    "elgyem": {
+        "obtainable": true
+    },
+    "beheeyem": {
+        "obtainable": true
+    },
+    "litwick": {
+        "obtainable": true
+    },
+    "lampent": {
+        "obtainable": true
+    },
+    "chandelure": {
+        "obtainable": true
+    },
+    "axew": {
+        "obtainable": true
+    },
+    "fraxure": {
+        "obtainable": true
+    },
+    "haxorus": {
+        "obtainable": true
+    },
+    "cubchoo": {
+        "obtainable": true
+    },
+    "beartic": {
+        "obtainable": true
+    },
+    "cryogonal": {
+        "obtainable": true
+    },
+    "shelmet": {
+        "obtainable": true
+    },
+    "accelgor": {
+        "obtainable": true
+    },
+    "stunfisk": {
+        "obtainable": true
+    },
+    "mienfoo": {
+        "obtainable": true
+    },
+    "mienshao": {
+        "obtainable": true
+    },
+    "druddigon": {
+        "obtainable": true
+    },
+    "golett": {
+        "obtainable": true
+    },
+    "golurk": {
+        "obtainable": true
+    },
+    "pawniard": {
+        "obtainable": true
+    },
+    "bisharp": {
+        "obtainable": true
+    },
+    "bouffalant": {
+        "obtainable": true
+    },
+    "rufflet": {
+        "obtainable": true
+    },
+    "braviary": {
+        "obtainable": true
+    },
+    "vullaby": {
+        "obtainable": true
+    },
+    "mandibuzz": {
+        "obtainable": true
+    },
+    "heatmor": {
+        "obtainable": true
+    },
+    "durant": {
+        "obtainable": true
+    },
+    "deino": {
+        "obtainable": true
+    },
+    "zweilous": {
+        "obtainable": true
+    },
+    "hydreigon": {
+        "obtainable": true
+    },
+    "larvesta": {
+        "obtainable": true
+    },
+    "volcarona": {
+        "obtainable": true
+    },
+    "cobalion": {
+        "obtainable": false
+    },
+    "terrakion": {
+        "obtainable": false
+    },
+    "virizion": {
+        "obtainable": false
+    },
+    "tornadus": {
+        "obtainable": false
+    },
+    "thundurus": {
+        "obtainable": false
+    },
+    "reshiram": {
+        "obtainable": false
+    },
+    "zekrom": {
+        "obtainable": true
+    },
+    "landorus": {
+        "obtainable": false
+    },
+    "kyurem": {
+        "obtainable": false
+    },
+    "keldeo": {
+        "obtainable": true
+    },
+    "meloetta": {
+        "obtainable": false
+    },
+    "genesect": {
+        "obtainable": false
+    },
+    "pumpking": {
+        "obtainable": false
+    },
+    "fighting elfbot": {
+        "obtainable": false
+    },
+    "flying elfbot": {
+        "obtainable": false
+    },
+    "poison elfbot": {
+        "obtainable": false
+    },
+    "ground elfbot": {
+        "obtainable": false
+    },
+    "rock elfbot": {
+        "obtainable": false
+    },
+    "bug elfbot": {
+        "obtainable": false
+    },
+    "ghost elfbot": {
+        "obtainable": false
+    },
+    "steel elfbot": {
+        "obtainable": false
+    },
+    "fire elfbot": {
+        "obtainable": false
+    },
+    "water elfbot": {
+        "obtainable": false
+    },
+    "grass elfbot": {
+        "obtainable": false
+    },
+    "electric elfbot": {
+        "obtainable": false
+    },
+    "psychic elfbot": {
+        "obtainable": false
+    },
+    "ice elfbot": {
+        "obtainable": false
+    },
+    "dragon elfbot": {
+        "obtainable": false
+    },
+    "dark elfbot": {
+        "obtainable": false
+    },
+    "pumprince": {
+        "obtainable": false
+    },
+    "pumprincess": {
+        "obtainable": false
+    },
+    "li'l pump": {
+        "obtainable": false
+    },
+    "???": {
+        "obtainable": false
+    },
+    "nian": {
+        "obtainable": false
+    },
+    "jumpeon": {
+        "obtainable": false
+    },
+    "circuitree": {
+        "obtainable": false
+    },
+    "robosanta": {
+        "obtainable": false
+    },
+    "mountain muncher": {
+        "obtainable": false
+    },
+    "normal elfbot": {
+        "obtainable": false
+    },
+    "pumpaladin": {
+        "obtainable": false
+    },
+    "pumpmage": {
+        "obtainable": false
+    },
+    "pumpreaper": {
+        "obtainable": false
+    },
+    "botcracker": {
+        "obtainable": false
+    },
+    "pumpthief": {
+        "obtainable": false
+    },
+    "debug_st1000": {
+        "obtainable": false
+    }
+}
