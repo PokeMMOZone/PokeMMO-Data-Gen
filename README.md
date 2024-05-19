@@ -28,6 +28,9 @@ It is very important that data in this project be as accurate as possible. If yo
 - `generate_types_data.py`: This script generates types-data.json.
 - `generate_obtainable_data.py`: This script generates obtainable-data.json.
 - `generate_locations.py`: This script generates the locations.json that is used by the other scripts.
+- `generate_location_rarities.py`: This script generates location-rarities.json.
+- `generate_location_regions.py`: This script generates location-regions.json.
+- `generate_location_types.py`: This script generates location-types.json.
 - `generate_obtainable_pokemon.py`: This script generates the obtainable_pokemon.json that is used by the other scripts.
 - `generate_gender_rates.py`: This script generates gender-rates.json.
 - `download_PokeAPI_natures.py`: This script generates natures-data.json.
