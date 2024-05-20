@@ -12,11 +12,11 @@ GENDER_RATE_MAPPING = {
     0: {"name": "0% Female, 100% Male", "female_percentage": 0, "male_percentage": 100, "pokemon_list": []},
     1: {"name": "12.5% Female, 87.5% Male", "female_percentage": 12.5, "male_percentage": 87.5, "pokemon_list": []},
     2: {"name": "25% Female, 75% Male", "female_percentage": 25, "male_percentage": 75, "pokemon_list": []},
-    3: {"name": "37.5% Female, 62.5% Male", "female_percentage": 37.5, "male_percentage": 62.5, "pokemon_list": []},
+    # 3: {"name": "37.5% Female, 62.5% Male", "female_percentage": 37.5, "male_percentage": 62.5, "pokemon_list": []},
     4: {"name": "50% Female, 50% Male", "female_percentage": 50, "male_percentage": 50, "pokemon_list": []},
-    5: {"name": "62.5% Female, 37.5% Male", "female_percentage": 62.5, "male_percentage": 37.5, "pokemon_list": []},
+    # 5: {"name": "62.5% Female, 37.5% Male", "female_percentage": 62.5, "male_percentage": 37.5, "pokemon_list": []},
     6: {"name": "75% Female, 25% Male", "female_percentage": 75, "male_percentage": 25, "pokemon_list": []},
-    7: {"name": "87.5% Female, 12.5% Male", "female_percentage": 87.5, "male_percentage": 12.5, "pokemon_list": []},
+    # 7: {"name": "87.5% Female, 12.5% Male", "female_percentage": 87.5, "male_percentage": 12.5, "pokemon_list": []},
     8: {"name": "100% Female, 0% Male", "female_percentage": 100, "male_percentage": 0, "pokemon_list": []}
 }
 
