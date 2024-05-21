@@ -1017,7 +1017,7 @@
     "moltres": {
         "pvp": [
             {
-                "tier": "UU"
+                "tier": "NU"
             }
         ]
     },
@@ -1360,7 +1360,7 @@
     "quagsire": {
         "pvp": [
             {
-                "tier": "NU"
+                "tier": "UU"
             }
         ]
     },
@@ -1794,7 +1794,7 @@
     "blaziken": {
         "pvp": [
             {
-                "tier": "UU"
+                "tier": "NU"
             }
         ]
     },
@@ -2606,7 +2606,7 @@
     "salamence": {
         "pvp": [
             {
-                "tier": "OU"
+                "tier": "UU"
             }
         ]
     },
@@ -2760,7 +2760,7 @@
     "empoleon": {
         "pvp": [
             {
-                "tier": "UU"
+                "tier": "OU"
             }
         ]
     },
@@ -3054,7 +3054,7 @@
     "bronzong": {
         "pvp": [
             {
-                "tier": "OU"
+                "tier": "UU"
             }
         ]
     },
@@ -3278,7 +3278,7 @@
     "yanmega": {
         "pvp": [
             {
-                "tier": "UU"
+                "tier": "NU"
             }
         ]
     },
@@ -3677,7 +3677,7 @@
     "gigalith": {
         "pvp": [
             {
-                "tier": "UU"
+                "tier": "NU"
             }
         ]
     },
@@ -3992,7 +3992,7 @@
     "zoroark": {
         "pvp": [
             {
-                "tier": "UU"
+                "tier": "NU"
             }
         ]
     },
