@@ -39,6 +39,15 @@
             }
         ]
     },
+    "beldum": {
+        "capture_rate": 25
+    },
+    "metang": {
+        "capture_rate": 20
+    },
+    "metagross": {
+        "capture_rate": 15
+    },
     "farfetchd": {
         "obtainable": true
     },
