@@ -58,6 +58,7 @@ scripts_to_run = [
     os.path.join(current_dir, "generate_location_regions.py"),
     os.path.join(current_dir, "generate_location_types.py"),
     os.path.join(current_dir, "generate_obtainable_data.py"),
+    os.path.join(current_dir, "generate_held_items.py"),
     os.path.join(current_dir, "download_PokeAPI_natures.py"),
     os.path.join(current_dir, "generate_gender_rates.py"),
     os.path.join(current_dir, "download_PokeAPI_sprites.py"),
