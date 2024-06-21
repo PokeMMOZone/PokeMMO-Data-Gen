@@ -1,6 +1,8 @@
 import requests
 import json
 import os
+import time
+from requests.exceptions import SSLError
 
 # Constants
 BASE_URL = "https://pokeapi.co/api/v2/nature/"
@@ -13,12 +15,29 @@ if not os.path.exists(DATA_SAVE_PATH):
     os.makedirs(DATA_SAVE_PATH)
 
 
+def request_with_retry(url):
+    while True:
+        try:
+            response = requests.get(url)
+            return response
+        except (SSLError, requests.exceptions.ReadTimeout) as e:
+            if "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol" in str(
+                e
+            ) or isinstance(
+                e, requests.exceptions.ReadTimeout
+            ):
+                print(f"Encountered error: {e}. Retrying in 60 seconds...")
+                time.sleep(60)
+            else:
+                raise
+
+
 def get_all_natures():
     natures = []
     next_url = BASE_URL  # Start with the initial URL
 
     while next_url:
-        response = requests.get(next_url)
+        response = request_with_retry(next_url)
         if response.status_code == 200:
             data = response.json()
             natures.extend(data.get("results", []))
@@ -31,7 +50,7 @@ def get_all_natures():
 
 
 def get_nature_data(nature_name):
-    response = requests.get(f"{BASE_URL}{nature_name}")
+    response = request_with_retry(f"{BASE_URL}{nature_name}")
     if response.status_code == 200:
         return response.json()
     else:
@@ -40,10 +59,26 @@ def get_nature_data(nature_name):
 
 
 def process_nature_data(raw_data):
-    increased_stat = raw_data.get("increased_stat", {}).get("name") if raw_data.get("increased_stat") else None
-    decreased_stat = raw_data.get("decreased_stat", {}).get("name") if raw_data.get("decreased_stat") else None
-    likes_flavor = raw_data.get("likes_flavor", {}).get("name") if raw_data.get("likes_flavor") else None
-    hates_flavor = raw_data.get("hates_flavor", {}).get("name") if raw_data.get("hates_flavor") else None
+    increased_stat = (
+        raw_data.get("increased_stat", {}).get("name")
+        if raw_data.get("increased_stat")
+        else None
+    )
+    decreased_stat = (
+        raw_data.get("decreased_stat", {}).get("name")
+        if raw_data.get("decreased_stat")
+        else None
+    )
+    likes_flavor = (
+        raw_data.get("likes_flavor", {}).get("name")
+        if raw_data.get("likes_flavor")
+        else None
+    )
+    hates_flavor = (
+        raw_data.get("hates_flavor", {}).get("name")
+        if raw_data.get("hates_flavor")
+        else None
+    )
 
     move_battle_styles = [
         {

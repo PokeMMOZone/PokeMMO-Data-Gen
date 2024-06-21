@@ -1,6 +1,8 @@
 import requests
 import json
 import os
+import time
+from requests.exceptions import SSLError
 
 # Base URLs for the PokeAPI
 POKEMON_BASE_URL = "https://pokeapi.co/api/v2/pokemon/"
@@ -9,8 +11,25 @@ DATA_SAVE_PATH = "./data/"
 SPRITES_FILE = "pokemon-sprites.json"
 
 
+def request_with_retry(url):
+    while True:
+        try:
+            response = requests.get(url)
+            return response
+        except (SSLError, requests.exceptions.ReadTimeout) as e:
+            if "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol" in str(
+                e
+            ) or isinstance(
+                e, requests.exceptions.ReadTimeout
+            ):
+                print(f"Encountered error: {e}. Retrying in 60 seconds...")
+                time.sleep(60)
+            else:
+                raise
+
+
 def is_in_first_five_generations(species_url):
-    response = requests.get(species_url)
+    response = request_with_retry(species_url)
     if response.status_code == 200:
         species_data = response.json()
         generation_url = species_data["generation"]["url"]
@@ -20,7 +39,7 @@ def is_in_first_five_generations(species_url):
 
 
 def process_varieties(species_id):
-    response = requests.get(POKEMON_SPECIES_URL + str(species_id))
+    response = request_with_retry(POKEMON_SPECIES_URL + str(species_id))
     if response.status_code == 200:
         species_data = response.json()
         varieties = species_data["varieties"]
@@ -56,7 +75,7 @@ def process_varieties(species_id):
                     "-totem",
                     "palkia-origin",
                     "dialga-origin",
-                    "basculin-white-striped"
+                    "basculin-white-striped",
                 ]
             ):
                 continue
@@ -70,7 +89,7 @@ def process_varieties(species_id):
 
 
 def get_pokemon_sprites(pokemon_id):
-    response = requests.get(POKEMON_BASE_URL + str(pokemon_id))
+    response = request_with_retry(POKEMON_BASE_URL + str(pokemon_id))
     if response.status_code == 200:
         pokemon_data = response.json()
         sprites = pokemon_data.get("sprites", {})
@@ -88,7 +107,7 @@ def save_sprites_data(sprites_data):
 def main():
     os.makedirs(DATA_SAVE_PATH, exist_ok=True)
 
-    response = requests.get(POKEMON_BASE_URL)
+    response = request_with_retry(POKEMON_BASE_URL)
     total_count = response.json()["count"]
 
     all_sprites_data = {}

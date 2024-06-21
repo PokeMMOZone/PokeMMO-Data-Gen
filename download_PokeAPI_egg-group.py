@@ -1,5 +1,7 @@
 import requests
 import json
+import time
+from requests.exceptions import SSLError
 
 # Base URLs for the PokeAPI
 EGG_GROUP_BASE_URL = "https://pokeapi.co/api/v2/egg-group/"
@@ -30,9 +32,26 @@ EGG_GROUP_NAME_LOOKUP = {
 species_egg_group_updates = {
     292: {"name": "shedinja", "egg_groups": [15]},  # Shedinja
     30: {"name": "nidorina", "egg_groups": [1, 5]},  # Nidorina
-    31: {"name": "nidoqueen", "egg_groups": [1, 5]}  # Nidoqueen
+    31: {"name": "nidoqueen", "egg_groups": [1, 5]},  # Nidoqueen
     # Add more species and their new egg group IDs here
 }
+
+
+def request_with_retry(url):
+    while True:
+        try:
+            response = requests.get(url)
+            return response
+        except (SSLError, requests.exceptions.ReadTimeout) as e:
+            if "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol" in str(
+                e
+            ) or isinstance(
+                e, requests.exceptions.ReadTimeout
+            ):
+                print(f"Encountered error: {e}. Retrying in 60 seconds...")
+                time.sleep(60)
+            else:
+                raise
 
 
 def save_data(data, file_name):
@@ -41,7 +60,7 @@ def save_data(data, file_name):
 
 
 def is_in_first_five_generations(species_id):
-    response = requests.get(POKEMON_SPECIES_BASE_URL + str(species_id))
+    response = request_with_retry(POKEMON_SPECIES_BASE_URL + str(species_id))
     if response.status_code == 200:
         species_data = response.json()
         generation_number = int(species_data["generation"]["url"].split("/")[-2])
@@ -83,7 +102,7 @@ def get_egg_group_data():
     all_egg_groups = {}
 
     # Get the total count of egg groups
-    response = requests.get(EGG_GROUP_BASE_URL)
+    response = request_with_retry(EGG_GROUP_BASE_URL)
     if response.status_code != 200:
         print("Failed to retrieve data")
         return
@@ -92,7 +111,7 @@ def get_egg_group_data():
 
     # Loop through all egg groups
     for i in range(1, total_egg_groups + 1):
-        egg_group_response = requests.get(EGG_GROUP_BASE_URL + str(i))
+        egg_group_response = request_with_retry(EGG_GROUP_BASE_URL + str(i))
         if egg_group_response.status_code == 200:
             egg_group_data = egg_group_response.json()
 

@@ -1,6 +1,8 @@
 import requests
 import json
 import os
+import time
+from requests.exceptions import SSLError
 
 # Constants
 BASE_URL = "https://pokeapi.co/api/v2/move/"
@@ -9,6 +11,23 @@ OUTPUT_FILE = "moves-data.json"
 current_dir = os.path.dirname(os.path.abspath(__file__))
 info_directory = os.path.join(current_dir, "dump/info")
 skills_file = os.path.join(info_directory, "skills.json")
+
+
+def request_with_retry(url):
+    while True:
+        try:
+            response = requests.get(url)
+            return response
+        except (SSLError, requests.exceptions.ReadTimeout) as e:
+            if "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol" in str(
+                e
+            ) or isinstance(
+                e, requests.exceptions.ReadTimeout
+            ):
+                print(f"Encountered error: {e}. Retrying in 60 seconds...")
+                time.sleep(60)
+            else:
+                raise
 
 
 def load_skills():
@@ -24,13 +43,12 @@ def get_skill_data_by_id(move_id, skills):
     return None
 
 
-
 def get_all_moves():
     moves = []
     next_url = BASE_URL  # Start with the initial URL
 
     while next_url:
-        response = requests.get(next_url)
+        response = request_with_retry(next_url)
         if response.status_code == 200:
             data = response.json()
             moves.extend(data.get("results", []))
@@ -43,7 +61,7 @@ def get_all_moves():
 
 
 def get_move_data(move_name):
-    response = requests.get(f"{BASE_URL}{move_name}")
+    response = request_with_retry(f"{BASE_URL}{move_name}")
     if response.status_code == 200:
         return response.json()
     else:
@@ -71,7 +89,9 @@ def process_move_data(raw_data, skills):
     processed_data = {
         "id": raw_data.get("id"),
         "name": raw_data.get("name"),
-        "accuracy": skill_data["base_accuracy"] if skill_data else raw_data.get("accuracy"),
+        "accuracy": (
+            skill_data["base_accuracy"] if skill_data else raw_data.get("accuracy")
+        ),
         "effect_chance": raw_data.get("effect_chance"),
         "pp": skill_data["base_pp"] if skill_data else raw_data.get("pp"),
         "priority": raw_data.get("priority"),

@@ -1,6 +1,8 @@
 import requests
 import json
 import os
+import time
+from requests.exceptions import SSLError
 
 # Base URLs for the PokeAPI
 current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -335,13 +337,30 @@ alpha_list = [
 egg_group_updates = {
     "shedinja": ["cannot-breed"],
     "nidorina": ["monster", "field"],
-    "nidoqueen": ["monster", "field"]
+    "nidoqueen": ["monster", "field"],
     # Add more Pokémon and their updated egg groups here
 }
 
 
+def request_with_retry(url):
+    while True:
+        try:
+            response = requests.get(url)
+            return response
+        except (SSLError, requests.exceptions.ReadTimeout) as e:
+            if "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol" in str(
+                e
+            ) or isinstance(
+                e, requests.exceptions.ReadTimeout
+            ):
+                print(f"Encountered error: {e}. Retrying in 60 seconds...")
+                time.sleep(60)
+            else:
+                raise
+
+
 def get_evolution_chain_data(evolution_chain_url):
-    response = requests.get(evolution_chain_url)
+    response = request_with_retry(evolution_chain_url)
     if response.status_code == 200:
         evolution_chain_data = response.json()
         process_evolution_chain(evolution_chain_data["chain"])
@@ -352,7 +371,7 @@ def get_evolution_chain_data(evolution_chain_url):
 
 
 def get_pokemon_generation(species_id):
-    response = requests.get(POKEMON_SPECIES_URL + str(species_id))
+    response = request_with_retry(POKEMON_SPECIES_URL + str(species_id))
     if response.status_code == 200:
         species_data = response.json()
         generation_url = species_data["generation"]["url"]
@@ -520,7 +539,7 @@ def process_past_types(pokemon_data):
 
 
 def process_varieties(species_id):
-    response = requests.get(POKEMON_SPECIES_URL + str(species_id))
+    response = request_with_retry(POKEMON_SPECIES_URL + str(species_id))
     if response.status_code == 200:
         species_data = response.json()
         varieties = species_data["varieties"]
@@ -621,11 +640,11 @@ def main():
     moves_data = read_moves()
     obtainable_pokemon = read_obtainable_pokemon()
 
-    response = requests.get(POKEMON_BASE_URL)
+    response = request_with_retry(POKEMON_BASE_URL)
     total_count = response.json()["count"]
 
     for i in range(1, total_count + 1):
-        species_response = requests.get(POKEMON_SPECIES_URL + str(i))
+        species_response = request_with_retry(POKEMON_SPECIES_URL + str(i))
         if species_response.status_code == 200:
             species_data = species_response.json()
 
@@ -663,7 +682,9 @@ def main():
             for variety in varieties:
                 variety_id = variety["id"]
                 variety_name = variety["name"]
-                pokemon_response = requests.get(POKEMON_BASE_URL + str(variety_id))
+                pokemon_response = request_with_retry(
+                    POKEMON_BASE_URL + str(variety_id)
+                )
                 if pokemon_response.status_code == 200:
                     pokemon_data = pokemon_response.json()
                     pokemon_name = pokemon_data["name"]
@@ -759,7 +780,7 @@ def main():
             all_pokemon_data[evolution_name]["moves"] = moves
 
     update_egg_groups(all_pokemon_data, egg_group_updates)
-    
+
     save_all_data(all_pokemon_data)
 
 
