@@ -28,6 +28,7 @@ def generate_location_data(pokemon_data):
                 "type": encounter.get("type"),
                 "region_id": encounter.get("region_id"),
                 "region_name": encounter.get("region_name"),
+                "location": encounter.get("location"),
                 "min_level": encounter.get("min_level"),
                 "max_level": encounter.get("max_level"),
                 "rarity": encounter.get("rarity"),
