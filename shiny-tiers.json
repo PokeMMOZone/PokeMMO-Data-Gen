@@ -1,0 +1,2730 @@
+{
+    "bulbasaur": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "ivysaur": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "venusaur": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "charmander": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "charmeleon": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "charizard": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "squirtle": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "wartortle": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "blastoise": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "caterpie": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "metapod": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "butterfree": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "weedle": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "kakuna": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "beedrill": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "pidgey": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "pidgeotto": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "pidgeot": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "rattata": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "raticate": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "spearow": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "fearow": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "ekans": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "arbok": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "pikachu": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "raichu": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "sandshrew": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "sandslash": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "nidoran-f": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "nidorina": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "nidoqueen": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "nidoran-m": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "nidorino": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "nidoking": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "clefairy": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "clefable": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "vulpix": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "ninetales": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "jigglypuff": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "wigglytuff": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "zubat": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "golbat": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "oddish": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "gloom": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "vileplume": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "paras": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "parasect": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "venonat": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "venomoth": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "diglett": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "dugtrio": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "meowth": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "persian": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "psyduck": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "golduck": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "mankey": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "primeape": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "growlithe": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "arcanine": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "poliwag": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "poliwhirl": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "poliwrath": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "abra": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "kadabra": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "alakazam": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "machop": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "machoke": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "machamp": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "bellsprout": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "weepinbell": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "victreebel": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "tentacool": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "tentacruel": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "geodude": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "graveler": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "golem": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "ponyta": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "rapidash": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "slowpoke": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "slowbro": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "magnemite": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "magneton": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "farfetchd": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "doduo": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "dodrio": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "seel": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "dewgong": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "grimer": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "muk": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "shellder": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "cloyster": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "gastly": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "haunter": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "gengar": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "onix": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "drowzee": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "hypno": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "krabby": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "kingler": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "voltorb": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "electrode": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "exeggcute": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "exeggutor": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "cubone": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "marowak": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "hitmonlee": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "hitmonchan": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "lickitung": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "koffing": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "weezing": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "rhyhorn": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "rhydon": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "chansey": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "tangela": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "kangaskhan": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "horsea": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "seadra": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "goldeen": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "seaking": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "staryu": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "starmie": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "mr-mime": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "scyther": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "jynx": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "electabuzz": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "magmar": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "pinsir": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "tauros": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "magikarp": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "gyarados": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "lapras": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "ditto": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "eevee": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "vaporeon": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "jolteon": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "flareon": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "porygon": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "omanyte": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "omastar": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "kabuto": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "kabutops": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "aerodactyl": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "snorlax": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "articuno": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "zapdos": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "moltres": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "dratini": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "dragonair": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "dragonite": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "mewtwo": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "mew": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "chikorita": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "bayleef": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "meganium": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "cyndaquil": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "quilava": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "typhlosion": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "totodile": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "croconaw": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "feraligatr": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "sentret": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "furret": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "hoothoot": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "noctowl": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "ledyba": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "ledian": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "spinarak": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "ariados": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "crobat": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "chinchou": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "lanturn": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "pichu": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "cleffa": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "igglybuff": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "togepi": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "togetic": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "natu": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "xatu": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "mareep": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "flaaffy": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "ampharos": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "bellossom": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "marill": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "azumarill": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "sudowoodo": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "politoed": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "hoppip": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "skiploom": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "jumpluff": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "aipom": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "sunkern": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "sunflora": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "yanma": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "wooper": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "quagsire": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "espeon": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "umbreon": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "murkrow": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "slowking": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "misdreavus": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "unown": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "wobbuffet": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "girafarig": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "pineco": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "forretress": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "dunsparce": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "gligar": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "steelix": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "snubbull": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "granbull": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "qwilfish": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "scizor": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "shuckle": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "heracross": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "sneasel": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "teddiursa": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "ursaring": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "slugma": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "magcargo": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "swinub": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "piloswine": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "corsola": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "remoraid": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "octillery": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "delibird": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "mantine": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "skarmory": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "houndour": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "houndoom": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "kingdra": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "phanpy": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "donphan": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "porygon2": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "stantler": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "smeargle": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "tyrogue": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "hitmontop": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "smoochum": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "elekid": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "magby": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "miltank": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "blissey": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "raikou": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "entei": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "suicune": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "larvitar": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "pupitar": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "tyranitar": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "lugia": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "ho-oh": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "celebi": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "treecko": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "grovyle": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "sceptile": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "torchic": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "combusken": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "blaziken": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "mudkip": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "marshtomp": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "swampert": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "poochyena": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "mightyena": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "zigzagoon": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "linoone": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "wurmple": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "silcoon": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "beautifly": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "cascoon": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "dustox": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "lotad": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "lombre": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "ludicolo": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "seedot": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "nuzleaf": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "shiftry": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "taillow": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "swellow": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "wingull": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "pelipper": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "ralts": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "kirlia": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "gardevoir": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "surskit": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "masquerain": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "shroomish": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "breloom": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "slakoth": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "vigoroth": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "slaking": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "nincada": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "ninjask": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "shedinja": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "whismur": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "loudred": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "exploud": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "makuhita": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "hariyama": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "azurill": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "nosepass": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "skitty": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "delcatty": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "sableye": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "mawile": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "aron": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "lairon": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "aggron": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "meditite": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "medicham": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "electrike": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "manectric": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "plusle": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "minun": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "volbeat": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "illumise": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "roselia": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "gulpin": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "swalot": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "carvanha": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "sharpedo": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "wailmer": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "wailord": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "numel": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "camerupt": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "torkoal": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "spoink": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "grumpig": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "spinda": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "trapinch": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "vibrava": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "flygon": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "cacnea": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "cacturne": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "swablu": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "altaria": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "zangoose": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "seviper": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "lunatone": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "solrock": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "barboach": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "whiscash": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "corphish": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "crawdaunt": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "baltoy": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "claydol": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "lileep": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "cradily": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "anorith": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "armaldo": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "feebas": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "milotic": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "castform": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "kecleon": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "shuppet": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "banette": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "duskull": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "dusclops": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "tropius": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "chimecho": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "absol": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "wynaut": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "snorunt": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "glalie": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "spheal": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "sealeo": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "walrein": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "clamperl": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "huntail": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "gorebyss": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "relicanth": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "luvdisc": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "bagon": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "shelgon": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "salamence": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "beldum": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "metang": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "metagross": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "regirock": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "regice": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "registeel": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "latias": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "latios": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "kyogre": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "groudon": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "rayquaza": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "jirachi": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "deoxys": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "turtwig": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "grotle": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "torterra": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "chimchar": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "monferno": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "infernape": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "piplup": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "prinplup": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "empoleon": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "starly": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "staravia": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "staraptor": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "bidoof": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "bibarel": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "kricketot": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "kricketune": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "shinx": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "luxio": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "luxray": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "budew": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "roserade": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "cranidos": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "rampardos": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "shieldon": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "bastiodon": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "burmy": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "wormadam-plant": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "mothim": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "combee": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "vespiquen": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "pachirisu": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "buizel": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "floatzel": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "cherubi": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "cherrim": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "shellos": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "gastrodon": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "ambipom": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "drifloon": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "drifblim": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "buneary": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "lopunny": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "mismagius": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "honchkrow": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "glameow": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "purugly": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "chingling": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "stunky": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "skuntank": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "bronzor": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "bronzong": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "bonsly": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "mime-jr": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "happiny": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "chatot": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "spiritomb": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "gible": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "gabite": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "garchomp": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "munchlax": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "riolu": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "lucario": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "hippopotas": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "hippowdon": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "skorupi": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "drapion": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "croagunk": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "toxicroak": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "carnivine": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "finneon": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "lumineon": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "mantyke": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "snover": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "abomasnow": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "weavile": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "magnezone": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "lickilicky": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "rhyperior": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "tangrowth": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "electivire": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "magmortar": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "togekiss": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "yanmega": {
+        "shiny_tier": 2,
+        "shiny_points": 15
+    },
+    "leafeon": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "glaceon": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "gliscor": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "mamoswine": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "porygon-z": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "gallade": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "probopass": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "dusknoir": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "froslass": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "rotom": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "uxie": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "mesprit": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "azelf": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "dialga": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "palkia": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "heatran": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "regigigas": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "giratina": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "cresselia": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "phione": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "manaphy": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "darkrai": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "shaymin": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "arceus": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "victini": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "snivy": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "servine": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "serperior": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "tepig": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "pignite": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "emboar": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "oshawott": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "dewott": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "samurott": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "patrat": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "watchog": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "lillipup": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "herdier": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "stoutland": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "purrloin": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "liepard": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "pansage": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "simisage": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "pansear": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "simisear": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "panpour": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "simipour": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "munna": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "musharna": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "pidove": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "tranquill": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "unfezant": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "blitzle": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "zebstrika": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "roggenrola": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "boldore": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "gigalith": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "woobat": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "swoobat": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "drilbur": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "excadrill": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "audino": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "timburr": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "gurdurr": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "conkeldurr": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "tympole": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "palpitoad": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "seismitoad": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "throh": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "sawk": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "sewaddle": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "swadloon": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "leavanny": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "venipede": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "whirlipede": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "scolipede": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "cottonee": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "whimsicott": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "petilil": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "lilligant": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "basculin-red-striped": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "sandile": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "krokorok": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "krookodile": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "darumaka": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "darmanitan": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "maractus": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "dwebble": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "crustle": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "scraggy": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "scrafty": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "sigilyph": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "yamask": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "cofagrigus": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "tirtouga": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "carracosta": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "archen": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "archeops": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "trubbish": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "garbodor": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "zorua": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "zoroark": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "minccino": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "cinccino": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "gothita": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "gothorita": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "gothitelle": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "solosis": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "duosion": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "reuniclus": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "ducklett": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "swanna": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "vanillite": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "vanillish": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "vanilluxe": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "deerling": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "sawsbuck": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "emolga": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "karrablast": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "escavalier": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "foongus": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "amoonguss": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "frillish": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "jellicent": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "alomomola": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "joltik": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "galvantula": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "ferroseed": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "ferrothorn": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "klink": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "klang": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "klinklang": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "tynamo": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "eelektrik": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "eelektross": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "elgyem": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "beheeyem": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "litwick": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "lampent": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "chandelure": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "axew": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "fraxure": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "haxorus": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "cubchoo": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "beartic": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "cryogonal": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "shelmet": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "accelgor": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "stunfisk": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "mienfoo": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "mienshao": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "druddigon": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "golett": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "golurk": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "pawniard": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "bisharp": {
+        "shiny_tier": 3,
+        "shiny_points": 10
+    },
+    "bouffalant": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "rufflet": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "braviary": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "vullaby": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "mandibuzz": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "heatmor": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "durant": {
+        "shiny_tier": 6,
+        "shiny_points": 2
+    },
+    "deino": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "zweilous": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "hydreigon": {
+        "shiny_tier": 5,
+        "shiny_points": 3
+    },
+    "larvesta": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "volcarona": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "cobalion": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "terrakion": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "virizion": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "tornadus": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "thundurus": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "reshiram": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "zekrom": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "landorus": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "kyurem": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "keldeo": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "meloetta": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "genesect": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "castform-sunny": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "castform-rainy": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "castform-snowy": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "deoxys-normal": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "deoxys-attack": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "deoxys-defense": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "deoxys-speed": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "wormadam-sandy": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "wormadam-trash": {
+        "shiny_tier": 1,
+        "shiny_points": 25
+    },
+    "rotom-heat": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "rotom-wash": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "rotom-frost": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "rotom-fan": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "rotom-mow": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "giratina-altered": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "giratina-origin": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "shaymin-sky": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "shaymin-land": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "basculin-blue-striped": {
+        "shiny_tier": 0,
+        "shiny_points": 30
+    },
+    "darmanitan-standard": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "darmanitan-zen": {
+        "shiny_tier": 4,
+        "shiny_points": 6
+    },
+    "tornadus-incarnate": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "tornadus-therian": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "thundurus-incarnate": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "thundurus-therian": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "landorus-incarnate": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "landorus-therian": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "kyurem-black": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "kyurem-white": {
+        "shiny_tier": "Legendary",
+        "shiny_points": 100
+    },
+    "keldeo-ordinary": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "keldeo-resolute": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "meloetta-aria": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    },
+    "meloetta-pirouette": {
+        "shiny_tier": "Mythical",
+        "shiny_points": 100
+    }
+}
