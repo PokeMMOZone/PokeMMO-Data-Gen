@@ -11,6 +11,7 @@ POKEMON_SPECIES_URL = "https://pokeapi.co/api/v2/pokemon-species/"
 DATA_SAVE_PATH = "./data/"
 ALL_POKEMON_FILE = "pokemon-data.json"
 LOCATIONS_FILE = os.path.join(current_dir, "locations.json")
+SHINYTIERS_FILE = os.path.join(current_dir, "shiny-tiers.json")
 MOVES_FILE = os.path.join(current_dir, "pokemon_moves.json")  # Path to the moves file
 OBTAINABLE_FILE = os.path.join(current_dir, "obtainable_pokemon.json")
 egg_moves_database = {}
@@ -616,6 +617,11 @@ def read_locations():
         return json.load(file)
 
 
+def read_shiny_tiers():
+    with open(SHINYTIERS_FILE, "r", encoding="utf-8") as file:
+        return json.load(file)
+
+
 def read_moves():
     with open(MOVES_FILE, "r", encoding="utf-8") as file:
         return json.load(file)
@@ -637,6 +643,7 @@ def get_all_unique_moves(moves_data):
 def main():
     all_pokemon_data = {}
     locations_data = read_locations()
+    shiny_tiers_data = read_shiny_tiers()
     moves_data = read_moves()
     obtainable_pokemon = read_obtainable_pokemon()
 
@@ -731,6 +738,8 @@ def main():
                         process_pokemon_egg_moves(
                             pokemon_name, moves_data[pokemon_name]["moves"]
                         )
+                    if pokemon_name in shiny_tiers_data:
+                        species_data.update(shiny_tiers_data[pokemon_name])
 
                     remove_urls(species_data)
                     remove_urls(pokemon_data)
