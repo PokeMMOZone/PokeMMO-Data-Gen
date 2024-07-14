@@ -91,10 +91,14 @@
         "obtainable": true
     },
     "basculin-red-striped": {
-        "obtainable": true
+        "obtainable": true,
+        "shiny_tier": 6,
+        "shiny_points": 2
     },
     "basculin-blue-striped": {
-        "obtainable": true
+        "obtainable": true,
+        "shiny_tier": 0,
+        "shiny_points": 30
     },
     "darmanitan-standard": {
         "obtainable": true
@@ -109,12 +113,18 @@
         "obtainable": false
     },
     "wormadam-plant": {
-        "obtainable": true
+        "obtainable": true,
+        "shiny_tier": 1,
+        "shiny_points": 25
     },
     "wormadam-sandy": {
-        "obtainable": true
+        "obtainable": true,
+        "shiny_tier": 1,
+        "shiny_points": 25
     },
     "wormadam-trash": {
-        "obtainable": true
+        "obtainable": true,
+        "shiny_tier": 1,
+        "shiny_points": 25
     }
 }
