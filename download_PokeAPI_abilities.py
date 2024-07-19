@@ -81,10 +81,18 @@ def process_ability_data(raw_data):
             effect_text = effect_entry.get("short_effect")
             break
 
+    translations = {}
+    for translation in raw_data.get("names", []):
+        language_name = translation.get("language", {}).get("name")
+        translations[language_name] = {
+            "name": translation.get("name")
+        }
+
     processed_data = {
         "id": raw_data.get("id"),
         "name": raw_data.get("name"),
         "effect": effect_text,
+        "name_translations": translations,
     }
     return processed_data
 
