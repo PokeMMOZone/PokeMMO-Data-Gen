@@ -76,23 +76,41 @@ def process_ability_data(raw_data):
     if not raw_data.get("is_main_series"):
         return None  # Skip if the ability is not part of the main series
     effect_text = None
+    effect_translations = {}
+    
+    # Process effect entries
     for effect_entry in raw_data.get("effect_entries", []):
-        if effect_entry.get("language", {}).get("name") == "en":
-            effect_text = effect_entry.get("short_effect")
-            break
-
-    translations = {}
+        language_name = effect_entry.get("language", {}).get("name")
+        short_effect = effect_entry.get("short_effect")
+        effect = effect_entry.get("effect")
+        if language_name == "en":
+            effect_text = short_effect or effect
+        effect_translations[language_name] = {"short_effect": short_effect or effect}
+    
+    # Process effect changes
+    for effect_change in raw_data.get("effect_changes", []):
+        for effect_entry in effect_change.get("effect_entries", []):
+            language_name = effect_entry.get("language", {}).get("name")
+            if language_name not in effect_translations:
+                effect_translations[language_name] = {"short_effect": effect_entry.get("effect")}
+    
+    # Process flavor text entries
+    for flavor_text in raw_data.get("flavor_text_entries", []):
+        language_name = flavor_text.get("language", {}).get("name")
+        if language_name not in effect_translations:
+            effect_translations[language_name] = {"effect": flavor_text.get("flavor_text")}
+    
+    name_translations = {}
     for translation in raw_data.get("names", []):
         language_name = translation.get("language", {}).get("name")
-        translations[language_name] = {
-            "name": translation.get("name")
-        }
+        name_translations[language_name] = {"name": translation.get("name")}
 
     processed_data = {
         "id": raw_data.get("id"),
         "name": raw_data.get("name"),
         "effect": effect_text,
-        "name_translations": translations,
+        "effect_translations": effect_translations,
+        "name_translations": name_translations,
     }
     return processed_data
 
