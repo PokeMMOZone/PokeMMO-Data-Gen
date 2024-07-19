@@ -607,6 +607,14 @@ def process_forms(forms):
     return [form["name"] for form in forms]
 
 
+def process_name_translations(names):
+    translations = {}
+    for name_entry in names:
+        language_name = name_entry["language"]["name"]
+        translations[language_name] = {"name": name_entry["name"]}
+    return translations
+
+
 def save_all_data(all_data):
     with open(DATA_SAVE_PATH + ALL_POKEMON_FILE, "w", encoding="utf-8") as file:
         json.dump(all_data, file, ensure_ascii=False, indent=4)
@@ -662,7 +670,6 @@ def main():
             species_data.pop("genera", None)
             species_data.pop("generation", None)
             species_data.pop("habitat", None)
-            species_data.pop("names", None)
             species_data.pop("pal_park_encounters", None)
             species_data.pop("pokedex_numbers", None)
             species_data.pop("color", None)
@@ -672,6 +679,10 @@ def main():
             species_data["growth_rate"] = process_growth_rate(
                 species_data["growth_rate"]
             )
+
+            # Process name translations
+            species_data["name_translations"] = process_name_translations(species_data["names"])
+            species_data.pop("names", None)  # Remove the 'names' key after processing
 
             # Set 'alpha' field
             pokemon_name = species_data["name"].lower()
