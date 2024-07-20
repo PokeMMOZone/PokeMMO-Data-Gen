@@ -80,6 +80,30 @@ def is_move_in_generations_1_to_5(move_data):
     ]
 
 
+def process_name_translations(names):
+    translations = {}
+    for name_entry in names:
+        language_name = name_entry["language"]["name"]
+        translations[language_name] = {"name": name_entry["name"]}
+    return translations
+
+
+def process_effect_translations(effect_entries, flavor_text_entries):
+    translations = {}
+    for effect_entry in effect_entries:
+        language_name = effect_entry["language"]["name"]
+        translations[language_name] = {
+            "effect": effect_entry.get("short_effect", effect_entry.get("effect"))
+        }
+
+    for flavor_text in flavor_text_entries:
+        language_name = flavor_text.get("language", {}).get("name")
+        if language_name not in translations:
+            translations[language_name] = {"effect": flavor_text.get("flavor_text")}
+
+    return translations
+
+
 def process_move_data(raw_data, skills):
     # Skip moves with type 'shadow'
     if raw_data.get("type", {}).get("name") == "shadow":
@@ -102,6 +126,10 @@ def process_move_data(raw_data, skills):
             raw_data.get("effect_entries")[0].get("short_effect")
             if raw_data.get("effect_entries")
             else None
+        ),
+        "name_translations": process_name_translations(raw_data.get("names", [])),
+        "effect_translations": process_effect_translations(
+            raw_data.get("effect_entries", []), raw_data.get("flavor_text_entries", [])
         ),
     }
     return processed_data
