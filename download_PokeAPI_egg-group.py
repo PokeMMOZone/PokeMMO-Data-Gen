@@ -78,6 +78,14 @@ def process_pokemon_species(pokemon_species_list):
     return filtered_species
 
 
+def process_name_translations(names):
+    translations = {}
+    for name_entry in names:
+        language_name = name_entry["language"]["name"]
+        translations[language_name] = {"name": name_entry["name"]}
+    return translations
+
+
 def update_species_egg_groups(all_egg_groups, species_egg_group_updates):
     # Remove species from all egg groups first
     for egg_group in all_egg_groups.values():
@@ -128,14 +136,16 @@ def get_egg_group_data():
                     f"Warning: Egg group name '{processed_egg_group_data['name']}' not found in lookup table"
                 )
 
-            # Remove the 'names' field
-            egg_group_data.pop("names", None)
-
             # Process and filter pokemon_species for generations 1-5
             if "pokemon_species" in egg_group_data:
                 processed_egg_group_data["pokemon_species"] = process_pokemon_species(
                     egg_group_data["pokemon_species"]
                 )
+
+            # Process name translations
+            processed_egg_group_data["name_translations"] = process_name_translations(
+                egg_group_data.get("names", [])
+            )
 
             # Add modified egg group data to all egg groups
             all_egg_groups[f"egg_group_{i}"] = processed_egg_group_data
