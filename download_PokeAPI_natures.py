@@ -58,6 +58,14 @@ def get_nature_data(nature_name):
         return None
 
 
+def process_name_translations(names):
+    translations = {}
+    for name_entry in names:
+        language_name = name_entry["language"]["name"]
+        translations[language_name] = {"name": name_entry["name"]}
+    return translations
+
+
 def process_nature_data(raw_data):
     increased_stat = (
         raw_data.get("increased_stat", {}).get("name")
@@ -97,6 +105,7 @@ def process_nature_data(raw_data):
         "likes_flavor": likes_flavor,
         "hates_flavor": hates_flavor,
         "move_battle_style_preferences": move_battle_styles,
+        "name_translations": process_name_translations(raw_data.get("names", [])),
     }
     return processed_data
 
