@@ -85,14 +85,14 @@ def process_ability_data(raw_data):
         effect = effect_entry.get("effect")
         if language_name == "en":
             effect_text = short_effect or effect
-        effect_translations[language_name] = {"short_effect": short_effect or effect}
+        effect_translations[language_name] = {"effect": short_effect or effect}
     
     # Process effect changes
     for effect_change in raw_data.get("effect_changes", []):
         for effect_entry in effect_change.get("effect_entries", []):
             language_name = effect_entry.get("language", {}).get("name")
             if language_name not in effect_translations:
-                effect_translations[language_name] = {"short_effect": effect_entry.get("effect")}
+                effect_translations[language_name] = {"effect": effect_entry.get("effect")}
     
     # Process flavor text entries
     for flavor_text in raw_data.get("flavor_text_entries", []):
