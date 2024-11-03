@@ -2,7 +2,10 @@
 {
 	"id": 1,
 	"name": "Pound",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 35,
@@ -14,7 +17,10 @@
 {
 	"id": 2,
 	"name": "Karate Chop",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 50,
 	"base_accuracy": 100,
 	"base_pp": 25,
@@ -26,7 +32,10 @@
 {
 	"id": 3,
 	"name": "DoubleSlap",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 15,
 	"base_accuracy": 85,
 	"base_pp": 10,
@@ -38,7 +47,10 @@
 {
 	"id": 4,
 	"name": "Comet Punch",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 18,
 	"base_accuracy": 85,
 	"base_pp": 15,
@@ -50,7 +62,10 @@
 {
 	"id": 5,
 	"name": "Mega Punch",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 80,
 	"base_accuracy": 85,
 	"base_pp": 20,
@@ -62,7 +77,10 @@
 {
 	"id": 6,
 	"name": "Pay Day",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -74,7 +92,10 @@
 {
 	"id": 7,
 	"name": "Fire Punch",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 75,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -86,7 +107,10 @@
 {
 	"id": 8,
 	"name": "Ice Punch",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 75,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -98,7 +122,10 @@
 {
 	"id": 9,
 	"name": "ThunderPunch",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 75,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -110,7 +137,10 @@
 {
 	"id": 10,
 	"name": "Scratch",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 35,
@@ -122,7 +152,10 @@
 {
 	"id": 11,
 	"name": "ViceGrip",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 55,
 	"base_accuracy": 100,
 	"base_pp": 30,
@@ -134,7 +167,10 @@
 {
 	"id": 12,
 	"name": "Guillotine",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 30,
 	"base_pp": 5,
@@ -146,7 +182,10 @@
 {
 	"id": 13,
 	"name": "Razor Wind",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -158,7 +197,10 @@
 {
 	"id": 14,
 	"name": "Swords Dance",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -170,7 +212,10 @@
 {
 	"id": 15,
 	"name": "Cut",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 50,
 	"base_accuracy": 95,
 	"base_pp": 30,
@@ -182,7 +227,10 @@
 {
 	"id": 16,
 	"name": "Gust",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 35,
@@ -194,7 +242,10 @@
 {
 	"id": 17,
 	"name": "Wing Attack",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 35,
@@ -206,7 +257,10 @@
 {
 	"id": 18,
 	"name": "Whirlwind",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -218,7 +272,10 @@
 {
 	"id": 19,
 	"name": "Fly",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 90,
 	"base_accuracy": 95,
 	"base_pp": 15,
@@ -230,7 +287,10 @@
 {
 	"id": 20,
 	"name": "Bind",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 15,
 	"base_accuracy": 85,
 	"base_pp": 20,
@@ -242,7 +302,10 @@
 {
 	"id": 21,
 	"name": "Slam",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 80,
 	"base_accuracy": 75,
 	"base_pp": 20,
@@ -254,7 +317,10 @@
 {
 	"id": 22,
 	"name": "Vine Whip",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 45,
 	"base_accuracy": 100,
 	"base_pp": 25,
@@ -266,7 +332,10 @@
 {
 	"id": 23,
 	"name": "Stomp",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 65,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -278,7 +347,10 @@
 {
 	"id": 24,
 	"name": "Double Kick",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 30,
 	"base_accuracy": 100,
 	"base_pp": 30,
@@ -290,7 +362,10 @@
 {
 	"id": 25,
 	"name": "Mega Kick",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 120,
 	"base_accuracy": 75,
 	"base_pp": 5,
@@ -302,7 +377,10 @@
 {
 	"id": 26,
 	"name": "Jump Kick",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 100,
 	"base_accuracy": 95,
 	"base_pp": 10,
@@ -314,7 +392,10 @@
 {
 	"id": 27,
 	"name": "Rolling Kick",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 85,
 	"base_pp": 15,
@@ -326,7 +407,10 @@
 {
 	"id": 28,
 	"name": "Sand-Attack",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -338,7 +422,10 @@
 {
 	"id": 29,
 	"name": "Headbutt",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 70,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -350,7 +437,10 @@
 {
 	"id": 30,
 	"name": "Horn Attack",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 65,
 	"base_accuracy": 100,
 	"base_pp": 25,
@@ -362,7 +452,10 @@
 {
 	"id": 31,
 	"name": "Fury Attack",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 15,
 	"base_accuracy": 85,
 	"base_pp": 20,
@@ -374,7 +467,10 @@
 {
 	"id": 32,
 	"name": "Horn Drill",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 30,
 	"base_pp": 5,
@@ -386,7 +482,10 @@
 {
 	"id": 33,
 	"name": "Tackle",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 35,
@@ -398,7 +497,10 @@
 {
 	"id": 34,
 	"name": "Body Slam",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 85,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -410,7 +512,10 @@
 {
 	"id": 35,
 	"name": "Wrap",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 15,
 	"base_accuracy": 90,
 	"base_pp": 20,
@@ -422,7 +527,10 @@
 {
 	"id": 36,
 	"name": "Take Down",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 90,
 	"base_accuracy": 85,
 	"base_pp": 20,
@@ -434,7 +542,10 @@
 {
 	"id": 37,
 	"name": "Thrash",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 120,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -446,7 +557,10 @@
 {
 	"id": 38,
 	"name": "Double-Edge",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 120,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -458,7 +572,10 @@
 {
 	"id": 39,
 	"name": "Tail Whip",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 30,
@@ -470,7 +587,10 @@
 {
 	"id": 40,
 	"name": "Poison Sting",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 15,
 	"base_accuracy": 100,
 	"base_pp": 35,
@@ -482,7 +602,10 @@
 {
 	"id": 41,
 	"name": "Twineedle",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 25,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -494,7 +617,10 @@
 {
 	"id": 42,
 	"name": "Pin Missile",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 25,
 	"base_accuracy": 95,
 	"base_pp": 20,
@@ -506,7 +632,10 @@
 {
 	"id": 43,
 	"name": "Leer",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 30,
@@ -518,7 +647,10 @@
 {
 	"id": 44,
 	"name": "Bite",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 25,
@@ -530,7 +662,10 @@
 {
 	"id": 45,
 	"name": "Growl",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 40,
@@ -542,7 +677,10 @@
 {
 	"id": 46,
 	"name": "Roar",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -554,7 +692,10 @@
 {
 	"id": 47,
 	"name": "Sing",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 55,
 	"base_pp": 15,
@@ -566,7 +707,10 @@
 {
 	"id": 48,
 	"name": "Supersonic",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 55,
 	"base_pp": 20,
@@ -578,7 +722,10 @@
 {
 	"id": 49,
 	"name": "SonicBoom",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 1,
 	"base_accuracy": 90,
 	"base_pp": 20,
@@ -590,7 +737,10 @@
 {
 	"id": 50,
 	"name": "Disable",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -602,7 +752,10 @@
 {
 	"id": 51,
 	"name": "Acid",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 30,
@@ -614,7 +767,10 @@
 {
 	"id": 52,
 	"name": "Ember",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 25,
@@ -626,7 +782,10 @@
 {
 	"id": 53,
 	"name": "Flamethrower",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 90,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -638,7 +797,10 @@
 {
 	"id": 54,
 	"name": "Mist",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 30,
@@ -650,7 +812,10 @@
 {
 	"id": 55,
 	"name": "Water Gun",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 25,
@@ -662,7 +827,10 @@
 {
 	"id": 56,
 	"name": "Hydro Pump",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 110,
 	"base_accuracy": 80,
 	"base_pp": 5,
@@ -674,7 +842,10 @@
 {
 	"id": 57,
 	"name": "Surf",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 90,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -686,7 +857,10 @@
 {
 	"id": 58,
 	"name": "Ice Beam",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 90,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -698,7 +872,10 @@
 {
 	"id": 59,
 	"name": "Blizzard",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 110,
 	"base_accuracy": 70,
 	"base_pp": 5,
@@ -710,7 +887,10 @@
 {
 	"id": 60,
 	"name": "Psybeam",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 65,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -722,7 +902,10 @@
 {
 	"id": 61,
 	"name": "BubbleBeam",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 65,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -734,7 +917,10 @@
 {
 	"id": 62,
 	"name": "Aurora Beam",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 65,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -746,7 +932,10 @@
 {
 	"id": 63,
 	"name": "Hyper Beam",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 150,
 	"base_accuracy": 90,
 	"base_pp": 5,
@@ -758,7 +947,10 @@
 {
 	"id": 64,
 	"name": "Peck",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 35,
 	"base_accuracy": 100,
 	"base_pp": 35,
@@ -770,7 +962,10 @@
 {
 	"id": 65,
 	"name": "Drill Peck",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -782,7 +977,10 @@
 {
 	"id": 66,
 	"name": "Submission",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 80,
 	"base_accuracy": 80,
 	"base_pp": 20,
@@ -794,7 +992,10 @@
 {
 	"id": 67,
 	"name": "Low Kick",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -806,7 +1007,10 @@
 {
 	"id": 68,
 	"name": "Counter",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -818,7 +1022,10 @@
 {
 	"id": 69,
 	"name": "Seismic Toss",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -830,7 +1037,10 @@
 {
 	"id": 70,
 	"name": "Strength",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -842,7 +1052,10 @@
 {
 	"id": 71,
 	"name": "Absorb",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 20,
 	"base_accuracy": 100,
 	"base_pp": 25,
@@ -854,7 +1067,10 @@
 {
 	"id": 72,
 	"name": "Mega Drain",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -866,7 +1082,10 @@
 {
 	"id": 73,
 	"name": "Leech Seed",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -878,7 +1097,10 @@
 {
 	"id": 74,
 	"name": "Growth",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -890,7 +1112,10 @@
 {
 	"id": 75,
 	"name": "Razor Leaf",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 55,
 	"base_accuracy": 95,
 	"base_pp": 25,
@@ -902,7 +1127,10 @@
 {
 	"id": 76,
 	"name": "SolarBeam",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 120,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -914,7 +1142,10 @@
 {
 	"id": 77,
 	"name": "PoisonPowder",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 75,
 	"base_pp": 35,
@@ -926,7 +1157,10 @@
 {
 	"id": 78,
 	"name": "Stun Spore",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 75,
 	"base_pp": 30,
@@ -938,7 +1172,10 @@
 {
 	"id": 79,
 	"name": "Sleep Powder",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 75,
 	"base_pp": 15,
@@ -950,7 +1187,10 @@
 {
 	"id": 80,
 	"name": "Petal Dance",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 120,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -962,7 +1202,10 @@
 {
 	"id": 81,
 	"name": "String Shot",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 95,
 	"base_pp": 40,
@@ -974,7 +1217,10 @@
 {
 	"id": 82,
 	"name": "Dragon Rage",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -986,7 +1232,10 @@
 {
 	"id": 83,
 	"name": "Fire Spin",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 35,
 	"base_accuracy": 85,
 	"base_pp": 15,
@@ -998,7 +1247,10 @@
 {
 	"id": 84,
 	"name": "ThunderShock",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 30,
@@ -1010,7 +1262,10 @@
 {
 	"id": 85,
 	"name": "Thunderbolt",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 90,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -1022,7 +1277,10 @@
 {
 	"id": 86,
 	"name": "Thunder Wave",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 90,
 	"base_pp": 20,
@@ -1034,7 +1292,10 @@
 {
 	"id": 87,
 	"name": "Thunder",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 110,
 	"base_accuracy": 70,
 	"base_pp": 10,
@@ -1046,7 +1307,10 @@
 {
 	"id": 88,
 	"name": "Rock Throw",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 50,
 	"base_accuracy": 90,
 	"base_pp": 15,
@@ -1058,7 +1322,10 @@
 {
 	"id": 89,
 	"name": "Earthquake",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 100,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -1070,7 +1337,10 @@
 {
 	"id": 90,
 	"name": "Fissure",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 30,
 	"base_pp": 5,
@@ -1082,7 +1352,10 @@
 {
 	"id": 91,
 	"name": "Dig",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -1094,7 +1367,10 @@
 {
 	"id": 92,
 	"name": "Toxic",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -1106,7 +1382,10 @@
 {
 	"id": 93,
 	"name": "Confusion",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 50,
 	"base_accuracy": 100,
 	"base_pp": 25,
@@ -1118,7 +1397,10 @@
 {
 	"id": 94,
 	"name": "Psychic",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 90,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -1130,7 +1412,10 @@
 {
 	"id": 95,
 	"name": "Hypnosis",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 60,
 	"base_pp": 20,
@@ -1142,7 +1427,10 @@
 {
 	"id": 96,
 	"name": "Meditate",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 40,
@@ -1154,7 +1442,10 @@
 {
 	"id": 97,
 	"name": "Agility",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 30,
@@ -1166,7 +1457,10 @@
 {
 	"id": 98,
 	"name": "Quick Attack",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 30,
@@ -1178,7 +1472,10 @@
 {
 	"id": 99,
 	"name": "Rage",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 20,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -1190,7 +1487,10 @@
 {
 	"id": 100,
 	"name": "Teleport",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -1202,7 +1502,10 @@
 {
 	"id": 101,
 	"name": "Night Shade",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -1214,7 +1517,10 @@
 {
 	"id": 102,
 	"name": "Mimic",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -1226,7 +1532,10 @@
 {
 	"id": 103,
 	"name": "Screech",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 85,
 	"base_pp": 40,
@@ -1238,7 +1547,10 @@
 {
 	"id": 104,
 	"name": "Double Team",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 15,
@@ -1250,7 +1562,10 @@
 {
 	"id": 105,
 	"name": "Recover",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -1262,7 +1577,10 @@
 {
 	"id": 106,
 	"name": "Harden",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 30,
@@ -1274,7 +1592,10 @@
 {
 	"id": 107,
 	"name": "Minimize",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -1286,7 +1607,10 @@
 {
 	"id": 108,
 	"name": "SmokeScreen",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -1298,7 +1622,10 @@
 {
 	"id": 109,
 	"name": "Confuse Ray",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -1310,7 +1637,10 @@
 {
 	"id": 110,
 	"name": "Withdraw",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 40,
@@ -1322,7 +1652,10 @@
 {
 	"id": 111,
 	"name": "Defense Curl",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 40,
@@ -1334,7 +1667,10 @@
 {
 	"id": 112,
 	"name": "Barrier",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -1346,7 +1682,10 @@
 {
 	"id": 113,
 	"name": "Light Screen",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 30,
@@ -1358,7 +1697,10 @@
 {
 	"id": 114,
 	"name": "Haze",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 30,
@@ -1370,7 +1712,10 @@
 {
 	"id": 115,
 	"name": "Reflect",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -1382,7 +1727,10 @@
 {
 	"id": 116,
 	"name": "Focus Energy",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 30,
@@ -1394,7 +1742,10 @@
 {
 	"id": 117,
 	"name": "Bide",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -1406,7 +1757,10 @@
 {
 	"id": 118,
 	"name": "Metronome",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -1418,7 +1772,10 @@
 {
 	"id": 119,
 	"name": "Mirror Move",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -1430,7 +1787,10 @@
 {
 	"id": 120,
 	"name": "Selfdestruct",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 200,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -1442,7 +1802,10 @@
 {
 	"id": 121,
 	"name": "Egg Bomb",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 100,
 	"base_accuracy": 75,
 	"base_pp": 10,
@@ -1454,7 +1817,10 @@
 {
 	"id": 122,
 	"name": "Lick",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 30,
 	"base_accuracy": 100,
 	"base_pp": 30,
@@ -1466,7 +1832,10 @@
 {
 	"id": 123,
 	"name": "Smog",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 30,
 	"base_accuracy": 70,
 	"base_pp": 20,
@@ -1478,7 +1847,10 @@
 {
 	"id": 124,
 	"name": "Sludge",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 65,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -1490,7 +1862,10 @@
 {
 	"id": 125,
 	"name": "Bone Club",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 65,
 	"base_accuracy": 85,
 	"base_pp": 20,
@@ -1502,7 +1877,10 @@
 {
 	"id": 126,
 	"name": "Fire Blast",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 110,
 	"base_accuracy": 85,
 	"base_pp": 5,
@@ -1514,7 +1892,10 @@
 {
 	"id": 127,
 	"name": "Waterfall",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -1526,7 +1907,10 @@
 {
 	"id": 128,
 	"name": "Clamp",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 35,
 	"base_accuracy": 85,
 	"base_pp": 15,
@@ -1538,7 +1922,10 @@
 {
 	"id": 129,
 	"name": "Swift",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 60,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -1550,7 +1937,10 @@
 {
 	"id": 130,
 	"name": "Skull Bash",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 130,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -1562,7 +1952,10 @@
 {
 	"id": 131,
 	"name": "Spike Cannon",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 20,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -1574,7 +1967,10 @@
 {
 	"id": 132,
 	"name": "Constrict",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 10,
 	"base_accuracy": 100,
 	"base_pp": 35,
@@ -1586,7 +1982,10 @@
 {
 	"id": 133,
 	"name": "Amnesia",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -1598,7 +1997,10 @@
 {
 	"id": 134,
 	"name": "Kinesis",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 80,
 	"base_pp": 15,
@@ -1610,7 +2012,10 @@
 {
 	"id": 135,
 	"name": "Softboiled",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -1622,7 +2027,10 @@
 {
 	"id": 136,
 	"name": "Hi Jump Kick",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 130,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -1634,7 +2042,10 @@
 {
 	"id": 137,
 	"name": "Glare",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 30,
@@ -1646,7 +2057,10 @@
 {
 	"id": 138,
 	"name": "Dream Eater",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 100,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -1658,7 +2072,10 @@
 {
 	"id": 139,
 	"name": "Poison Gas",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 90,
 	"base_pp": 40,
@@ -1670,7 +2087,10 @@
 {
 	"id": 140,
 	"name": "Barrage",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 15,
 	"base_accuracy": 85,
 	"base_pp": 20,
@@ -1682,7 +2102,10 @@
 {
 	"id": 141,
 	"name": "Leech Life",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -1694,7 +2117,10 @@
 {
 	"id": 142,
 	"name": "Lovely Kiss",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 75,
 	"base_pp": 10,
@@ -1706,7 +2132,10 @@
 {
 	"id": 143,
 	"name": "Sky Attack",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 140,
 	"base_accuracy": 90,
 	"base_pp": 5,
@@ -1718,7 +2147,10 @@
 {
 	"id": 144,
 	"name": "Transform",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -1730,7 +2162,10 @@
 {
 	"id": 145,
 	"name": "Bubble",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 30,
@@ -1742,7 +2177,10 @@
 {
 	"id": 146,
 	"name": "Dizzy Punch",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 70,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -1754,7 +2192,10 @@
 {
 	"id": 147,
 	"name": "Spore",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -1766,7 +2207,10 @@
 {
 	"id": 148,
 	"name": "Flash",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -1778,7 +2222,10 @@
 {
 	"id": 149,
 	"name": "Psywave",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -1790,7 +2237,10 @@
 {
 	"id": 150,
 	"name": "Splash",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 40,
@@ -1802,7 +2252,10 @@
 {
 	"id": 151,
 	"name": "Acid Armor",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -1814,7 +2267,10 @@
 {
 	"id": 152,
 	"name": "Crabhammer",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 100,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -1826,7 +2282,10 @@
 {
 	"id": 153,
 	"name": "Explosion",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 250,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -1838,7 +2297,10 @@
 {
 	"id": 154,
 	"name": "Fury Swipes",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 18,
 	"base_accuracy": 80,
 	"base_pp": 15,
@@ -1850,7 +2312,10 @@
 {
 	"id": 155,
 	"name": "Bonemerang",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 50,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -1862,7 +2327,10 @@
 {
 	"id": 156,
 	"name": "Rest",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -1874,7 +2342,10 @@
 {
 	"id": 157,
 	"name": "Rock Slide",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 75,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -1886,7 +2357,10 @@
 {
 	"id": 158,
 	"name": "Hyper Fang",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 80,
 	"base_accuracy": 90,
 	"base_pp": 15,
@@ -1898,7 +2372,10 @@
 {
 	"id": 159,
 	"name": "Sharpen",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 30,
@@ -1910,7 +2387,10 @@
 {
 	"id": 160,
 	"name": "Conversion",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 30,
@@ -1922,7 +2402,10 @@
 {
 	"id": 161,
 	"name": "Tri Attack",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -1934,7 +2417,10 @@
 {
 	"id": 162,
 	"name": "Super Fang",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -1946,7 +2432,10 @@
 {
 	"id": 163,
 	"name": "Slash",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 70,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -1958,7 +2447,10 @@
 {
 	"id": 164,
 	"name": "Substitute",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -1970,7 +2462,10 @@
 {
 	"id": 165,
 	"name": "Struggle",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 50,
 	"base_accuracy": 101,
 	"base_pp": 1,
@@ -1982,7 +2477,10 @@
 {
 	"id": 166,
 	"name": "Sketch",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 1,
@@ -1994,7 +2492,10 @@
 {
 	"id": 167,
 	"name": "Triple Kick",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 10,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -2006,7 +2507,10 @@
 {
 	"id": 168,
 	"name": "Thief",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 25,
@@ -2018,7 +2522,10 @@
 {
 	"id": 169,
 	"name": "Spider Web",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -2030,7 +2537,10 @@
 {
 	"id": 170,
 	"name": "Mind Reader",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -2042,7 +2552,10 @@
 {
 	"id": 171,
 	"name": "Nightmare",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -2054,7 +2567,10 @@
 {
 	"id": 172,
 	"name": "Flame Wheel",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 25,
@@ -2066,7 +2582,10 @@
 {
 	"id": 173,
 	"name": "Snore",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 50,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -2078,7 +2597,10 @@
 {
 	"id": 174,
 	"name": "Curse",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -2090,7 +2612,10 @@
 {
 	"id": 175,
 	"name": "Flail",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -2102,7 +2627,10 @@
 {
 	"id": 176,
 	"name": "Conversion 2",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 30,
@@ -2114,7 +2642,10 @@
 {
 	"id": 177,
 	"name": "Aeroblast",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 100,
 	"base_accuracy": 95,
 	"base_pp": 5,
@@ -2126,7 +2657,10 @@
 {
 	"id": 178,
 	"name": "Cotton Spore",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 40,
@@ -2138,7 +2672,10 @@
 {
 	"id": 179,
 	"name": "Reversal",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -2150,7 +2687,10 @@
 {
 	"id": 180,
 	"name": "Spite",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -2162,7 +2702,10 @@
 {
 	"id": 181,
 	"name": "Powder Snow",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 25,
@@ -2174,7 +2717,10 @@
 {
 	"id": 182,
 	"name": "Protect",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -2186,7 +2732,10 @@
 {
 	"id": 183,
 	"name": "Mach Punch",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 30,
@@ -2198,7 +2747,10 @@
 {
 	"id": 184,
 	"name": "Scary Face",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -2210,7 +2762,10 @@
 {
 	"id": 185,
 	"name": "Faint Attack",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -2222,7 +2777,10 @@
 {
 	"id": 186,
 	"name": "Sweet Kiss",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 75,
 	"base_pp": 10,
@@ -2234,7 +2792,10 @@
 {
 	"id": 187,
 	"name": "Belly Drum",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -2246,7 +2807,10 @@
 {
 	"id": 188,
 	"name": "Sludge Bomb",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 90,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -2258,7 +2822,10 @@
 {
 	"id": 189,
 	"name": "Mud-Slap",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 20,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -2270,7 +2837,10 @@
 {
 	"id": 190,
 	"name": "Octazooka",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 65,
 	"base_accuracy": 85,
 	"base_pp": 10,
@@ -2282,7 +2852,10 @@
 {
 	"id": 191,
 	"name": "Spikes",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -2294,7 +2867,10 @@
 {
 	"id": 192,
 	"name": "Zap Cannon",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 120,
 	"base_accuracy": 50,
 	"base_pp": 5,
@@ -2306,7 +2882,10 @@
 {
 	"id": 193,
 	"name": "Foresight",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 40,
@@ -2318,7 +2897,10 @@
 {
 	"id": 194,
 	"name": "Destiny Bond",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -2330,7 +2912,10 @@
 {
 	"id": 195,
 	"name": "Perish Song",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -2342,7 +2927,10 @@
 {
 	"id": 196,
 	"name": "Icy Wind",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 55,
 	"base_accuracy": 95,
 	"base_pp": 15,
@@ -2354,7 +2942,10 @@
 {
 	"id": 197,
 	"name": "Detect",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -2366,7 +2957,10 @@
 {
 	"id": 198,
 	"name": "Bone Rush",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 25,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -2378,7 +2972,10 @@
 {
 	"id": 199,
 	"name": "Lock-On",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -2390,7 +2987,10 @@
 {
 	"id": 200,
 	"name": "Outrage",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 90,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -2402,7 +3002,10 @@
 {
 	"id": 201,
 	"name": "Sandstorm",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -2414,7 +3017,10 @@
 {
 	"id": 202,
 	"name": "Giga Drain",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 75,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -2426,7 +3032,10 @@
 {
 	"id": 203,
 	"name": "Endure",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -2438,7 +3047,10 @@
 {
 	"id": 204,
 	"name": "Charm",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -2450,7 +3062,10 @@
 {
 	"id": 205,
 	"name": "Rollout",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 30,
 	"base_accuracy": 90,
 	"base_pp": 20,
@@ -2462,7 +3077,10 @@
 {
 	"id": 206,
 	"name": "False Swipe",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 40,
@@ -2474,7 +3092,10 @@
 {
 	"id": 207,
 	"name": "Swagger",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 85,
 	"base_pp": 15,
@@ -2486,7 +3107,10 @@
 {
 	"id": 208,
 	"name": "Milk Drink",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -2498,7 +3122,10 @@
 {
 	"id": 209,
 	"name": "Spark",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 65,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -2510,7 +3137,10 @@
 {
 	"id": 210,
 	"name": "Fury Cutter",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 40,
 	"base_accuracy": 95,
 	"base_pp": 20,
@@ -2522,7 +3152,10 @@
 {
 	"id": 211,
 	"name": "Steel Wing",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 70,
 	"base_accuracy": 90,
 	"base_pp": 25,
@@ -2534,7 +3167,10 @@
 {
 	"id": 212,
 	"name": "Mean Look",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -2546,7 +3182,10 @@
 {
 	"id": 213,
 	"name": "Attract",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -2558,7 +3197,10 @@
 {
 	"id": 214,
 	"name": "Sleep Talk",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -2570,7 +3212,10 @@
 {
 	"id": 215,
 	"name": "Heal Bell",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -2582,7 +3227,10 @@
 {
 	"id": 216,
 	"name": "Return",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -2594,7 +3242,10 @@
 {
 	"id": 217,
 	"name": "Present",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 90,
 	"base_pp": 15,
@@ -2606,7 +3257,10 @@
 {
 	"id": 218,
 	"name": "Frustration",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -2618,7 +3272,10 @@
 {
 	"id": 219,
 	"name": "Safeguard",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 25,
@@ -2630,7 +3287,10 @@
 {
 	"id": 220,
 	"name": "Pain Split",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -2642,7 +3302,10 @@
 {
 	"id": 221,
 	"name": "Sacred Fire",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 100,
 	"base_accuracy": 95,
 	"base_pp": 5,
@@ -2654,7 +3317,10 @@
 {
 	"id": 222,
 	"name": "Magnitude",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 30,
@@ -2666,7 +3332,10 @@
 {
 	"id": 223,
 	"name": "DynamicPunch",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 100,
 	"base_accuracy": 50,
 	"base_pp": 5,
@@ -2678,7 +3347,10 @@
 {
 	"id": 224,
 	"name": "Megahorn",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 120,
 	"base_accuracy": 85,
 	"base_pp": 10,
@@ -2690,7 +3362,10 @@
 {
 	"id": 225,
 	"name": "DragonBreath",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -2702,7 +3377,10 @@
 {
 	"id": 226,
 	"name": "Baton Pass",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 40,
@@ -2714,7 +3392,10 @@
 {
 	"id": 227,
 	"name": "Encore",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -2726,7 +3407,10 @@
 {
 	"id": 228,
 	"name": "Pursuit",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -2738,7 +3422,10 @@
 {
 	"id": 229,
 	"name": "Rapid Spin",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 50,
 	"base_accuracy": 100,
 	"base_pp": 40,
@@ -2750,7 +3437,10 @@
 {
 	"id": 230,
 	"name": "Sweet Scent",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -2762,7 +3452,10 @@
 {
 	"id": 231,
 	"name": "Iron Tail",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 100,
 	"base_accuracy": 75,
 	"base_pp": 15,
@@ -2774,7 +3467,10 @@
 {
 	"id": 232,
 	"name": "Metal Claw",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 50,
 	"base_accuracy": 95,
 	"base_pp": 35,
@@ -2786,7 +3482,10 @@
 {
 	"id": 233,
 	"name": "Vital Throw",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 70,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -2798,7 +3497,10 @@
 {
 	"id": 234,
 	"name": "Morning Sun",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -2810,7 +3512,10 @@
 {
 	"id": 235,
 	"name": "Synthesis",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -2822,7 +3527,10 @@
 {
 	"id": 236,
 	"name": "Moonlight",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -2834,7 +3542,10 @@
 {
 	"id": 237,
 	"name": "Hidden Power",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -2846,7 +3557,10 @@
 {
 	"id": 238,
 	"name": "Cross Chop",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 100,
 	"base_accuracy": 80,
 	"base_pp": 5,
@@ -2858,7 +3572,10 @@
 {
 	"id": 239,
 	"name": "Twister",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -2870,7 +3587,10 @@
 {
 	"id": 240,
 	"name": "Rain Dance",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -2882,7 +3602,10 @@
 {
 	"id": 241,
 	"name": "Sunny Day",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -2894,7 +3617,10 @@
 {
 	"id": 242,
 	"name": "Crunch",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -2906,7 +3632,10 @@
 {
 	"id": 243,
 	"name": "Mirror Coat",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -2918,7 +3647,10 @@
 {
 	"id": 244,
 	"name": "Psych Up",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -2930,7 +3662,10 @@
 {
 	"id": 245,
 	"name": "ExtremeSpeed",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -2942,7 +3677,10 @@
 {
 	"id": 246,
 	"name": "AncientPower",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -2954,7 +3692,10 @@
 {
 	"id": 247,
 	"name": "Shadow Ball",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -2966,7 +3707,10 @@
 {
 	"id": 248,
 	"name": "Future Sight",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 120,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -2978,7 +3722,10 @@
 {
 	"id": 249,
 	"name": "Rock Smash",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -2990,7 +3737,10 @@
 {
 	"id": 250,
 	"name": "Whirlpool",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 35,
 	"base_accuracy": 85,
 	"base_pp": 15,
@@ -3002,7 +3752,10 @@
 {
 	"id": 251,
 	"name": "Beat Up",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -3014,7 +3767,10 @@
 {
 	"id": 252,
 	"name": "Fake Out",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -3026,7 +3782,10 @@
 {
 	"id": 253,
 	"name": "Uproar",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 90,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -3038,7 +3797,10 @@
 {
 	"id": 254,
 	"name": "Stockpile",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -3050,7 +3812,10 @@
 {
 	"id": 255,
 	"name": "Spit Up",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -3062,7 +3827,10 @@
 {
 	"id": 256,
 	"name": "Swallow",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -3074,7 +3842,10 @@
 {
 	"id": 257,
 	"name": "Heat Wave",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 95,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -3086,7 +3857,10 @@
 {
 	"id": 258,
 	"name": "Snowscape",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -3098,7 +3872,10 @@
 {
 	"id": 259,
 	"name": "Torment",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -3110,7 +3887,10 @@
 {
 	"id": 260,
 	"name": "Flatter",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -3122,7 +3902,10 @@
 {
 	"id": 261,
 	"name": "Will-O-Wisp",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 85,
 	"base_pp": 15,
@@ -3134,7 +3917,10 @@
 {
 	"id": 262,
 	"name": "Memento",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -3146,7 +3932,10 @@
 {
 	"id": 263,
 	"name": "Facade",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 70,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -3158,7 +3947,10 @@
 {
 	"id": 264,
 	"name": "Focus Punch",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 150,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -3170,7 +3962,10 @@
 {
 	"id": 265,
 	"name": "SmellingSalt",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 70,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -3182,7 +3977,10 @@
 {
 	"id": 266,
 	"name": "Follow Me",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -3194,7 +3992,10 @@
 {
 	"id": 267,
 	"name": "Nature Power",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -3206,7 +4007,10 @@
 {
 	"id": 268,
 	"name": "Charge",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -3218,7 +4022,10 @@
 {
 	"id": 269,
 	"name": "Taunt",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -3230,7 +4037,10 @@
 {
 	"id": 270,
 	"name": "Helping Hand",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -3242,7 +4052,10 @@
 {
 	"id": 271,
 	"name": "Trick",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -3254,7 +4067,10 @@
 {
 	"id": 272,
 	"name": "Role Play",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -3266,7 +4082,10 @@
 {
 	"id": 273,
 	"name": "Wish",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -3278,7 +4097,10 @@
 {
 	"id": 274,
 	"name": "Assist",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -3290,7 +4112,10 @@
 {
 	"id": 275,
 	"name": "Ingrain",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -3302,7 +4127,10 @@
 {
 	"id": 276,
 	"name": "Superpower",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 120,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -3314,7 +4142,10 @@
 {
 	"id": 277,
 	"name": "Magic Coat",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 15,
@@ -3326,7 +4157,10 @@
 {
 	"id": 278,
 	"name": "Recycle",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -3338,7 +4172,10 @@
 {
 	"id": 279,
 	"name": "Revenge",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -3350,7 +4187,10 @@
 {
 	"id": 280,
 	"name": "Brick Break",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 75,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -3362,7 +4202,10 @@
 {
 	"id": 281,
 	"name": "Yawn",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -3374,7 +4217,10 @@
 {
 	"id": 282,
 	"name": "Knock Off",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 20,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -3386,7 +4232,10 @@
 {
 	"id": 283,
 	"name": "Endeavor",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -3398,7 +4247,10 @@
 {
 	"id": 284,
 	"name": "Eruption",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 150,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -3410,7 +4262,10 @@
 {
 	"id": 285,
 	"name": "Skill Swap",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -3422,7 +4277,10 @@
 {
 	"id": 286,
 	"name": "Imprison",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -3434,7 +4292,10 @@
 {
 	"id": 287,
 	"name": "Refresh",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -3446,7 +4307,10 @@
 {
 	"id": 288,
 	"name": "Grudge",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -3458,7 +4322,10 @@
 {
 	"id": 289,
 	"name": "Snatch",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -3470,7 +4337,10 @@
 {
 	"id": 290,
 	"name": "Secret Power",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 70,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -3482,7 +4352,10 @@
 {
 	"id": 291,
 	"name": "Dive",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -3494,7 +4367,10 @@
 {
 	"id": 292,
 	"name": "Arm Thrust",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 15,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -3506,7 +4382,10 @@
 {
 	"id": 293,
 	"name": "Camouflage",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -3518,7 +4397,10 @@
 {
 	"id": 294,
 	"name": "Tail Glow",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -3530,7 +4412,10 @@
 {
 	"id": 295,
 	"name": "Luster Purge",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 95,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -3542,7 +4427,10 @@
 {
 	"id": 296,
 	"name": "Mist Ball",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 95,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -3554,7 +4442,10 @@
 {
 	"id": 297,
 	"name": "FeatherDance",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -3566,7 +4457,10 @@
 {
 	"id": 298,
 	"name": "Teeter Dance",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -3578,7 +4472,10 @@
 {
 	"id": 299,
 	"name": "Blaze Kick",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 85,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -3590,7 +4487,10 @@
 {
 	"id": 300,
 	"name": "Mud Sport",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 15,
@@ -3602,7 +4502,10 @@
 {
 	"id": 301,
 	"name": "Ice Ball",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 30,
 	"base_accuracy": 90,
 	"base_pp": 20,
@@ -3614,7 +4517,10 @@
 {
 	"id": 302,
 	"name": "Needle Arm",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -3626,7 +4532,10 @@
 {
 	"id": 303,
 	"name": "Slack Off",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -3638,7 +4547,10 @@
 {
 	"id": 304,
 	"name": "Hyper Voice",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 90,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -3650,7 +4562,10 @@
 {
 	"id": 305,
 	"name": "Poison Fang",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 50,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -3662,7 +4577,10 @@
 {
 	"id": 306,
 	"name": "Crush Claw",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 75,
 	"base_accuracy": 95,
 	"base_pp": 10,
@@ -3674,7 +4592,10 @@
 {
 	"id": 307,
 	"name": "Blast Burn",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 150,
 	"base_accuracy": 90,
 	"base_pp": 5,
@@ -3686,7 +4607,10 @@
 {
 	"id": 308,
 	"name": "Hydro Cannon",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 150,
 	"base_accuracy": 90,
 	"base_pp": 5,
@@ -3698,7 +4622,10 @@
 {
 	"id": 309,
 	"name": "Meteor Mash",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 90,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -3710,7 +4637,10 @@
 {
 	"id": 310,
 	"name": "Astonish",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 30,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -3722,7 +4652,10 @@
 {
 	"id": 311,
 	"name": "Weather Ball",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 50,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -3734,7 +4667,10 @@
 {
 	"id": 312,
 	"name": "Aromatherapy",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -3746,7 +4682,10 @@
 {
 	"id": 313,
 	"name": "Fake Tears",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -3758,7 +4697,10 @@
 {
 	"id": 314,
 	"name": "Air Cutter",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 60,
 	"base_accuracy": 95,
 	"base_pp": 25,
@@ -3770,7 +4712,10 @@
 {
 	"id": 315,
 	"name": "Overheat",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 130,
 	"base_accuracy": 90,
 	"base_pp": 5,
@@ -3782,7 +4727,10 @@
 {
 	"id": 316,
 	"name": "Odor Sleuth",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 40,
@@ -3794,7 +4742,10 @@
 {
 	"id": 317,
 	"name": "Rock Tomb",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 95,
 	"base_pp": 15,
@@ -3806,7 +4757,10 @@
 {
 	"id": 318,
 	"name": "Silver Wind",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -3818,7 +4772,10 @@
 {
 	"id": 319,
 	"name": "Metal Sound",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 85,
 	"base_pp": 40,
@@ -3830,7 +4787,10 @@
 {
 	"id": 320,
 	"name": "GrassWhistle",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 55,
 	"base_pp": 15,
@@ -3842,7 +4802,10 @@
 {
 	"id": 321,
 	"name": "Tickle",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -3854,7 +4817,10 @@
 {
 	"id": 322,
 	"name": "Cosmic Power",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -3866,7 +4832,10 @@
 {
 	"id": 323,
 	"name": "Water Spout",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 150,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -3878,7 +4847,10 @@
 {
 	"id": 324,
 	"name": "Signal Beam",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 75,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -3890,7 +4862,10 @@
 {
 	"id": 325,
 	"name": "Shadow Punch",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -3902,7 +4877,10 @@
 {
 	"id": 326,
 	"name": "Extrasensory",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -3914,7 +4892,10 @@
 {
 	"id": 327,
 	"name": "Sky Uppercut",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 85,
 	"base_accuracy": 90,
 	"base_pp": 15,
@@ -3926,7 +4907,10 @@
 {
 	"id": 328,
 	"name": "Sand Tomb",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 35,
 	"base_accuracy": 85,
 	"base_pp": 15,
@@ -3938,7 +4922,10 @@
 {
 	"id": 329,
 	"name": "Sheer Cold",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 1,
 	"base_accuracy": 30,
 	"base_pp": 5,
@@ -3950,7 +4937,10 @@
 {
 	"id": 330,
 	"name": "Muddy Water",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 90,
 	"base_accuracy": 85,
 	"base_pp": 10,
@@ -3962,7 +4952,10 @@
 {
 	"id": 331,
 	"name": "Bullet Seed",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 25,
 	"base_accuracy": 100,
 	"base_pp": 30,
@@ -3974,7 +4967,10 @@
 {
 	"id": 332,
 	"name": "Aerial Ace",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -3986,7 +4982,10 @@
 {
 	"id": 333,
 	"name": "Icicle Spear",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 25,
 	"base_accuracy": 100,
 	"base_pp": 30,
@@ -3998,7 +4997,10 @@
 {
 	"id": 334,
 	"name": "Iron Defense",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 15,
@@ -4010,7 +5012,10 @@
 {
 	"id": 335,
 	"name": "Block",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -4022,7 +5027,10 @@
 {
 	"id": 336,
 	"name": "Howl",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 40,
@@ -4034,7 +5042,10 @@
 {
 	"id": 337,
 	"name": "Dragon Claw",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -4046,7 +5057,10 @@
 {
 	"id": 338,
 	"name": "Frenzy Plant",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 150,
 	"base_accuracy": 90,
 	"base_pp": 5,
@@ -4058,7 +5072,10 @@
 {
 	"id": 339,
 	"name": "Bulk Up",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -4070,7 +5087,10 @@
 {
 	"id": 340,
 	"name": "Bounce",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 85,
 	"base_accuracy": 85,
 	"base_pp": 5,
@@ -4082,7 +5102,10 @@
 {
 	"id": 341,
 	"name": "Mud Shot",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 55,
 	"base_accuracy": 95,
 	"base_pp": 15,
@@ -4094,7 +5117,10 @@
 {
 	"id": 342,
 	"name": "Poison Tail",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 50,
 	"base_accuracy": 100,
 	"base_pp": 25,
@@ -4106,7 +5132,10 @@
 {
 	"id": 343,
 	"name": "Covet",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 25,
@@ -4118,7 +5147,10 @@
 {
 	"id": 344,
 	"name": "Volt Tackle",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 120,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -4130,7 +5162,10 @@
 {
 	"id": 345,
 	"name": "Magical Leaf",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 60,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -4142,7 +5177,10 @@
 {
 	"id": 346,
 	"name": "Water Sport",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 15,
@@ -4154,7 +5192,10 @@
 {
 	"id": 347,
 	"name": "Calm Mind",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -4166,7 +5207,10 @@
 {
 	"id": 348,
 	"name": "Leaf Blade",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 90,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -4178,7 +5222,10 @@
 {
 	"id": 349,
 	"name": "Dragon Dance",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -4190,7 +5237,10 @@
 {
 	"id": 350,
 	"name": "Rock Blast",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 25,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -4202,7 +5252,10 @@
 {
 	"id": 351,
 	"name": "Shock Wave",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 60,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -4214,7 +5267,10 @@
 {
 	"id": 352,
 	"name": "Water Pulse",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -4226,7 +5282,10 @@
 {
 	"id": 353,
 	"name": "Doom Desire",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 140,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -4238,7 +5297,10 @@
 {
 	"id": 354,
 	"name": "Psycho Boost",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 140,
 	"base_accuracy": 90,
 	"base_pp": 5,
@@ -4250,7 +5312,10 @@
 {
 	"id": 355,
 	"name": "Roost",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -4262,7 +5327,10 @@
 {
 	"id": 356,
 	"name": "Gravity",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -4274,7 +5342,10 @@
 {
 	"id": 357,
 	"name": "Miracle Eye",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 40,
@@ -4286,7 +5357,10 @@
 {
 	"id": 358,
 	"name": "Wake-Up Slap",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 70,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -4298,7 +5372,10 @@
 {
 	"id": 359,
 	"name": "Hammer Arm",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 100,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -4310,7 +5387,10 @@
 {
 	"id": 360,
 	"name": "Gyro Ball",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -4322,7 +5402,10 @@
 {
 	"id": 361,
 	"name": "Healing Wish",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -4334,7 +5417,10 @@
 {
 	"id": 362,
 	"name": "Brine",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 65,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -4346,7 +5432,10 @@
 {
 	"id": 363,
 	"name": "Natural Gift",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -4358,7 +5447,10 @@
 {
 	"id": 364,
 	"name": "Feint",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 30,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -4370,7 +5462,10 @@
 {
 	"id": 365,
 	"name": "Pluck",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -4382,7 +5477,10 @@
 {
 	"id": 366,
 	"name": "Tailwind",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 15,
@@ -4394,7 +5492,10 @@
 {
 	"id": 367,
 	"name": "Acupressure",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 30,
@@ -4406,7 +5507,10 @@
 {
 	"id": 368,
 	"name": "Metal Burst",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -4418,7 +5522,10 @@
 {
 	"id": 369,
 	"name": "U-turn",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 70,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -4430,7 +5537,10 @@
 {
 	"id": 370,
 	"name": "Close Combat",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 120,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -4442,7 +5552,10 @@
 {
 	"id": 371,
 	"name": "Payback",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 50,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -4454,7 +5567,10 @@
 {
 	"id": 372,
 	"name": "Assurance",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -4466,7 +5582,10 @@
 {
 	"id": 373,
 	"name": "Embargo",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -4478,7 +5597,10 @@
 {
 	"id": 374,
 	"name": "Fling",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -4490,7 +5612,10 @@
 {
 	"id": 375,
 	"name": "Psycho Shift",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -4502,7 +5627,10 @@
 {
 	"id": 376,
 	"name": "Trump Card",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 1,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -4514,7 +5642,10 @@
 {
 	"id": 377,
 	"name": "Heal Block",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -4526,7 +5657,10 @@
 {
 	"id": 378,
 	"name": "Wring Out",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -4538,7 +5672,10 @@
 {
 	"id": 379,
 	"name": "Power Trick",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -4550,7 +5687,10 @@
 {
 	"id": 380,
 	"name": "Gastro Acid",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -4562,7 +5702,10 @@
 {
 	"id": 381,
 	"name": "Lucky Chant",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 30,
@@ -4574,7 +5717,10 @@
 {
 	"id": 382,
 	"name": "Me First",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 1,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -4586,7 +5732,10 @@
 {
 	"id": 383,
 	"name": "Copycat",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -4598,7 +5747,10 @@
 {
 	"id": 384,
 	"name": "Power Swap",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -4610,7 +5762,10 @@
 {
 	"id": 385,
 	"name": "Guard Swap",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -4622,7 +5777,10 @@
 {
 	"id": 386,
 	"name": "Punishment",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -4634,7 +5792,10 @@
 {
 	"id": 387,
 	"name": "Last Resort",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 140,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -4646,7 +5807,10 @@
 {
 	"id": 388,
 	"name": "Worry Seed",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -4658,7 +5822,10 @@
 {
 	"id": 389,
 	"name": "Sucker Punch",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 70,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -4670,7 +5837,10 @@
 {
 	"id": 390,
 	"name": "Toxic Spikes",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -4682,7 +5852,10 @@
 {
 	"id": 391,
 	"name": "Heart Swap",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -4694,7 +5867,10 @@
 {
 	"id": 392,
 	"name": "Aqua Ring",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -4706,7 +5882,10 @@
 {
 	"id": 393,
 	"name": "Magnet Rise",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -4718,7 +5897,10 @@
 {
 	"id": 394,
 	"name": "Flare Blitz",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 120,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -4730,7 +5912,10 @@
 {
 	"id": 395,
 	"name": "Force Palm",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -4742,7 +5927,10 @@
 {
 	"id": 396,
 	"name": "Aura Sphere",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 80,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -4754,7 +5942,10 @@
 {
 	"id": 397,
 	"name": "Rock Polish",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -4766,7 +5957,10 @@
 {
 	"id": 398,
 	"name": "Poison Jab",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -4778,7 +5972,10 @@
 {
 	"id": 399,
 	"name": "Dark Pulse",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -4790,7 +5987,10 @@
 {
 	"id": 400,
 	"name": "Night Slash",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 70,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -4802,7 +6002,10 @@
 {
 	"id": 401,
 	"name": "Aqua Tail",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 90,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -4814,7 +6017,10 @@
 {
 	"id": 402,
 	"name": "Seed Bomb",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -4826,7 +6032,10 @@
 {
 	"id": 403,
 	"name": "Air Slash",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 75,
 	"base_accuracy": 95,
 	"base_pp": 15,
@@ -4838,7 +6047,10 @@
 {
 	"id": 404,
 	"name": "X-Scissor",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -4850,7 +6062,10 @@
 {
 	"id": 405,
 	"name": "Bug Buzz",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 90,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -4862,7 +6077,10 @@
 {
 	"id": 406,
 	"name": "Dragon Pulse",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 85,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -4874,7 +6092,10 @@
 {
 	"id": 407,
 	"name": "Dragon Rush",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 100,
 	"base_accuracy": 75,
 	"base_pp": 10,
@@ -4886,7 +6107,10 @@
 {
 	"id": 408,
 	"name": "Power Gem",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -4898,7 +6122,10 @@
 {
 	"id": 409,
 	"name": "Drain Punch",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 75,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -4910,7 +6137,10 @@
 {
 	"id": 410,
 	"name": "Vacuum Wave",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 30,
@@ -4922,7 +6152,10 @@
 {
 	"id": 411,
 	"name": "Focus Blast",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 120,
 	"base_accuracy": 70,
 	"base_pp": 5,
@@ -4934,7 +6167,10 @@
 {
 	"id": 412,
 	"name": "Energy Ball",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 90,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -4946,7 +6182,10 @@
 {
 	"id": 413,
 	"name": "Brave Bird",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 120,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -4958,7 +6197,10 @@
 {
 	"id": 414,
 	"name": "Earth Power",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 90,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -4970,7 +6212,10 @@
 {
 	"id": 415,
 	"name": "Switcheroo",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -4982,7 +6227,10 @@
 {
 	"id": 416,
 	"name": "Giga Impact",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 150,
 	"base_accuracy": 90,
 	"base_pp": 5,
@@ -4994,7 +6242,10 @@
 {
 	"id": 417,
 	"name": "Nasty Plot",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -5006,7 +6257,10 @@
 {
 	"id": 418,
 	"name": "Bullet Punch",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 30,
@@ -5018,7 +6272,10 @@
 {
 	"id": 419,
 	"name": "Avalanche",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -5030,7 +6287,10 @@
 {
 	"id": 420,
 	"name": "Ice Shard",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 30,
@@ -5042,7 +6302,10 @@
 {
 	"id": 421,
 	"name": "Shadow Claw",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 70,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -5054,7 +6317,10 @@
 {
 	"id": 422,
 	"name": "Thunder Fang",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 65,
 	"base_accuracy": 95,
 	"base_pp": 15,
@@ -5066,7 +6332,10 @@
 {
 	"id": 423,
 	"name": "Ice Fang",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 65,
 	"base_accuracy": 95,
 	"base_pp": 15,
@@ -5078,7 +6347,10 @@
 {
 	"id": 424,
 	"name": "Fire Fang",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 65,
 	"base_accuracy": 95,
 	"base_pp": 15,
@@ -5090,7 +6362,10 @@
 {
 	"id": 425,
 	"name": "Shadow Sneak",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 30,
@@ -5102,7 +6377,10 @@
 {
 	"id": 426,
 	"name": "Mud Bomb",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 65,
 	"base_accuracy": 85,
 	"base_pp": 10,
@@ -5114,7 +6392,10 @@
 {
 	"id": 427,
 	"name": "Psycho Cut",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 70,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -5126,7 +6407,10 @@
 {
 	"id": 428,
 	"name": "Zen Headbutt",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 80,
 	"base_accuracy": 90,
 	"base_pp": 15,
@@ -5138,7 +6422,10 @@
 {
 	"id": 429,
 	"name": "Mirror Shot",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 65,
 	"base_accuracy": 85,
 	"base_pp": 10,
@@ -5150,7 +6437,10 @@
 {
 	"id": 430,
 	"name": "Flash Cannon",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -5162,7 +6452,10 @@
 {
 	"id": 431,
 	"name": "Rock Climb",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 90,
 	"base_accuracy": 85,
 	"base_pp": 20,
@@ -5174,7 +6467,10 @@
 {
 	"id": 432,
 	"name": "Defog",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 15,
@@ -5186,7 +6482,10 @@
 {
 	"id": 433,
 	"name": "Trick Room",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -5198,7 +6497,10 @@
 {
 	"id": 434,
 	"name": "Draco Meteor",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 130,
 	"base_accuracy": 90,
 	"base_pp": 5,
@@ -5210,7 +6512,10 @@
 {
 	"id": 435,
 	"name": "Discharge",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -5222,7 +6527,10 @@
 {
 	"id": 436,
 	"name": "Lava Plume",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -5234,7 +6542,10 @@
 {
 	"id": 437,
 	"name": "Leaf Storm",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 130,
 	"base_accuracy": 90,
 	"base_pp": 5,
@@ -5246,7 +6557,10 @@
 {
 	"id": 438,
 	"name": "Power Whip",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 120,
 	"base_accuracy": 85,
 	"base_pp": 10,
@@ -5258,7 +6572,10 @@
 {
 	"id": 439,
 	"name": "Rock Wrecker",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 150,
 	"base_accuracy": 90,
 	"base_pp": 5,
@@ -5270,7 +6587,10 @@
 {
 	"id": 440,
 	"name": "Cross Poison",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 70,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -5282,7 +6602,10 @@
 {
 	"id": 441,
 	"name": "Gunk Shot",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 120,
 	"base_accuracy": 80,
 	"base_pp": 5,
@@ -5294,7 +6617,10 @@
 {
 	"id": 442,
 	"name": "Iron Head",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -5306,7 +6632,10 @@
 {
 	"id": 443,
 	"name": "Magnet Bomb",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -5318,7 +6647,10 @@
 {
 	"id": 444,
 	"name": "Stone Edge",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 100,
 	"base_accuracy": 80,
 	"base_pp": 5,
@@ -5330,7 +6662,10 @@
 {
 	"id": 445,
 	"name": "Captivate",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -5342,7 +6677,10 @@
 {
 	"id": 446,
 	"name": "Stealth Rock",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -5354,7 +6692,10 @@
 {
 	"id": 447,
 	"name": "Grass Knot",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -5366,7 +6707,10 @@
 {
 	"id": 448,
 	"name": "Chatter",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 65,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -5378,7 +6722,10 @@
 {
 	"id": 449,
 	"name": "Judgment",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 100,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -5390,7 +6737,10 @@
 {
 	"id": 450,
 	"name": "Bug Bite",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -5402,7 +6752,10 @@
 {
 	"id": 451,
 	"name": "Charge Beam",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 50,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -5414,7 +6767,10 @@
 {
 	"id": 452,
 	"name": "Wood Hammer",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 120,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -5426,7 +6782,10 @@
 {
 	"id": 453,
 	"name": "Aqua Jet",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -5438,7 +6797,10 @@
 {
 	"id": 454,
 	"name": "Attack Order",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 90,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -5450,7 +6812,10 @@
 {
 	"id": 455,
 	"name": "Defend Order",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -5462,7 +6827,10 @@
 {
 	"id": 456,
 	"name": "Heal Order",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 5,
@@ -5474,7 +6842,10 @@
 {
 	"id": 457,
 	"name": "Head Smash",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 150,
 	"base_accuracy": 80,
 	"base_pp": 5,
@@ -5486,7 +6857,10 @@
 {
 	"id": 458,
 	"name": "Double Hit",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 35,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -5498,7 +6872,10 @@
 {
 	"id": 459,
 	"name": "Roar of Time",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 150,
 	"base_accuracy": 90,
 	"base_pp": 5,
@@ -5510,7 +6887,10 @@
 {
 	"id": 460,
 	"name": "Spacial Rend",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 100,
 	"base_accuracy": 95,
 	"base_pp": 5,
@@ -5522,7 +6902,10 @@
 {
 	"id": 461,
 	"name": "Lunar Dance",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -5534,7 +6917,10 @@
 {
 	"id": 462,
 	"name": "Crush Grip",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -5546,7 +6932,10 @@
 {
 	"id": 463,
 	"name": "Magma Storm",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 100,
 	"base_accuracy": 75,
 	"base_pp": 5,
@@ -5558,7 +6947,10 @@
 {
 	"id": 464,
 	"name": "Dark Void",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 50,
 	"base_pp": 10,
@@ -5570,7 +6962,10 @@
 {
 	"id": 465,
 	"name": "Seed Flare",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 120,
 	"base_accuracy": 85,
 	"base_pp": 5,
@@ -5582,7 +6977,10 @@
 {
 	"id": 466,
 	"name": "Ominous Wind",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -5594,7 +6992,10 @@
 {
 	"id": 467,
 	"name": "Shadow Force",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 120,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -5606,7 +7007,10 @@
 {
 	"id": 468,
 	"name": "Hone Claws",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 15,
@@ -5618,7 +7022,10 @@
 {
 	"id": 469,
 	"name": "Wide Guard",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -5630,7 +7037,10 @@
 {
 	"id": 470,
 	"name": "Guard Split",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -5642,7 +7052,10 @@
 {
 	"id": 471,
 	"name": "Power Split",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -5654,7 +7067,10 @@
 {
 	"id": 472,
 	"name": "Wonder Room",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -5666,7 +7082,10 @@
 {
 	"id": 473,
 	"name": "Psyshock",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -5678,7 +7097,10 @@
 {
 	"id": 474,
 	"name": "Venoshock",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 65,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -5690,7 +7112,10 @@
 {
 	"id": 475,
 	"name": "Autotomize",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 15,
@@ -5702,7 +7127,10 @@
 {
 	"id": 476,
 	"name": "Rage Powder",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -5714,7 +7142,10 @@
 {
 	"id": 477,
 	"name": "Telekinesis",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 15,
@@ -5726,7 +7157,10 @@
 {
 	"id": 478,
 	"name": "Magic Room",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -5738,7 +7172,10 @@
 {
 	"id": 479,
 	"name": "Smack Down",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 50,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -5750,7 +7187,10 @@
 {
 	"id": 480,
 	"name": "Storm Throw",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -5762,7 +7202,10 @@
 {
 	"id": 481,
 	"name": "Flame Burst",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 70,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -5774,7 +7217,10 @@
 {
 	"id": 482,
 	"name": "Sludge Wave",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 95,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -5786,7 +7232,10 @@
 {
 	"id": 483,
 	"name": "Quiver Dance",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -5798,7 +7247,10 @@
 {
 	"id": 484,
 	"name": "Heavy Slam",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -5810,7 +7262,10 @@
 {
 	"id": 485,
 	"name": "Synchronoise",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 120,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -5822,7 +7277,10 @@
 {
 	"id": 486,
 	"name": "Electro Ball",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -5834,7 +7292,10 @@
 {
 	"id": 487,
 	"name": "Soak",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -5846,7 +7307,10 @@
 {
 	"id": 488,
 	"name": "Flame Charge",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 50,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -5858,7 +7322,10 @@
 {
 	"id": 489,
 	"name": "Coil",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 20,
@@ -5870,7 +7337,10 @@
 {
 	"id": 490,
 	"name": "Low Sweep",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 65,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -5882,7 +7352,10 @@
 {
 	"id": 491,
 	"name": "Acid Spray",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -5894,7 +7367,10 @@
 {
 	"id": 492,
 	"name": "Foul Play",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 95,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -5906,7 +7382,10 @@
 {
 	"id": 493,
 	"name": "Simple Beam",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -5918,7 +7397,10 @@
 {
 	"id": 494,
 	"name": "Entrainment",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -5930,7 +7412,10 @@
 {
 	"id": 495,
 	"name": "After You",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 15,
@@ -5942,7 +7427,10 @@
 {
 	"id": 496,
 	"name": "Round",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -5954,7 +7442,10 @@
 {
 	"id": 497,
 	"name": "Echoed Voice",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 40,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -5966,7 +7457,10 @@
 {
 	"id": 498,
 	"name": "Chip Away",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 70,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -5978,7 +7472,10 @@
 {
 	"id": 499,
 	"name": "Clear Smog",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 50,
 	"base_accuracy": 101,
 	"base_pp": 15,
@@ -5990,7 +7487,10 @@
 {
 	"id": 500,
 	"name": "Stored Power",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 20,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -6002,7 +7502,10 @@
 {
 	"id": 501,
 	"name": "Quick Guard",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 15,
@@ -6014,7 +7517,10 @@
 {
 	"id": 502,
 	"name": "Ally Switch",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 15,
@@ -6026,7 +7532,10 @@
 {
 	"id": 503,
 	"name": "Scald",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -6038,7 +7547,10 @@
 {
 	"id": 504,
 	"name": "Shell Smash",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 15,
@@ -6050,7 +7562,10 @@
 {
 	"id": 505,
 	"name": "Heal Pulse",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -6062,7 +7577,10 @@
 {
 	"id": 506,
 	"name": "Hex",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 65,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -6074,7 +7592,10 @@
 {
 	"id": 507,
 	"name": "Sky Drop",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -6086,7 +7607,10 @@
 {
 	"id": 508,
 	"name": "Shift Gear",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -6098,7 +7622,10 @@
 {
 	"id": 509,
 	"name": "Circle Throw",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -6110,7 +7637,10 @@
 {
 	"id": 510,
 	"name": "Incinerate",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -6122,7 +7652,10 @@
 {
 	"id": 511,
 	"name": "Quash",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -6134,7 +7667,10 @@
 {
 	"id": 512,
 	"name": "Acrobatics",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 55,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -6146,7 +7682,10 @@
 {
 	"id": 513,
 	"name": "Reflect Type",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 15,
@@ -6158,7 +7697,10 @@
 {
 	"id": 514,
 	"name": "Retaliate",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 70,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -6170,7 +7712,10 @@
 {
 	"id": 515,
 	"name": "Final Gambit",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -6182,7 +7727,10 @@
 {
 	"id": 516,
 	"name": "Bestow",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 15,
@@ -6194,7 +7742,10 @@
 {
 	"id": 517,
 	"name": "Inferno",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 100,
 	"base_accuracy": 50,
 	"base_pp": 5,
@@ -6206,7 +7757,10 @@
 {
 	"id": 518,
 	"name": "Water Pledge",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -6218,7 +7772,10 @@
 {
 	"id": 519,
 	"name": "Fire Pledge",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -6230,7 +7787,10 @@
 {
 	"id": 520,
 	"name": "Grass Pledge",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -6242,7 +7802,10 @@
 {
 	"id": 521,
 	"name": "Volt Switch",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 70,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -6254,7 +7817,10 @@
 {
 	"id": 522,
 	"name": "Struggle Bug",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 50,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -6266,7 +7832,10 @@
 {
 	"id": 523,
 	"name": "Bulldoze",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -6278,7 +7847,10 @@
 {
 	"id": 524,
 	"name": "Frost Breath",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 60,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -6290,7 +7862,10 @@
 {
 	"id": 525,
 	"name": "Dragon Tail",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -6302,7 +7877,10 @@
 {
 	"id": 526,
 	"name": "Work Up",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 30,
@@ -6314,7 +7892,10 @@
 {
 	"id": 527,
 	"name": "Electroweb",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 55,
 	"base_accuracy": 95,
 	"base_pp": 15,
@@ -6326,7 +7907,10 @@
 {
 	"id": 528,
 	"name": "Wild Charge",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 90,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -6338,7 +7922,10 @@
 {
 	"id": 529,
 	"name": "Drill Run",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 80,
 	"base_accuracy": 95,
 	"base_pp": 10,
@@ -6350,7 +7937,10 @@
 {
 	"id": 530,
 	"name": "Dual Chop",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 40,
 	"base_accuracy": 90,
 	"base_pp": 15,
@@ -6362,7 +7952,10 @@
 {
 	"id": 531,
 	"name": "Heart Stamp",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 60,
 	"base_accuracy": 100,
 	"base_pp": 25,
@@ -6374,7 +7967,10 @@
 {
 	"id": 532,
 	"name": "Horn Leech",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 75,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -6386,7 +7982,10 @@
 {
 	"id": 533,
 	"name": "Sacred Sword",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 90,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -6398,7 +7997,10 @@
 {
 	"id": 534,
 	"name": "Razor Shell",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 75,
 	"base_accuracy": 95,
 	"base_pp": 10,
@@ -6410,7 +8012,10 @@
 {
 	"id": 535,
 	"name": "Heat Crash",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 1,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -6422,7 +8027,10 @@
 {
 	"id": 536,
 	"name": "Leaf Tornado",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 65,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -6434,7 +8042,10 @@
 {
 	"id": 537,
 	"name": "Steamroller",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 65,
 	"base_accuracy": 100,
 	"base_pp": 20,
@@ -6446,7 +8057,10 @@
 {
 	"id": 538,
 	"name": "Cotton Guard",
-	"skill_damage_type": "STATUS",
+	"skill_damage_type": {
+		"jb": 2,
+		"Y": 2
+	},
 	"base_power": 0,
 	"base_accuracy": 101,
 	"base_pp": 10,
@@ -6458,7 +8072,10 @@
 {
 	"id": 539,
 	"name": "Night Daze",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 85,
 	"base_accuracy": 95,
 	"base_pp": 10,
@@ -6470,7 +8087,10 @@
 {
 	"id": 540,
 	"name": "Psystrike",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 100,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -6482,7 +8102,10 @@
 {
 	"id": 541,
 	"name": "Tail Slap",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 25,
 	"base_accuracy": 85,
 	"base_pp": 10,
@@ -6494,7 +8117,10 @@
 {
 	"id": 542,
 	"name": "Hurricane",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 110,
 	"base_accuracy": 70,
 	"base_pp": 10,
@@ -6506,7 +8132,10 @@
 {
 	"id": 543,
 	"name": "Head Charge",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 120,
 	"base_accuracy": 100,
 	"base_pp": 15,
@@ -6518,7 +8147,10 @@
 {
 	"id": 544,
 	"name": "Gear Grind",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 50,
 	"base_accuracy": 85,
 	"base_pp": 15,
@@ -6530,7 +8162,10 @@
 {
 	"id": 545,
 	"name": "Searing Shot",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 100,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -6542,7 +8177,10 @@
 {
 	"id": 546,
 	"name": "Techno Blast",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 120,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -6554,7 +8192,10 @@
 {
 	"id": 547,
 	"name": "Relic Song",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 75,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -6566,7 +8207,10 @@
 {
 	"id": 548,
 	"name": "Secret Sword",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 85,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -6578,7 +8222,10 @@
 {
 	"id": 549,
 	"name": "Glaciate",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 65,
 	"base_accuracy": 95,
 	"base_pp": 10,
@@ -6590,7 +8237,10 @@
 {
 	"id": 550,
 	"name": "Bolt Strike",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 130,
 	"base_accuracy": 85,
 	"base_pp": 5,
@@ -6602,7 +8252,10 @@
 {
 	"id": 551,
 	"name": "Blue Flare",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 130,
 	"base_accuracy": 85,
 	"base_pp": 5,
@@ -6614,7 +8267,10 @@
 {
 	"id": 552,
 	"name": "Fiery Dance",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 80,
 	"base_accuracy": 100,
 	"base_pp": 10,
@@ -6626,7 +8282,10 @@
 {
 	"id": 553,
 	"name": "Freeze Shock",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 140,
 	"base_accuracy": 90,
 	"base_pp": 5,
@@ -6638,7 +8297,10 @@
 {
 	"id": 554,
 	"name": "Ice Burn",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 140,
 	"base_accuracy": 90,
 	"base_pp": 5,
@@ -6650,7 +8312,10 @@
 {
 	"id": 555,
 	"name": "Snarl",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 55,
 	"base_accuracy": 95,
 	"base_pp": 15,
@@ -6662,7 +8327,10 @@
 {
 	"id": 556,
 	"name": "Icicle Crash",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 85,
 	"base_accuracy": 90,
 	"base_pp": 10,
@@ -6674,7 +8342,10 @@
 {
 	"id": 557,
 	"name": "V-create",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 180,
 	"base_accuracy": 95,
 	"base_pp": 5,
@@ -6686,7 +8357,10 @@
 {
 	"id": 558,
 	"name": "Fusion Flare",
-	"skill_damage_type": "SPECIAL",
+	"skill_damage_type": {
+		"jb": 1,
+		"Y": 1
+	},
 	"base_power": 100,
 	"base_accuracy": 100,
 	"base_pp": 5,
@@ -6698,7 +8372,10 @@
 {
 	"id": 559,
 	"name": "Fusion Bolt",
-	"skill_damage_type": "PHYSICAL",
+	"skill_damage_type": {
+		"jb": 0,
+		"Y": 0
+	},
 	"base_power": 100,
 	"base_accuracy": 100,
 	"base_pp": 5,
