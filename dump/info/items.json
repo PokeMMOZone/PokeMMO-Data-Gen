@@ -3170,7 +3170,7 @@
 {
 	"id": 1335,
 	"name": "Phantom Particle Effect",
-	"desc": "Purranormal activity\n\nUse to assign this particle to a\nPokémon.\nConsumed upon use.",
+	"desc": "Purranormal activity.\n\nUse to assign this particle to a\nPokémon.\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1335,
 	"name_string_id": 11035,
@@ -3179,7 +3179,7 @@
 {
 	"id": 1336,
 	"name": "Shiny Phantom Particle Effect",
-	"desc": "Purranormal activity\n\nUse to assign this particle to a\nPokémon.\nConsumed upon use.",
+	"desc": "Purranormal activity.\n\nUse to assign this particle to a\nPokémon.\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1336,
 	"name_string_id": 11036,
@@ -3188,7 +3188,7 @@
 {
 	"id": 1337,
 	"name": "Dark Crystal Particle Effect",
-	"desc": "--\n\nUse to assign this particle to a\nPokémon.\nConsumed upon use.",
+	"desc": "Surging with evil energy.\n\nUse to assign this particle to a\nPokémon.\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1337,
 	"name_string_id": 11037,
@@ -3197,7 +3197,7 @@
 {
 	"id": 1338,
 	"name": "Shiny Dark Crystal Particle Effect",
-	"desc": "--\n\nUse to assign this particle to a\nPokémon.\nConsumed upon use.",
+	"desc": "Surging with evil energy.\n\nUse to assign this particle to a\nPokémon.\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1338,
 	"name_string_id": 11038,
