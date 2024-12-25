@@ -333,6 +333,12 @@ alpha_list = [
     "cryogonal",
     "rufflet",
     "braviary",
+    "golett",
+    "golurk",
+    "mandibuzz",
+    "venipede",
+    "whirlipede",
+    "scolipede",
 ]
 
 egg_group_updates = {
@@ -681,7 +687,9 @@ def main():
             )
 
             # Process name translations
-            species_data["name_translations"] = process_name_translations(species_data["names"])
+            species_data["name_translations"] = process_name_translations(
+                species_data["names"]
+            )
             species_data.pop("names", None)  # Remove the 'names' key after processing
 
             # Set 'alpha' field

@@ -3233,7 +3233,7 @@
 {
 	"id": 1403,
 	"name": "Item Magnet Charm (+25%)",
-	"desc": "A charm which increases the chance to\nfind an item from wild encounters.\n\nStacks with other bonuses.\nConsumed upon use.\nEffects last 1 hour.\nLink members receive a 10% bonus.",
+	"desc": "A charm which increases chances to\nfind items in wild battles. It\nincreases the chance of a Pokémon\nholding an item and the rate at which\nitems are randomly found.\n\nStacks with other bonuses.\nConsumed upon use.\nEffects last 1 hour.\nLink members receive a 10% bonus.",
 	"region_id": 10,
 	"icon_id": 1403,
 	"name_string_id": 101403,
@@ -3242,7 +3242,7 @@
 {
 	"id": 1404,
 	"name": "Item Magnet Charm (+50%)",
-	"desc": "A charm which increases the chance to\nfind an item from wild encounters.\n\nStacks with other bonuses.\nConsumed upon use.\nEffects last 1 hour.\nLink members receive a 10% bonus.",
+	"desc": "A charm which increases chances to\nfind items in wild battles. It\nincreases the chance of a Pokémon\nholding an item and the rate at which\nitems are randomly found.\n\nStacks with other bonuses.\nConsumed upon use.\nEffects last 1 hour.\nLink members receive a 10% bonus.",
 	"region_id": 10,
 	"icon_id": 1403,
 	"name_string_id": 101404,
@@ -3251,7 +3251,7 @@
 {
 	"id": 1405,
 	"name": "Item Magnet Charm (+100%)",
-	"desc": "A charm which increases the chance to\nfind an item from wild encounters.\n\nStacks with other bonuses.\nConsumed upon use.\nEffects last 1 hour.\nLink members receive a 10% bonus.",
+	"desc": "A charm which increases chances to\nfind items in wild battles. It\nincreases the chance of a Pokémon\nholding an item and the rate at which\nitems are randomly found.\n\nStacks with other bonuses.\nConsumed upon use.\nEffects last 1 hour.\nLink members receive a 10% bonus.",
 	"region_id": 10,
 	"icon_id": 1403,
 	"name_string_id": 101405,
@@ -3439,8 +3439,8 @@
 },
 {
 	"id": 1426,
-	"name": "Heavy Boots",
-	"desc": "An item to be held by a Pokémon. These\nthick-soled boots guard against entry\nhazard effects like Spikes when\nswitching into the field.",
+	"name": "Reinforced Boots",
+	"desc": "An item to be held by a Pokémon. These\nthick-soled boots guard against entry\nhazards like Spikes.",
 	"region_id": 10,
 	"icon_id": 1426,
 	"name_string_id": 101180,
@@ -3484,20 +3484,20 @@
 },
 {
 	"id": 1431,
-	"name": "Xmas Present",
+	"name": "Xmas Present (2022)",
 	"desc": "A fancy looking present which contains\nan unknown reward.\n\nMay contain exclusive items for Xmas\n2022. Use to open.",
 	"region_id": 10,
 	"icon_id": 1024,
-	"name_string_id": 100043,
+	"name_string_id": 101253,
 	"desc_string_id": 101182
 },
 {
 	"id": 1432,
-	"name": "Santa's Present",
+	"name": "Santa's Present (2022)",
 	"desc": "A fancy looking present which contains\nan unknown reward.\n\nMay contain exclusive items for Xmas\n2022. Use to open.",
 	"region_id": 10,
 	"icon_id": 1131,
-	"name_string_id": 100084,
+	"name_string_id": 101254,
 	"desc_string_id": 101182
 },
 {
@@ -3907,7 +3907,7 @@
 },
 {
 	"id": 1478,
-	"name": "Mysterious Poké Ball",
+	"name": "Mysterious Poké Ball (2023)",
 	"desc": "A mysterious Poké Ball which contains\nan unknown reward. It has a high base\nchance to contain a Shiny Pokémon\n(1/8,000).\n\nExclusive to Xmas 2023.",
 	"region_id": 10,
 	"icon_id": 1427,
@@ -3916,7 +3916,7 @@
 },
 {
 	"id": 1479,
-	"name": "Mysterious Great Ball",
+	"name": "Mysterious Great Ball (2023)",
 	"desc": "A mysterious Great Ball which contains\nan unknown reward. It has a very high\nbase chance to contain a Shiny\nPokémon (1/4,000).\n\nExclusive to Xmas 2023.",
 	"region_id": 10,
 	"icon_id": 1428,
@@ -3925,7 +3925,7 @@
 },
 {
 	"id": 1480,
-	"name": "Mysterious Ultra Ball",
+	"name": "Mysterious Ultra Ball (2023)",
 	"desc": "A mysterious Ultra Ball which contains\nan unknown reward. It has an\nexceptionally high base chance to\ncontain a Shiny Pokémon (1/2,500).\n\nExclusive to Xmas 2023.",
 	"region_id": 10,
 	"icon_id": 1429,
@@ -3934,7 +3934,7 @@
 },
 {
 	"id": 1481,
-	"name": "Mysterious Premier Ball",
+	"name": "Mysterious Premier Ball (2023)",
 	"desc": "A mysterious Premier Ball which\ncontains an unknown reward. It has a\nvery high base chance to contain a\nShiny Pokémon (1/4,000).\n\nExclusive to Xmas 2023.",
 	"region_id": 10,
 	"icon_id": 1430,
@@ -4158,6 +4158,159 @@
 	"desc_string_id": 101119
 },
 {
+	"id": 1506,
+	"name": "Punching Gloves",
+	"desc": "An item to be held by a Pokémon. These\ngloves boost the power of the\nholder's punching moves and prevents\ncontact when attacking foes.",
+	"region_id": 10,
+	"icon_id": 1506,
+	"name_string_id": 101192,
+	"desc_string_id": 101193
+},
+{
+	"id": 1507,
+	"name": "Pure Amulet",
+	"desc": "An item to be held by a Pokémon. It\nprevents the holder from having its\nstat stages lowered. It doesn't\nprevent stat clearing effects like\nClear Smog or Haze.",
+	"region_id": 10,
+	"icon_id": 1507,
+	"name_string_id": 101194,
+	"desc_string_id": 101195
+},
+{
+	"id": 1508,
+	"name": "Covert Mantle",
+	"desc": "An item to be held by a Pokémon. This\nprotective garment guards the holder\nfrom the additional effects of other\nPokémon's damaging moves.",
+	"region_id": 10,
+	"icon_id": 1508,
+	"name_string_id": 101196,
+	"desc_string_id": 101197
+},
+{
+	"id": 1509,
+	"name": "Loaded Dice",
+	"desc": "An item to be held by a Pokémon. They\nboost the efficacy of multi-strike\nmoves, letting them hit more often.",
+	"region_id": 10,
+	"icon_id": 1509,
+	"name_string_id": 101198,
+	"desc_string_id": 101199
+},
+{
+	"id": 1510,
+	"name": "Safety Goggles",
+	"desc": "An item to be held by a Pokémon. These\nprotective goggles guard against\npowder moves, spore moves, and\nSandstorm damage.",
+	"region_id": 10,
+	"icon_id": 1510,
+	"name_string_id": 101226,
+	"desc_string_id": 101227
+},
+{
+	"id": 1511,
+	"name": "Type Policy",
+	"desc": "An item to be held by a Pokémon. If\nthe holder is hit by a super-effecti\nve move, Attack and Sp. Attack will\nsharply increase.\n\nConsumed upon use.",
+	"region_id": 10,
+	"icon_id": 1511,
+	"name_string_id": 101228,
+	"desc_string_id": 101229
+},
+{
+	"id": 1512,
+	"name": "Accident Policy",
+	"desc": "An item to be held by a Pokémon. If\nthe holder misses with an attack due\nto its Accuracy, Speed will sharply\nincrease.\n\nIt doesn't activate if missing with an\nOHKO move or if the target is\nsemi-invulnerable.\n\nConsumed upon use.",
+	"region_id": 10,
+	"icon_id": 1512,
+	"name_string_id": 101230,
+	"desc_string_id": 101231
+},
+{
+	"id": 1513,
+	"name": "Mirror Herb",
+	"desc": "An item to be held by a Pokémon. When\nheld, if an opponent increases their\nstat stages, the holder gets the same\nstat increases.\n\nConsumed upon use.",
+	"region_id": 10,
+	"icon_id": 1513,
+	"name_string_id": 101232,
+	"desc_string_id": 101233
+},
+{
+	"id": 1514,
+	"name": "Throat Spray",
+	"desc": "An item to be held by a Pokémon. When\nthe holder successfully uses a\nsound-based move, Sp. Attack is\nraised.\n\nConsumed upon use.",
+	"region_id": 10,
+	"icon_id": 1514,
+	"name_string_id": 101234,
+	"desc_string_id": 101235
+},
+{
+	"id": 1515,
+	"name": "Ability Guard",
+	"desc": "An item to be held by a Pokémon. It\nprevents the holder from having its\nability suppressed or changed by any\neffect. It also protects against\neffects which bypass abilities, like\nMold Breaker.",
+	"region_id": 10,
+	"icon_id": 1515,
+	"name_string_id": 101236,
+	"desc_string_id": 101237
+},
+{
+	"id": 1516,
+	"name": "Protective Pads",
+	"desc": "An item to be held by a Pokémon. They\nprevent effects which trigger on\ncontact when the holder attacks a\nfoe.",
+	"region_id": 10,
+	"icon_id": 1516,
+	"name_string_id": 101238,
+	"desc_string_id": 101239
+},
+{
+	"id": 1517,
+	"name": "Room Service",
+	"desc": "An item to be held by a Pokémon. When\nTrick Room takes effect, the holder's\nSpeed is lowered.\n\nConsumed upon use.",
+	"region_id": 10,
+	"icon_id": 1517,
+	"name_string_id": 101240,
+	"desc_string_id": 101241
+},
+{
+	"id": 1518,
+	"name": "Eject Pack",
+	"desc": "An item to be held by a Pokémon. If\nthe holder's stats are lowered, it\nwill immediately switch with another\nPokémon in your party.\n\nConsumed upon use.",
+	"region_id": 10,
+	"icon_id": 1518,
+	"name_string_id": 101242,
+	"desc_string_id": 101243
+},
+{
+	"id": 1519,
+	"name": "Utility Umbrella",
+	"desc": "An item to be held by a Pokémon. When\nheld, it prevents the effects of rain\nand harsh sunlight. It doesn't\nprevent other weather from affecting\nthe holder.",
+	"region_id": 10,
+	"icon_id": 1519,
+	"name_string_id": 101244,
+	"desc_string_id": 101245
+},
+{
+	"id": 1520,
+	"name": "Snowball",
+	"desc": "An item to be held by a Pokémon. If\nthe holder is hit by an Ice-type\nmove, their Attack will increase.\n\nConsumed upon use.",
+	"region_id": 10,
+	"icon_id": 1520,
+	"name_string_id": 101246,
+	"desc_string_id": 101247
+},
+{
+	"id": 1521,
+	"name": "Glowing Moss",
+	"desc": "An item to be held by a Pokémon. If\nthe holder is hit by a Water-type\nmove, their Sp. Defense will\nincrease.\n\nConsumed upon use.",
+	"region_id": 10,
+	"icon_id": 1521,
+	"name_string_id": 101248,
+	"desc_string_id": 101249
+},
+{
+	"id": 1522,
+	"name": "Deep Black Sphere",
+	"desc": "A glowing sphere which may be used to\nalter the IVs of certain Pokémon by\n1.\n\nConsumed upon use.",
+	"region_id": 10,
+	"icon_id": 1522,
+	"name_string_id": 101250,
+	"desc_string_id": 101251
+},
+{
 	"id": 1531,
 	"name": "Elfbot Mastery Device (Red)",
 	"desc": "Upgrades your Elfbot's Attack,\nSp.Attack, and Speed IVs by +4.\nConsumed upon use.",
@@ -4309,6 +4462,78 @@
 	"icon_id": 1128,
 	"name_string_id": 100079,
 	"desc_string_id": 101768
+},
+{
+	"id": 1576,
+	"name": "Mysterious Poké Ball",
+	"desc": "A mysterious Poké Ball which contains\nan unknown reward. It has a high base\nchance to contain a Shiny Pokémon\n(1/8,000).\n\nExclusive to Xmas 2024.",
+	"region_id": 10,
+	"icon_id": 1427,
+	"name_string_id": 101769,
+	"desc_string_id": 101770
+},
+{
+	"id": 1577,
+	"name": "Mysterious Great Ball",
+	"desc": "A mysterious Great Ball which contains\nan unknown reward. It has a high base\nchance to contain a Shiny Pokémon\n(1/6,000).\n\nExclusive to Xmas 2024.",
+	"region_id": 10,
+	"icon_id": 1428,
+	"name_string_id": 101771,
+	"desc_string_id": 101772
+},
+{
+	"id": 1578,
+	"name": "Mysterious Ultra Ball",
+	"desc": "A mysterious Ultra Ball which contains\nan unknown reward. It has a very high\nbase chance to contain a Shiny\nPokémon (1/4,000).\n\nExclusive to Xmas 2024.",
+	"region_id": 10,
+	"icon_id": 1429,
+	"name_string_id": 101773,
+	"desc_string_id": 101774
+},
+{
+	"id": 1579,
+	"name": "Pokémon's Wish Tag",
+	"desc": "Although only marked with a footprint,\nyou can feel it represents that which\na Pokémon desires most.",
+	"region_id": 10,
+	"icon_id": 1579,
+	"name_string_id": 101776,
+	"desc_string_id": 101777
+},
+{
+	"id": 1580,
+	"name": "Wishing Star",
+	"desc": "A culmination of hopes and dreams.",
+	"region_id": 10,
+	"icon_id": 1580,
+	"name_string_id": 101778,
+	"desc_string_id": 101779
+},
+{
+	"id": 1581,
+	"name": "Unknown Item",
+	"desc": "Your client does not currently\nsupport\nthis item.\nPlease verify you have all required\nroms.",
+	"region_id": 10,
+	"icon_id": 1581,
+	"name_string_id": 1450,
+	"desc_string_id": 1451
+},
+{
+	"id": 1582,
+	"name": "Xmas Present",
+	"desc": "A fancy looking present which contains\nan unknown reward.\n\nMay contain exclusive items for Xmas\n2024. Use to open.",
+	"region_id": 10,
+	"icon_id": 1024,
+	"name_string_id": 100043,
+	"desc_string_id": 101252
+},
+{
+	"id": 1583,
+	"name": "Santa's Present",
+	"desc": "A fancy looking present which contains\nan unknown reward.\n\nMay contain exclusive items for Xmas\n2024. Use to open.",
+	"region_id": 10,
+	"icon_id": 1131,
+	"name_string_id": 100084,
+	"desc_string_id": 101252
 },
 {
 	"id": 1600,
@@ -8235,6 +8460,15 @@
 	"desc_string_id": 19999
 },
 {
+	"id": 3044,
+	"name": "Santa Beard",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30044,
+	"name_string_id": 24020,
+	"desc_string_id": 19999
+},
+{
 	"id": 3280,
 	"name": "Angel Wings",
 	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
@@ -9105,6 +9339,33 @@
 	"region_id": 10,
 	"icon_id": 30056,
 	"name_string_id": 25096,
+	"desc_string_id": 19999
+},
+{
+	"id": 3378,
+	"name": "Snowboarder Scarf",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30054,
+	"name_string_id": 25098,
+	"desc_string_id": 19999
+},
+{
+	"id": 3379,
+	"name": "Star Backpiece",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30054,
+	"name_string_id": 25099,
+	"desc_string_id": 19999
+},
+{
+	"id": 3380,
+	"name": "Snow Leopard Tail",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30054,
+	"name_string_id": 25100,
 	"desc_string_id": 19999
 },
 {
@@ -10629,6 +10890,42 @@
 	"desc_string_id": 19999
 },
 {
+	"id": 3707,
+	"name": "Star Bodysuit",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30064,
+	"name_string_id": 26171,
+	"desc_string_id": 19999
+},
+{
+	"id": 3708,
+	"name": "Snow Leopard Outfit",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30064,
+	"name_string_id": 26172,
+	"desc_string_id": 19999
+},
+{
+	"id": 3709,
+	"name": "Red Wishmaker Robes",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30065,
+	"name_string_id": 26173,
+	"desc_string_id": 19999
+},
+{
+	"id": 3710,
+	"name": "Teal Wishmaker Robes",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30065,
+	"name_string_id": 26174,
+	"desc_string_id": 19999
+},
+{
 	"id": 3792,
 	"name": "Unknown Item",
 	"desc": "Your client does not currently\nsupport\nthis item.\nPlease verify you have all required\nroms.",
@@ -10725,6 +11022,24 @@
 	"region_id": 10,
 	"icon_id": 30074,
 	"name_string_id": 27013,
+	"desc_string_id": 19999
+},
+{
+	"id": 3806,
+	"name": "Teal Star Rod",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30071,
+	"name_string_id": 27014,
+	"desc_string_id": 19999
+},
+{
+	"id": 3807,
+	"name": "Red Star Rod",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30071,
+	"name_string_id": 27015,
 	"desc_string_id": 19999
 },
 {
@@ -11601,6 +11916,42 @@
 	"desc_string_id": 19999
 },
 {
+	"id": 4691,
+	"name": "Star Cone Hat",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30014,
+	"name_string_id": 21371,
+	"desc_string_id": 19999
+},
+{
+	"id": 4692,
+	"name": "Snow Leopard Ears",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30014,
+	"name_string_id": 21372,
+	"desc_string_id": 19999
+},
+{
+	"id": 4693,
+	"name": "Red Wish Tag Earrings",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30014,
+	"name_string_id": 21373,
+	"desc_string_id": 19999
+},
+{
+	"id": 4694,
+	"name": "Teal Wish Tag Earrings",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30014,
+	"name_string_id": 21374,
+	"desc_string_id": 19999
+},
+{
 	"id": 4816,
 	"name": "Red Bicycle",
 	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
@@ -11710,7 +12061,7 @@
 },
 {
 	"id": 4828,
-	"name": "Christmas Sleigh",
+	"name": "Red Christmas Sleigh",
 	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
 	"region_id": 10,
 	"icon_id": 30113,
@@ -11985,6 +12336,15 @@
 	"region_id": 10,
 	"icon_id": 30111,
 	"name_string_id": 31050,
+	"desc_string_id": 19999
+},
+{
+	"id": 4867,
+	"name": "Purple Christmas Sleigh",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30113,
+	"name_string_id": 31051,
 	"desc_string_id": 19999
 },
 {
@@ -16112,7 +16472,7 @@
 {
 	"id": 5458,
 	"name": "Magma Stone",
-	"desc": "A stone formed when boulders melted\nin\nintensely hot magma, then hardened.\nMagma remains sealed inside.",
+	"desc": "A scorching hot stone which may be\nused to alter the IVs of certain\nPokémon by 1.\n\nConsumed upon use.",
 	"region_id": 2,
 	"icon_id": 5458,
 	"name_string_id": 245458,
@@ -17174,7 +17534,7 @@
 {
 	"id": 5576,
 	"name": "Dream Ball",
-	"desc": "A Poké Ball which becomes more\neffective if a wild Pokémon has been\nasleep a few turns.",
+	"desc": "A Poké Ball which becomes more\neffective the longer a wild Pokémon\nis asleep.",
 	"region_id": 2,
 	"icon_id": 5576,
 	"name_string_id": 245576,
@@ -23940,15 +24300,6 @@
 	"desc_string_id": 138457
 },
 {
-	"id": 8458,
-	"name": "Magma Stone",
-	"desc": "A stone formed when boulders melted\nin\nintensely hot magma, then hardened.\nMagma remains sealed inside.",
-	"region_id": 3,
-	"icon_id": 8458,
-	"name_string_id": 248458,
-	"desc_string_id": 138458
-},
-{
 	"id": 8459,
 	"name": "Parcel",
 	"desc": "A parcel entrusted in your care.\nYou are supposed to deliver it to\nyour\nchildhood friend who left Twinleaf\nTown.",
@@ -24469,15 +24820,6 @@
 	"icon_id": 9457,
 	"name_string_id": 249457,
 	"desc_string_id": 139457
-},
-{
-	"id": 9458,
-	"name": "Magma Stone",
-	"desc": "A stone formed when boulders melted\nin\nintensely hot magma, then hardened.\nMagma remains sealed inside.",
-	"region_id": 4,
-	"icon_id": 9458,
-	"name_string_id": 249458,
-	"desc_string_id": 139458
 },
 {
 	"id": 9459,
