@@ -2651,7 +2651,7 @@
     <string id="19958">Speciale</string>
     <string id="19959">Ricompensa PvE ({00})</string>
     <string id="19960">Rilasciato nel {00} {01}</string>
-    <string id="19961">Incontrato per la prima volta {00} {01}</string>
+    <string id="19961">Incontrato per la prima volta durante {00} {01}</string>
     <string id="19962">Esclusivo del {00} {01}</string>
     <string id="19963">Ricompensa per aver battuto il boss {00}</string>
     <string id="19964">Oggetto della stagione {00}</string>
@@ -3016,10 +3016,10 @@
     <string id="21367">Teschio Demoniaco Fiammante Blu</string>
     <string id="21369">Candela Spettrale</string>
     <string id="21370">Cuffia Spettrale</string>
-    <string id="21371">Cappello Conico Stellato</string>
+    <string id="21371">Cappello Conico Stellare</string>
     <string id="21372">Orecchie da Leopardo delle Nevi</string>
-    <string id="21373">Orecchini Targhetta Desiderio Rossi</string>
-    <string id="21374">Orecchini Targhetta Desiderio Verde Acqua</string>
+    <string id="21373">Orecchini Targhetta dei Desideri Rossi</string>
+    <string id="21374">Orecchini Targhetta dei Desideri Verde Acqua</string>
     <string id="22000">Capelli Default</string>
     <string id="22001">Afro</string>
     <string id="22004">Legati</string>
@@ -3172,7 +3172,7 @@
     <string id="25095">Addome da Vespa Gialla</string>
     <string id="25096">Addome da Vespa Cromatica</string>
     <string id="25098">Sciarpa da Snowboarder</string>
-    <string id="25099">Stella sulla Schiena</string>
+    <string id="25099">Schienale Stellare</string>
     <string id="25100">Coda da Leopardo delle Nevi</string>
     <string id="26000">Camice da Laboratorio di Desu (Colore)</string>
     <string id="26001">Soprabito</string>
@@ -3342,7 +3342,7 @@
     <string id="26168">Vestaglia da Bestia Tuonante</string>
     <string id="26169">Outfit da Roboelfo Fata</string>
     <string id="26170">Maglione di Caramella di Mais</string>
-    <string id="26171">Body Stellato</string>
+    <string id="26171">Tuta Stellare</string>
     <string id="26172">Outfit da Leopardo delle Nevi</string>
     <string id="26173">Vestito Rosso da Realizzatore di Desideri</string>
     <string id="26174">Vestito Verde Acqua da Realizzatore di Desideri</string>
@@ -3356,8 +3356,8 @@
     <string id="27010">Secchio Dolcetto o Scherzetto</string>
     <string id="27011">Secchio per Dolci di Halloween</string>
     <string id="27013">Guanti da Boxe</string>
-    <string id="27014">Canna da Pesca Stellare Verde Acqua</string>
-    <string id="27015">Canna da Pesca Stellare Rossa</string>
+    <string id="27014">Scettro Stellare Verde Acqua</string>
+    <string id="27015">Scettro Stellare Rosso</string>
     <string id="28000">Stivali</string>
     <string id="28001">Scarpe</string>
     <string id="28002">Scarpe di Caramella di Mais</string>
@@ -3380,7 +3380,7 @@
     <string id="31009">Bicicletta Argentata</string>
     <string id="31010">Bicicletta Bianca</string>
     <string id="31011">Bicicletta Gialla</string>
-    <string id="31012">Slitta di Natale</string>
+    <string id="31012">Slitta di Natale Rossa</string>
     <string id="31017">Moto Fiammeggiante</string>
     <string id="31028">Drago Rosso Fortunato</string>
     <string id="31030">Drago d'Oro Fortunato</string>
@@ -3724,9 +3724,9 @@
     <string id="101249">Strumento da far tenere a un {STRING_0}.\nSe chi lo tiene viene colpito da una mossa di tipo Acqua, la sua Difesa Sp. aumenterà.\n\nConsumato all'uso.</string>
     <string id="101250">Sfera Nero Profondo</string>
     <string id="101251">Una sfera luminosa che può essere usata per alterare gli IV di certi {STRING_0} di 1.\n\nConsumato dopo l'utilizzo.</string>
-    <string id="101252">A fancy looking present which contains an unknown reward.\n\nMay contain exclusive items for Xmas 2024. Use to open.</string>
-    <string id="101253">Xmas Present (2022)</string>
-    <string id="101254">Santa's Present (2022)</string>
+    <string id="101252">Un regalo elegante che contiene una ricompensa sconosciuta.\n\nPotrebbe contenere oggetti esclusivi del Natale 2024. Usa per aprirlo.</string>
+    <string id="101253">Regalo di Natale (2022)</string>
+    <string id="101254">Regalo di Babbo Natale (2022)</string>
     <string id="101300">Ocarina {STRING_110015}</string>
     <string id="101301">Evoca un {STRING_0} che userà {STRING_110015} fuori dalla lotta.\n\nNon può essere usata in certe circostanze.\n\nRichiede la specifica medaglia della regione per l'utilizzo.</string>
     <string id="101302">Ocarina {STRING_110019}</string>
@@ -18425,7 +18425,7 @@
     <string id="16804151">Buone vacanze da PokeMMO!\nGli incontri selvatici hanno un +15% di tasso di incontri Cromatici per il resto dell'evento.\nCumulativo con altri bonus che modificano le possibilità di incontri Cromatici.</string>
     <string id="16804152">Oh! Dalla {STRING_245004} è uscito {00} ed è stato trasferito al tuo PC!</string>
     <string id="16804153">Ho-ho no! {STRING_150225} si è schiantato sulla nostra slitta\nmentre consegnavamo i regali di quest'anno!\n\nSono dispersi in giro per tutta {00}. Se dovessi\nvederne qualcuno, per favore raccoglili e riportameli!</string>
-    <string id="16804154">I nostri {STRING_0} sono scappati\ne stanno vagando per {00}.\n\nSe riesci a catturarli e riportarli qui\nprima che il capo se ne accorga, ti darò una\n{STRING_101714} e altre cose.</string>
+    <string id="16804154">I nostri {STRING_0} sono scappati\ne stanno vagando per {00}.\n\nSe riesci a catturarli e riportarli qui\nprima che il capo se ne accorga, ti darò una\n{STRING_101769} e altre cose.</string>
     <string id="16804155">Grazie per il tuo aiuto.\nHai recuperato {00} aiutanti finora.\n\nQueste cose sono esigenti, vero?\nLi farò cambiare idea se mi porti 5 aiutanti.</string>
     <string id="16804156">Ho-ho! Ci sono ancora alcuni Grandi Regali\nmancanti!\n\nSe riesci a trovarli, riportameli per favore!</string>
     <string id="16804157">Grazie del tuo aiuto.\n\nHo trovato questo, ma non so a cosa serva.\n\nPotrebbe essere utile in futuro.</string>

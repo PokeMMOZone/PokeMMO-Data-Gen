@@ -16,7 +16,7 @@
     <string id="25">Leia para aceitar...</string>
     <string id="26">Não foi possível carregar o arquivo de string {00} pois está desatualizado.\nVersão esperada de strings: {01}</string>
     <string id="27">Não foi possível aplicar o mod {00} pois usa um tema com o nome {01}, que já está carregado.</string>
-    <string id="28">Não foi possível carregar o tema {00} pois está desatualizado.</string>
+    <string id="28">Não foi possível carregar o tema {00} pois está desatualizado.\nVersão esperada: {01}</string>
     <string id="29">Erro ao carregar os dados da rom.\nUma das roms carregadas é inválida ou está corrompida.</string>
     <string id="30">Erro ao carregar os recursos do PokeMMO.</string>
     <string id="31">Não foi possível carregar o tema {00} pois não é compatível com dispositivos móveis.</string>
@@ -277,7 +277,7 @@
     <string id="1152">{00} Passo(s) do safari.</string>
     <string id="1154">Horário Local</string>
     <string id="1155">{00}, {01}</string>
-    <string id="1156">LT {00}</string>
+    <string id="1156">O Mod {00} tenta sobrepor o diretório {01}.\nA sobreposição deste diretório está obsoleta e será removida no futuro.</string>
     <string id="1157">Dia</string>
     <string id="1158">Noite</string>
     <string id="1159">Desconectar</string>
@@ -3724,7 +3724,7 @@
     <string id="101249">Um item para ser segurado por um {STRING_0}. Se o portador for atingido por um movimento do tipo Água, sua Def. Esp. aumentará.\n\nConsumido após o uso.</string>
     <string id="101250">Esfera Negra</string>
     <string id="101251">Uma esfera brilhante que pode ser usada para alterar os IVs de certos {STRING_0} em 1.\n\nConsumida após o uso.</string>
-    <string id="101252">Um lindo presente\nque contêm uma recompensa desconhecida.\n\nPode conter um item exclusivo do Natal de 2024.\nUse para abrir.</string>
+    <string id="101252">Um lindo presente que contém uma recompensa desconhecida.\n\nPode conter um item exclusivo do Natal de 2024.\nUse para abrir.</string>
     <string id="101253">Presente de Natal (2022)</string>
     <string id="101254">Presente do Papai Noel (2022)</string>
     <string id="101300">Ocarina {STRING_110015}</string>
@@ -18425,7 +18425,7 @@
     <string id="16804151">O PokeMMO deseja boas festas!\nEncontros selvagens tem +15% de chance de ser Shiny durante todo esse evento.\nAcumula com outros bônus que modificam a shiny rate.</string>
     <string id="16804152">Conseguiu! {00} saiu da {STRING_245004} e foi transferido para o seu PC!</string>
     <string id="16804153">Ho-ho-ho! {STRING_150225} bateu o trenó\ntentando entregar os presentes desse ano!\n\nEles estão espalhados por toda {00}. Se você\nencontrar algum, por favor recolha-os e devolva-os\npara mim!</string>
-    <string id="16804154">Nossos {STRING_0} ajudantes escaparam\ne estão se agrupando por volta de {00}.\n\nSe puder capturá-los e retorná-los aqui\nantes que o chefe note, te darei um\n{STRING_101714} e outras coisas.</string>
+    <string id="16804154">Nossos {STRING_0} ajudantes escaparam\ne estão se agrupando por volta de {00}.\n\nSe puder capturá-los e retorná-los aqui\nantes que o chefe note, te darei um\n{STRING_101769} e outras coisas.</string>
     <string id="16804155">Agradeço sua ajuda.\nVocê capturou {00} ajudantes até agora.\n\nEles são exigentes, não são?\nVou fazê-los mudar de ideia se você me trouxer 5 ajudantes.</string>
     <string id="16804156">Ho-ho! Ainda há alguns Presentes Grandes\nperdidos também!\n\nSe puder encontrá-los, por favor traga-os para mim!</string>
     <string id="16804157">Agradeço sua ajuda.\nAchei isso, mas não sei para que serve.\n\nPode ser útil no futuro.</string>

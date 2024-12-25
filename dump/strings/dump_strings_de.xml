@@ -3380,7 +3380,7 @@
     <string id="31009">Silbernes Fahrrad</string>
     <string id="31010">Weißes Fahrrad</string>
     <string id="31011">Gelbes Fahrrad</string>
-    <string id="31012">Weihnachtsschlitten</string>
+    <string id="31012">Roter Weihnachtsschlitten</string>
     <string id="31017">Flammendes Motorrad</string>
     <string id="31028">Roter Glücksdrache</string>
     <string id="31030">Goldener Glücksdrache</string>
@@ -3656,7 +3656,7 @@
     <string id="101181">Ein Gegenstand, der von einem {STRING_0} getragen werden kann. Diese dicksohligen Stiefel schützen vor Fallen und anderen Objekten wie {STRING_110191}.</string>
     <string id="101182">Ein ausgefallenes Geschenk, das eine unbekannte Belohnung enthält.\n\nEs kann exklusive Gegenstände für Weihnachten 2022 enthalten. Zum Öffnen verwenden.</string>
     <string id="101183">Weihnachtsgeschenk (2021)</string>
-    <string id="101184">Das Geschenk des Weihnachtsmanns (2021)</string>
+    <string id="101184">Geschenk des Weihnachtsmanns (2021)</string>
     <string id="101185">Roter Umschlag (2022)</string>
     <string id="101186">Glückbringender roter Umschlag (2022)</string>
     <string id="101187">Ein roter Umschlag, der eine unbekannte Belohnung enthält.\n\nEr kann exklusive Gegenstände für das Mondneujahr 2023 enthalten.\nZum Öffnen verwenden.</string>
@@ -3724,9 +3724,9 @@
     <string id="101249">Ein Item, das von einem {STRING_0} getragen werden kann. Wird der Träger von einer Wasser-Attacke getroffen, steigt seine Spezial-Verteidigung.\n\nDieser Gegenstand wird bei Verwendung verbraucht.</string>
     <string id="101250">Tiefschwarze Sphäre</string>
     <string id="101251">Eine leuchtende Sphäre, mit der die IVs bestimmter {STRING_0} um 1.\n\nverändert werden können, wird bei Gebrauch verbraucht.</string>
-    <string id="101252">A fancy looking present which contains an unknown reward.\n\nMay contain exclusive items for Xmas 2024. Use to open.</string>
-    <string id="101253">Xmas Present (2022)</string>
-    <string id="101254">Santa's Present (2022)</string>
+    <string id="101252">Ein ausgefallenes Geschenk, das eine unbekannte Belohnung enthält.\n\nEs kann exklusive Gegenstände für Weihnachten 2024 enthalten. Zum Öffnen verwenden.</string>
+    <string id="101253">Weihnachtsgeschenk (2022)</string>
+    <string id="101254">Geschenk des Weihnachtsmanns (2022)</string>
     <string id="101300">{STRING_110015}-Ocarina</string>
     <string id="101301">Beschwört ein {STRING_0}, das außerhalb eines Kampfes {STRING_110015} einsetzt.\n\nKann in bestimmten Situationen nicht eingesetzt werden.\n\n Erfordert einen bestimmten Orden in jeder Region.</string>
     <string id="101302">{STRING_110019}-Ocarina</string>
@@ -18425,7 +18425,7 @@
     <string id="16804151">Frohe Feiertage von PokeMMO!\nWilde Begegnungen haben für den Rest dieses Events eine +15%-Chance, Shiny zu sein.\nStapelbar mit anderen Shiny-Rate-Boni.</string>
     <string id="16804152">Erwischt! {00} ist aus dem {STRING_245004} herausgesprungen und wurde auf Ihren PC übertragen!</string>
     <string id="16804153">Ho-ho-no! {STRING_150225} ist mit unserem Schlitten verunglückt,\nwährend er die Geschenke für dieses Jahr ausliefern wollte!\n\nDie Geschenke liegen jetzt überall in {00} verstreut.\nBitte sammle sie ein und bring\nsie zu mir, wenn du welche findest!</string>
-    <string id="16804154">Unsere Helfer-{STRING_0} sind in die Wildnis entkommen und schwirren jetzt in {00} herum.\n\nFalls du sie fangen und zurückbringen kannst, bevor der Chef es merkt, bekommst du ein {STRING_101714} und noch ein paar andere Dinge.</string>
+    <string id="16804154">Unsere Helfer-{STRING_0} sind in die Wildnis entkommen\nund schwirren jetzt in {00} herum.\n\nFalls du sie fangen und zurückbringen kannst, bevor der Chef\nes merkt, bekommst du ein {STRING_101769} und noch ein paar andere Dinge.</string>
     <string id="16804155">Vielen Dank für Ihre Hilfe.\nSie haben bisher {00} Helfer wieder eingefangen.\n\nDiese Dinger sind wählerisch, nicht wahr?\nBring mir 5 Helfer, und ich werde sie umstimmen.</string>
     <string id="16804156">Ho-ho! Es fehlen noch ein paar\nGroße Geschenke!\n\nFalls du sie findest, bring sie bitte zu mir!</string>
     <string id="16804157">Danke für deine Hilfe.\nIch habe das gefunden, bin mir aber nicht sicher, wofür es genutzt wird.\n\nVielleicht wird es später nützlich.</string>

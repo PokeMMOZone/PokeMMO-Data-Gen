@@ -18425,7 +18425,7 @@
     <string id="16804151">Happy Holidays from PokeMMO!\nWild encounters have a +15% chance to be Shiny for the rest of this event.\nStacks with Shiny-rate bonus modifiers.</string>
     <string id="16804152">Gotcha! {00} popped out of the {STRING_245004} and was transferred to your PC!</string>
     <string id="16804153">Ho-ho-no! {STRING_150225} crashed our sleigh\nwhile trying to deliver this year's presents!\n\nThey're scattered all over {00}. If you\nsee any, please pick them up and return\nthem to me!</string>
-    <string id="16804154">Our helper {STRING_0} have escaped into the wild\nand are swarming around {00}.\n\nIf you can capture them and return them here\nbefore the boss notices, I'll give you a\n{STRING_101714} and some other stuff.</string>
+    <string id="16804154">Our helper {STRING_0} have escaped into the wild\nand are swarming around {00}.\n\nIf you can capture them and return them here\nbefore the boss notices, I'll give you a\n{STRING_101769} and some other stuff.</string>
     <string id="16804155">Thanks for your help.\nYou've recaptured {00} helpers so far.\n\nThese things are picky, aren't they?\nI'll make them change their mind if you bring me 5 helpers.</string>
     <string id="16804156">Ho-ho! There are still some Big Presents\nmissing too!\n\nIf you can find them, please bring them back to me!</string>
     <string id="16804157">Thanks for your help.\nI found this, but I'm not sure what it's used for.\n\nIt might come in handy later.</string>
