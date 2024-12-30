@@ -335,10 +335,12 @@ alpha_list = [
     "braviary",
     "golett",
     "golurk",
+    "vullaby",
     "mandibuzz",
     "venipede",
     "whirlipede",
     "scolipede",
+    "suicune"
 ]
 
 egg_group_updates = {

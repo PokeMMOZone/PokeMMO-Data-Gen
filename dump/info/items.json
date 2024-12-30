@@ -3910,7 +3910,7 @@
 	"name": "Mysterious Poké Ball (2023)",
 	"desc": "A mysterious Poké Ball which contains\nan unknown reward. It has a high base\nchance to contain a Shiny Pokémon\n(1/8,000).\n\nExclusive to Xmas 2023.",
 	"region_id": 10,
-	"icon_id": 1478,
+	"icon_id": 1427,
 	"name_string_id": 101714,
 	"desc_string_id": 101715
 },
@@ -3919,7 +3919,7 @@
 	"name": "Mysterious Great Ball (2023)",
 	"desc": "A mysterious Great Ball which contains\nan unknown reward. It has a very high\nbase chance to contain a Shiny\nPokémon (1/4,000).\n\nExclusive to Xmas 2023.",
 	"region_id": 10,
-	"icon_id": 1479,
+	"icon_id": 1428,
 	"name_string_id": 101716,
 	"desc_string_id": 101717
 },
@@ -3928,7 +3928,7 @@
 	"name": "Mysterious Ultra Ball (2023)",
 	"desc": "A mysterious Ultra Ball which contains\nan unknown reward. It has an\nexceptionally high base chance to\ncontain a Shiny Pokémon (1/2,500).\n\nExclusive to Xmas 2023.",
 	"region_id": 10,
-	"icon_id": 1480,
+	"icon_id": 1429,
 	"name_string_id": 101718,
 	"desc_string_id": 101719
 },
@@ -3937,7 +3937,7 @@
 	"name": "Mysterious Premier Ball (2023)",
 	"desc": "A mysterious Premier Ball which\ncontains an unknown reward. It has a\nvery high base chance to contain a\nShiny Pokémon (1/4,000).\n\nExclusive to Xmas 2023.",
 	"region_id": 10,
-	"icon_id": 1481,
+	"icon_id": 1430,
 	"name_string_id": 101720,
 	"desc_string_id": 101721
 },

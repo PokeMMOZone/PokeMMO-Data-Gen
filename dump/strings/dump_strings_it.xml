@@ -1921,7 +1921,7 @@
     <string id="6010">Hai ottenuto {00} {01} da {02}.</string>
     <string id="6011">L'effetto di {00} è finito.</string>
     <string id="6012">L'effetto di {00} è finito.\nUsarne un altro?</string>
-    <string id="6013">{00} è attualmente occupato e non può accettare la tua richiesta.</string>
+    <string id="6013">{00} è attualmente occupato/a e non può accettare la tua richiesta.</string>
     <string id="6014">Il giocatore {00} non può essere trovato.</string>
     <string id="6015">Il giocatore richiesto non può essere trovato.</string>
     <string id="6016">{00} sta rifiutando automaticamente le richieste di scambio.</string>
@@ -2380,8 +2380,8 @@
     <string id="9103">Hai {00} minuti per iscriverti alla lotta del torneo o sei squalificato.</string>
     <string id="9104">Sei stato squalificato dalla lotta del torneo.</string>
     <string id="9105">Siamo spiacenti, il torneo è stato cancellato a causa del numero di partecipanti insufficiente.</string>
-    <string id="9106">Siamo spiacenti, non sei stato selezionato per partecipare al torneo.\nEri occupato durante la selezione.</string>
-    <string id="9107">Eri occupato e non hai potuto iniziare la lotta del torneo.\nVerrai squalificato tra {00} minuti.</string>
+    <string id="9106">Siamo spiacenti, non sei stato selezionato per partecipare al torneo.\nEri occupato/a durante la selezione.</string>
+    <string id="9107">Eri occupato/a e non hai potuto iniziare la lotta del torneo.\nVerrai squalificato/a tra {00} minuti/o.</string>
     <string id="9108">La tua squadra non è più idonea per la lotta del torneo.\nHai {00} minuto/i prima di venire squalificato.</string>
     <string id="9109">Hai guadagnato ${00}</string>
     <string id="9110">{00} IV selezionabili (0-31)</string>
@@ -3964,7 +3964,7 @@
     <string id="101773">{STRING_245002} Misteriosa</string>
     <string id="101774">Una {STRING_245002} misteriosa che contiene una ricompensa sconosciuta. Ha una probabilità molto alta di contenere un {STRING_0} Cromatico (1/4,000).\n\nEsclusivo del Natale 2024.</string>
     <string id="101775">{STRING_245012} Misteriosa</string>
-    <string id="101776">Targhetta Desiderio di un {STRING_0}</string>
+    <string id="101776">Targhetta dei Desideri dei {STRING_0}</string>
     <string id="101777">Sebbene sia contrassegnata solo da un'impronta, puoi percepire che rappresenta ciò che un {STRING_0} desidera di più.</string>
     <string id="101778">Stella dei Desideri</string>
     <string id="101779">Un insieme di speranze e sogni.</string>
@@ -6204,7 +6204,7 @@
     <string id="135011">Una {STRING_245004} lussuosa che aiuta a aumentare la tua amicizia con un {STRING_0} velocemente. Funziona bene con {STRING_0} che evolvono tramite felicità.</string>
     <string id="135012">A somewhat rare Poké Ball that has\nbeen specially made to commemorate\nan event of some sort.</string>
     <string id="135013">A somewhat different Poké Ball that\nmakes it easier to catch wild Pokémon\nat night or in dark places like caves.</string>
-    <string id="135014">Un {STRING_245004} che ripristina i PS di un {STRING_0} ed elimina eventuali problemi di stato.</string>
+    <string id="135014">Una {STRING_245004} che ripristina i PS di un {STRING_0} ed elimina eventuali problemi di stato.</string>
     <string id="135015">A somewhat different Poké Ball that\nprovides a better catch rate if it is\nused at the start of a wild encounter.</string>
     <string id="135016">A quite rare Poké Ball that has been\nspecially crafted to commemorate\nan occasion of some sort.</string>
     <string id="135017">A spray-type medicine for wounds.\nIt restores the HP of one Pokémon by\njust 20 points.</string>
@@ -11988,7 +11988,7 @@
     <string id="200569">Nebbia</string>
     <string id="200570">Oscurità</string>
     <string id="200571">Tempesta</string>
-    <string id="200572">{00} ha messo una barriera protettiva attorno ai suoi alleati!\nSono diventati impervi agli attacchi!</string>
+    <string id="200572">{00} ha messo una barriera protettiva attorno ai\nsuoi alleati! Sono diventati impervi agli attacchi!</string>
     <string id="200573">Un forte vento soffia intorno alla tua squadra!\nI {STRING_0} più leggeri faticano a mantenersi a terra!\n\nI {STRING_0} fluttuanti e volanti non hanno alcuna possibilità!</string>
     <string id="200574">{00} è stato spazzato via dal\nforte vento!</string>
     <string id="200575">Oh no! La {00} non ha funzionato bene\ne ha ferito {01}!</string>
@@ -18426,7 +18426,7 @@
     <string id="16804152">Oh! Dalla {STRING_245004} è uscito {00} ed è stato trasferito al tuo PC!</string>
     <string id="16804153">Ho-ho no! {STRING_150225} si è schiantato sulla nostra slitta\nmentre consegnavamo i regali di quest'anno!\n\nSono dispersi in giro per tutta {00}. Se dovessi\nvederne qualcuno, per favore raccoglili e riportameli!</string>
     <string id="16804154">I nostri {STRING_0} sono scappati\ne stanno vagando per {00}.\n\nSe riesci a catturarli e riportarli qui\nprima che il capo se ne accorga, ti darò una\n{STRING_101769} e altre cose.</string>
-    <string id="16804155">Grazie per il tuo aiuto.\nHai recuperato {00} aiutanti finora.\n\nQueste cose sono esigenti, vero?\nLi farò cambiare idea se mi porti 5 aiutanti.</string>
+    <string id="16804155">Grazie per il tuo aiuto.\nHai recuperato {00} aiutanti finora.\n\nQuesti cosi sono esigenti, vero?\nGli farò cambiare idea se mi porti 5 aiutanti.</string>
     <string id="16804156">Ho-ho! Ci sono ancora alcuni Grandi Regali\nmancanti!\n\nSe riesci a trovarli, riportameli per favore!</string>
     <string id="16804157">Grazie del tuo aiuto.\n\nHo trovato questo, ma non so a cosa serva.\n\nPotrebbe essere utile in futuro.</string>
     <string id="16804158">{00} è ok.\nVuoi consegnarlo?</string>
@@ -18434,7 +18434,7 @@
     <string id="16804160">Vuoi consegnare {00} al Manager?\nNon riavrai questo {STRING_0} indietro.</string>
     <string id="16804161">Dammene altri {00} e "parlerò" con loro.</string>
     <string id="16804162">Vuoi esprimere un desiderio?</string>
-    <string id="16804163">Oh! Le Targhette Desiderio hanno iniziato a muoversi!</string>
+    <string id="16804163">Oh! Le Targhette dei Desideri hanno iniziato a muoversi!</string>
     <string id="16804164">Si sono fusi in una Stella dei Desideri!</string>
     <string id="16804200">Lo {STRING_150121} sta fissando con desiderio la cima dell'albero...</string>
     <string id="16804201">Oh!\n{STRING_150121} è scappato!</string>

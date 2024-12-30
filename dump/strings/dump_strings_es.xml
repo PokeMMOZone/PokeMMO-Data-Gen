@@ -3724,7 +3724,7 @@
     <string id="101249">Un objeto equipable de {STRING_0}. Si el portador es golpeado por un ataque tipo agua, su Def. Esp. subirá.\n\nSe consume al usarse.</string>
     <string id="101250">Esfera Azabache</string>
     <string id="101251">Una esfera brillante que se usa para alterar los IVs de ciertos {STRING_0} por 1.\n\nConsumido al usarse.</string>
-    <string id="101252">Un regalo elegante que contiene una recompensa desconocida.\n\nPuede tener objetos exclusivos de Navidad 2024.\nUsa para abrir.</string>
+    <string id="101252">Un regalo elegante que contiene una recompensa desconocida.\n\nPuede tener objetos exclusivos de Navidad 2024. Usa para abrir.</string>
     <string id="101253">Regalo de Navidad (2022)</string>
     <string id="101254">Regalo de Santa (2022)</string>
     <string id="101300">Ocarina de {STRING_110015}</string>
