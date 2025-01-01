@@ -4510,12 +4510,12 @@
 },
 {
 	"id": 1581,
-	"name": "Unknown Item",
-	"desc": "Your client does not currently\nsupport\nthis item.\nPlease verify you have all required\nroms.",
+	"name": "Blank Wish Tag",
+	"desc": "A tag which can be written on to make\ndreams come true. It may be used to\nalter the IVs of certain Pokémon by\n1.\n\nConsumed upon use.",
 	"region_id": 10,
 	"icon_id": 1581,
-	"name_string_id": 1450,
-	"desc_string_id": 1451
+	"name_string_id": 101780,
+	"desc_string_id": 101781
 },
 {
 	"id": 1582,

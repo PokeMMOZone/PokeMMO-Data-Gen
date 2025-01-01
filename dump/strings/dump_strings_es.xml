@@ -3968,6 +3968,8 @@
     <string id="101777">Aunque solo esté marcado con una huella, puedes sentir que representa lo que un {STRING_0} más desea.</string>
     <string id="101778">Estrella de Deseos</string>
     <string id="101779">La culminación de sueños y esperanzas.</string>
+    <string id="101780">Etiqueta Deseo Vacía</string>
+    <string id="101781">Una etiqueta en la que se escribe para hacer realidad los sueños. Se usa para modificar los IVs de ciertos {STRING_0} en 1.\n\n Se consume al usarla.</string>
     <string id="110000">-----</string>
     <string id="110001">Pound</string>
     <string id="110002">Karate Chop</string>
@@ -4664,6 +4666,7 @@
     <string id="113221">Sacred Fire☆</string>
     <string id="113224">Megahorn☆</string>
     <string id="113227">Encore☆</string>
+    <string id="113237">Hidden Power☆</string>
     <string id="113240">Rain Dance☆</string>
     <string id="113241">Sunny Day☆</string>
     <string id="113242">Crunch☆</string>
@@ -5463,6 +5466,7 @@
     <string id="123221">The target is razed with a mystical fire\nof great intensity. It may also leave the\ntarget with a burn.</string>
     <string id="123224">Using its tough and impressive horn,\nthe user rams into the target\nwith no letup.</string>
     <string id="123227">The user compels the target\nto keep using only the move\nit last used for three turns.</string>
+    <string id="123237">An attack which varies in type depending on its user. Its type may be changed with 40 Gems.</string>
     <string id="123240">The user summons a heavy rain\nthat falls for five turns,\npowering up Water-type moves.</string>
     <string id="123241">The user intensifies the sun for\nfive turns, powering up\nFire-type moves.</string>
     <string id="123242">Crunches the foe with its sharp teeth. It may lower their Defense stat.</string>
@@ -12029,6 +12033,7 @@
     <string id="200610">¡El equipo enemigo está listo para pelear!</string>
     <string id="200611">¡{00} puso una barrera extraña!\n¡Sus estadísticas no se reducirán!</string>
     <string id="200612">¡La barrera extraña de {00} evitó la\ncaída de estadística!</string>
+    <string id="200613">¡{00} empezo a provocar a sus oponentes!</string>
     <string id="201000">{00} learned\n{01}!</string>
     <string id="201001">{00} and {01}\nare not compatible.\n\n{01} can't be learned.</string>
     <string id="201007">{00} already knows\n{01}.</string>
@@ -18371,6 +18376,7 @@
     <string id="16804013">Necesitarás traer 4 {STRING_0} contigo a\nesta área.\n\nUna vez dentro, no estamos seguros a donde irán!\nNecesitarás rescatarlos de los Elfobots\nlocos.\n\nMientras más elfobots derrotes, mayor será la cantidad de regalos\nque obtendrás como premios.\nHe escuchado que también hay {STRING_101668}(s) adentro.</string>
     <string id="16804014">¡Ho-ho-no!\n¡Necesitarás traer exactamente 4 {STRING_0} contigo!</string>
     <string id="16804015">¿Lento...?</string>
+    <string id="16804016">¿Quieres irte a casa?</string>
     <string id="16804100">¡Ho-ho-ho!\n¡No puedes entrar en esta instancia\nsin haber obtenido la 4ª medalla!</string>
     <string id="16804101">{00} (Ofensivo)</string>
     <string id="16804102">{00} (Defensivo)</string>

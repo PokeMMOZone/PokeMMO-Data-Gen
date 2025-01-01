@@ -3968,6 +3968,8 @@
     <string id="101777">儘管只標記了一個腳印, 仍能感受到其中蘊含著的{STRING_0}的渴望.</string>
     <string id="101778">願望星星</string>
     <string id="101779">希望和夢想的結晶.</string>
+    <string id="101780">空白願望籤</string>
+    <string id="101781">一個可以書寫並使夢想成真的標籤。它可以用來修改某些寶可夢1點個體值{STRING_0}.\n\n一次性消耗品.</string>
     <string id="110000">-----</string>
     <string id="110001">Pound</string>
     <string id="110002">Karate Chop</string>
@@ -4664,6 +4666,7 @@
     <string id="113221">Sacred Fire☆</string>
     <string id="113224">Megahorn☆</string>
     <string id="113227">Encore☆</string>
+    <string id="113237">Hidden Power☆</string>
     <string id="113240">Rain Dance☆</string>
     <string id="113241">Sunny Day☆</string>
     <string id="113242">Crunch☆</string>
@@ -5463,6 +5466,7 @@
     <string id="123221">The target is razed with a mystical fire\nof great intensity. It may also leave the\ntarget with a burn.</string>
     <string id="123224">Using its tough and impressive horn,\nthe user rams into the target\nwith no letup.</string>
     <string id="123227">The user compels the target\nto keep using only the move\nit last used for three turns.</string>
+    <string id="123237">An attack which varies in type depending on its user. Its type may be changed with 40 Gems.</string>
     <string id="123240">The user summons a heavy rain\nthat falls for five turns,\npowering up Water-type moves.</string>
     <string id="123241">The user intensifies the sun for\nfive turns, powering up\nFire-type moves.</string>
     <string id="123242">Crunches the foe with its sharp teeth. It may lower their Defense stat.</string>
@@ -12029,6 +12033,7 @@
     <string id="200610">對方隊伍進入戰鬥巔峰狀態!</string>
     <string id="200611">{00}豎起了神奇壁壘!\n不能削弱它的能力了!</string>
     <string id="200612">{00}的神奇壁壘防止了其能力下降!</string>
+    <string id="200613">{00} 開始挑釁它所有的對手！</string>
     <string id="201000">{00} learned\n{01}!</string>
     <string id="201001">{00} and {01}\nare not compatible.\n\n{01} can't be learned.</string>
     <string id="201007">{00} already knows\n{01}.</string>
@@ -18371,6 +18376,7 @@
     <string id="16804013">你需要帶4只{STRING_0}才能進去.\n\n一旦進去了, 我們也不知道它們會跑哪去!\n你需要從野外的機器精靈手下救援它們.\n\n打敗的機器精靈越多, 獎勵就越豐厚.\n據說裡面還有{STRING_101668}.</string>
     <string id="16804014">不行! 整整4只{STRING_0}都得帶上!</string>
     <string id="16804015">慢…?</string>
+    <string id="16804016">你想回家嗎？</string>
     <string id="16804100">要有4個徽章才能開啟副本!</string>
     <string id="16804101">{00}(攻擊)</string>
     <string id="16804102">{00}(防禦)</string>

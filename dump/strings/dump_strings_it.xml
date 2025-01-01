@@ -3910,7 +3910,7 @@
     <string id="101719">Una {STRING_245002} misteriosa che contiene una ricompensa sconosciuta. Ha un'altissima probabilità di contenere un {STRING_0} Cromatico (1/2,500).\n\nEsclusivo del Natale 2023.</string>
     <string id="101720">{STRING_245012} Misteriosa (2023)</string>
     <string id="101721">Una {STRING_245012} misteriosa che contiene una ricompensa sconosciuta. Ha una probabilità molto alta di contenere un {STRING_0} Cromatico (1/4,000).\n\nEsclusivo del Natale 2023.</string>
-    <string id="101722">Regalo Grande Perso</string>
+    <string id="101722">Regalo Perso Grande</string>
     <string id="101723">Un regalo grande ed elegante.\n\nBabbo Natale li sta cercando.\nPuò essere scambiato in gruppi da 5.</string>
     <string id="101724">Sfera Elementale</string>
     <string id="101725">Una sfera speciale che può essere usata per alterare gli IV di certi {STRING_0} di 1.\n\nConsumata dopo l'utilizzo.</string>
@@ -3968,6 +3968,8 @@
     <string id="101777">Sebbene sia contrassegnata solo da un'impronta, puoi percepire che rappresenta ciò che un {STRING_0} desidera di più.</string>
     <string id="101778">Stella dei Desideri</string>
     <string id="101779">Un insieme di speranze e sogni.</string>
+    <string id="101780">Blank Wish Tag</string>
+    <string id="101781">A tag which can be written on to make dreams come true. It may be used to alter the IVs of certain Pokémon by 1.\n\nConsumed upon use.</string>
     <string id="110000">-----</string>
     <string id="110001">Pound</string>
     <string id="110002">Karate Chop</string>
@@ -4664,6 +4666,7 @@
     <string id="113221">Sacred Fire☆</string>
     <string id="113224">Megahorn☆</string>
     <string id="113227">Encore☆</string>
+    <string id="113237">Hidden Power☆</string>
     <string id="113240">Rain Dance☆</string>
     <string id="113241">Sunny Day☆</string>
     <string id="113242">Crunch☆</string>
@@ -5463,6 +5466,7 @@
     <string id="123221">The target is razed with a mystical fire\nof great intensity. It may also leave the\ntarget with a burn.</string>
     <string id="123224">Using its tough and impressive horn,\nthe user rams into the target\nwith no letup.</string>
     <string id="123227">The user compels the target\nto keep using only the move\nit last used for three turns.</string>
+    <string id="123237">An attack which varies in type depending on its user. Its type may be changed with 40 Gems.</string>
     <string id="123240">The user summons a heavy rain\nthat falls for five turns,\npowering up Water-type moves.</string>
     <string id="123241">The user intensifies the sun for\nfive turns, powering up\nFire-type moves.</string>
     <string id="123242">Crunches the foe with its sharp teeth. It may lower their Defense stat.</string>
@@ -11904,7 +11908,7 @@
     <string id="200485">{01} di {00} non può più diminuire!</string>
     <string id="200486">{01} di {00} selvatico non può più diminuire!</string>
     <string id="200487">{01} di {00} avversario non può più diminuire!</string>
-    <string id="200488">{00} ha annullato la sua diminuzione di {01}!</string>
+    <string id="200488">{00} ha annullato la sua diminuzione\nin {01}!</string>
     <string id="200489">{00} ha annullato il suo problema di stato!</string>
     <string id="200490">Il tuo avversario ti ha sfidato ad una Lotta Inversa!</string>
     <string id="200491">Durante le Lotte Inverse, tutti i tipi hanno le proprie\ndebolezze e resistenze invertite,\n\ne nessun tipo possiede immunità.</string>
@@ -12029,6 +12033,7 @@
     <string id="200610">La squadra avversaria è pronta per la battaglia!</string>
     <string id="200611">{00} ha messo in piedi una strana barriera!\nNon può più avere le sue statistiche ridotte!</string>
     <string id="200612">La strana barriera di {00} lo ha protetto dalla\nriduzione delle statistiche!</string>
+    <string id="200613">{00} began taunting all of its opponents!</string>
     <string id="201000">{00} learned\n{01}!</string>
     <string id="201001">{00} and {01}\nare not compatible.\n\n{01} can't be learned.</string>
     <string id="201007">{00} already knows\n{01}.</string>
@@ -17848,7 +17853,7 @@
     <string id="16777256">Oh, hai trovato qualcosa!\nPer favore prendi questo come ricompensa.</string>
     <string id="16777257">Ritorna quando avrai trovato\naltri regali!</string>
     <string id="16777258">Ho-ho! {STRING_150225} vuole unirsi a te,\nma non può se non hai più spazio\nper un nuovo {STRING_0}!</string>
-    <string id="16777259">Oh!\nUn {STRING_150225} vuole unirsi a te ancora!</string>
+    <string id="16777259">Oh!\nUn {STRING_150225} vuole unirsi a te!</string>
     <string id="16777260">Vuoi imparare la più potente\nmossa di tipo Drago?\n\nBene, ecco a te.</string>
     <string id="16777261">Il potere distruttivo di {STRING_110434} è\nincredibile!\n\nMa fai attenzione: Dopo l'utilizzo,\nl'Atk. Sp. del {STRING_0} diminuisce.</string>
     <string id="16777262">Non fare così!\nEcco, prendi questo.</string>
@@ -18371,6 +18376,7 @@
     <string id="16804013">Hai bisogno di portare 4 {STRING_0} con te in\nquest'area.\n\nUna volta dentro, non siamo sicuri su dove saranno!\nAvrai bisogno di recuperarli dai Roboelfi\nimpazziti.\n\nPiù Roboelfi sconfiggi, più Regali\nriceverai come ricompensa.\nHo sentito che ci sono anche {STRING_101668} all'interno.</string>
     <string id="16804014">Ho-ho-no!\nAvrai bisogno di portare esattamente 4 {STRING_0} con te!</string>
     <string id="16804015">Lento...?</string>
+    <string id="16804016">Do you want to go home?</string>
     <string id="16804100">Ho-ho-no!\n\nNon puoi entrare in questa istanza\nprima di aver ottenuto la quarta medaglia!</string>
     <string id="16804101">{00} (Offensivo)</string>
     <string id="16804102">{00} (Difensivo)</string>
@@ -18402,7 +18408,7 @@
     <string id="16804128">Difensivo</string>
     <string id="16804129">Selezione di Lancio</string>
     <string id="16804130">Il {00} è in modalità {01}\ne sta aspettando le tue istruzioni</string>
-    <string id="16804131">{00} ha annullato la selezione di {01}</string>
+    <string id="16804131">{00} ha deselezionato {01}</string>
     <string id="16804132">{00} {02}) è stato selezionato da\n{01}</string>
     <string id="16804133">{00} è stato aggiunto ai tuoi roboelfi</string>
     <string id="16804134">{00} è stato rimosso dai tuoi roboelfi</string>
@@ -18550,8 +18556,8 @@
     <string id="16805071">Dovrai far parte di un gruppo link di {01} giocatori\nper entrare in {00}.</string>
     <string id="16805072">Sei già registrato per questo evento.</string>
     <string id="16805073">Questa tana raid è dormiente.</string>
-    <string id="16805074">Vedi la tenue sagoma di {00}\nnella luce raggiante.\nPuoi presagire una battaglia difficile.</string>
-    <string id="16805075">Vuoi sfidare questo raid?\nLv. {00} {01} {02}</string>
+    <string id="16805074">Intravedi la tenue sagoma di {00}\nnella luce raggiante.\nPuoi presagire una battaglia difficile.</string>
+    <string id="16805075">Vuoi affrontare questo raid?\nLv. {00} {01} {02}</string>
     <string id="16805076">Il Nian ti fissa spaventosamente.</string>
     <string id="16805077">Puoi avvertire una sfida difficile davanti a te.\n\nMeglio aspettare finchè i tuoi alleati non sono nelle vicinanze.</string>
     <string id="16805078">Ti senti in grado di sfidare il Nian?\n{01} {02}</string>
@@ -18596,7 +18602,7 @@
     <string id="16805118">Ben fatto! Prendi questo.</string>
     <string id="16805119">Sono il Maestro {00}!\n\nDovrai sconfiggere il Maestro {01}\nprima di sfidarmi.</string>
     <string id="16805120">Grazie per averci riportato tutte le nostre Tavole.</string>
-    <string id="16805121">Vedi la tenue sagoma di {00} nella luce raggiante.\n\nPuoi presagire che questo {STRING_0} ti sconfiggerebbe facilmente.\nMeglio stare alla larga.</string>
+    <string id="16805121">Intravedi la tenue sagoma di {00}\nnella luce raggiante.\n\nPuoi presagire che questo {STRING_0} ti sconfiggerebbe facilmente.\nMeglio stare alla larga.</string>
     <string id="16806000">Un venditore ambulante di libri dall'aspetto fatiscente è apparso nel grande magazzino di {STRING_250000}.</string>
     <string id="16806001">Il venditore ambulante di libri è stato espulso dal centro commerciale.</string>
     <string id="16806002">Un pilastro di rocce sospetto.\n\nVuoi avvicinarti?</string>

@@ -3968,6 +3968,8 @@
     <string id="101777">Obwohl es nur mit einem Fußabdruck darauf zu sehen ist, spürt man, dass es das darstellt, was ein {STRING_0} sich am meisten ersehnt.</string>
     <string id="101778">Wunschstern</string>
     <string id="101779">Das Ergebnis von Hoffnungen und Träumen.</string>
+    <string id="101780">Blank Wish Tag</string>
+    <string id="101781">A tag which can be written on to make dreams come true. It may be used to alter the IVs of certain Pokémon by 1.\n\nConsumed upon use.</string>
     <string id="110000">-----</string>
     <string id="110001">Pound</string>
     <string id="110002">Karate Chop</string>
@@ -4664,6 +4666,7 @@
     <string id="113221">Sacred Fire☆</string>
     <string id="113224">Megahorn☆</string>
     <string id="113227">Encore☆</string>
+    <string id="113237">Hidden Power☆</string>
     <string id="113240">Rain Dance☆</string>
     <string id="113241">Sunny Day☆</string>
     <string id="113242">Crunch☆</string>
@@ -5463,6 +5466,7 @@
     <string id="123221">The target is razed with a mystical fire\nof great intensity. It may also leave the\ntarget with a burn.</string>
     <string id="123224">Using its tough and impressive horn,\nthe user rams into the target\nwith no letup.</string>
     <string id="123227">The user compels the target\nto keep using only the move\nit last used for three turns.</string>
+    <string id="123237">An attack which varies in type depending on its user. Its type may be changed with 40 Gems.</string>
     <string id="123240">The user summons a heavy rain\nthat falls for five turns,\npowering up Water-type moves.</string>
     <string id="123241">The user intensifies the sun for\nfive turns, powering up\nFire-type moves.</string>
     <string id="123242">Crunches the foe with its sharp teeth. It may lower their Defense stat.</string>
@@ -12029,6 +12033,7 @@
     <string id="200610">Das gegnerische Team ist kampfbereit!</string>
     <string id="200611">{00} errichtete eine seltsame Barriere!\nSeine Statuswerte können nicht mehr gesenkt werden!</string>
     <string id="200612">Die seltsame Barriere von {00}\nverhinderte die Reduktion seiner Statuswerte!</string>
+    <string id="200613">{00} began taunting all of its opponents!</string>
     <string id="201000">{00} learned\n{01}!</string>
     <string id="201001">{00} and {01}\nare not compatible.\n\n{01} can't be learned.</string>
     <string id="201007">{00} already knows\n{01}.</string>
@@ -18371,6 +18376,7 @@
     <string id="16804013">Ihr müsst 4 {STRING_0} mit euch in\ndieses Gebiet bringen.\n\nSobald ihr drinnen seid, sind wir uns nicht sicher, wo sie hingehen.\nIhr müsst sie vor den\nwild umherlaufenden Elfbots retten.\n\nJe mehr Elfbots du besiegst, desto mehr Geschenke\nbekommst du als Belohnung.\nIch habe gehört, dass es dort auch {STRING_101668}s gibt.</string>
     <string id="16804014">Ho-ho-no!\n ^Du musst genau 4 {STRING_0} mitbringen!</string>
     <string id="16804015">Langsam...?</string>
+    <string id="16804016">Do you want to go home?</string>
     <string id="16804100">Ho-ho-no!\n\nDu kannst diese Instanz nicht betreten,\nbevor du deinen 4. Orden erhalten hast!</string>
     <string id="16804101">{00} (Offensiv)</string>
     <string id="16804102">{00} (Defensiv)</string>
