@@ -340,7 +340,9 @@ alpha_list = [
     "venipede",
     "whirlipede",
     "scolipede",
-    "suicune"
+    "suicune",
+    "tangela",
+    "tangrowth"
 ]
 
 egg_group_updates = {
