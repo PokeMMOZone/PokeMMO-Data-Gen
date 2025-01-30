@@ -2297,7 +2297,7 @@
 {
 	"id": 1233,
 	"name": "Lucky Copper Coin",
-	"desc": "A heavy copper coin.\n\nWhen sold to a Politoed, its inventory\nwill restock with new items.",
+	"desc": "A heavy copper coin.\n\nCan be sold for Gold Coins or\nexchanged to a Politoed to restock\nits shop with new items.",
 	"region_id": 10,
 	"icon_id": 1233,
 	"name_string_id": 100098,
@@ -2431,12 +2431,12 @@
 },
 {
 	"id": 1248,
-	"name": "Fu Potion",
-	"desc": "A potion filled with fortune and hope\nfor the future.\n\nRevives the holder with 50% HP when\nthey would faint.",
+	"name": "Rare Candy",
+	"desc": "A candy that is packed with energy.\nIt raises the level of a single\nPokémon\nby one.",
 	"region_id": 10,
-	"icon_id": 1248,
-	"name_string_id": 101623,
-	"desc_string_id": 101624
+	"icon_id": 5050,
+	"name_string_id": 245050,
+	"desc_string_id": 135050
 },
 {
 	"id": 1249,
@@ -3610,8 +3610,8 @@
 },
 {
 	"id": 1445,
-	"name": "Dead Flower",
-	"desc": "A dead and desiccated flower, once\nheld by an Alpha Pokémon.\nMaybe something can revive it?",
+	"name": "Dying Flower",
+	"desc": "A dying flower found when defeating a\nchallenging foe.\nMaybe something can revive it?",
 	"region_id": 10,
 	"icon_id": 1445,
 	"name_string_id": 101702,
@@ -3970,29 +3970,29 @@
 },
 {
 	"id": 1485,
-	"name": "Mysterious Cherish Ball",
+	"name": "Mysterious Cherish Ball (2024)",
 	"desc": "A mysterious Cherish Ball which\ncontains an unknown reward. It has a\nhigh base chance to contain a Shiny\nPokémon (1/6,000).\n\nExclusive to Lunar New Year 2024.",
 	"region_id": 10,
 	"icon_id": 1485,
-	"name_string_id": 101730,
+	"name_string_id": 101783,
 	"desc_string_id": 101731
 },
 {
 	"id": 1486,
-	"name": "Red Envelope",
+	"name": "Red Envelope (2024)",
 	"desc": "A red envelope which contains an\nunknown reward.\n\nMay contain exclusive items for Lunar\nNew Year 2024.\nUse to open.",
 	"region_id": 10,
 	"icon_id": 1225,
-	"name_string_id": 101132,
+	"name_string_id": 101255,
 	"desc_string_id": 101189
 },
 {
 	"id": 1487,
-	"name": "Lucky Red Envelope",
+	"name": "Lucky Red Envelope (2024)",
 	"desc": "An extra lucky red envelope which\ncontains an unknown reward.\n\nMay contain exclusive items for Lunar\nNew Year 2024.\nUse to open.",
 	"region_id": 10,
 	"icon_id": 1226,
-	"name_string_id": 101134,
+	"name_string_id": 101257,
 	"desc_string_id": 101191
 },
 {
@@ -4311,38 +4311,47 @@
 	"desc_string_id": 101251
 },
 {
-	"id": 1531,
-	"name": "Elfbot Mastery Device (Red)",
-	"desc": "Upgrades your Elfbot's Attack,\nSp.Attack, and Speed IVs by +4.\nConsumed upon use.",
+	"id": 1523,
+	"name": "Wilted Bouquet",
+	"desc": "A bundle of dying flowers.\nAlthough at the end of their lives,\nthey yearn for one final Spring.",
 	"region_id": 10,
-	"icon_id": 1531,
-	"name_string_id": 101147,
-	"desc_string_id": 101150
+	"icon_id": 1523,
+	"name_string_id": 101784,
+	"desc_string_id": 101785
 },
 {
-	"id": 1532,
-	"name": "Elfbot Mastery Device (Blue)",
-	"desc": "Upgrades your Elfbot's HP, Defense,\nand Sp.Defense IVs by +4.\nConsumed upon use.",
+	"id": 1524,
+	"name": "Rejuvenated Bouquet",
+	"desc": "A bundle of flowers.\nFlower Paradise awaits.",
 	"region_id": 10,
-	"icon_id": 1531,
-	"name_string_id": 101148,
-	"desc_string_id": 101151
+	"icon_id": 1524,
+	"name_string_id": 101786,
+	"desc_string_id": 101787
 },
 {
-	"id": 1533,
-	"name": "ElfUp™ Battle Mastery DriveⓇ (v2.1.1)",
-	"desc": "A powerful upgrade component for your\nElfbot.\n\nWhen held, it reduces incoming damage\nby 30%, while increasing damage\noutput by 30%.",
+	"id": 1525,
+	"name": "Nian Tablet",
+	"desc": "A mysterious tablet embossed with a\nNian.",
 	"region_id": 10,
-	"icon_id": 1531,
-	"name_string_id": 101149,
-	"desc_string_id": 101152
+	"icon_id": 1525,
+	"name_string_id": 101788,
+	"desc_string_id": 101789
+},
+{
+	"id": 1526,
+	"name": "Blank Tablet",
+	"desc": "A mysterious golden tablet.",
+	"region_id": 10,
+	"icon_id": 1526,
+	"name_string_id": 101790,
+	"desc_string_id": 101791
 },
 {
 	"id": 1534,
 	"name": "ElfUp: Gold Edition™",
 	"desc": "Raises your current Elfbot's Level by\n5.\n\nConsumed upon use.",
 	"region_id": 10,
-	"icon_id": 1533,
+	"icon_id": 1534,
 	"name_string_id": 101645,
 	"desc_string_id": 101646
 },
@@ -4534,6 +4543,33 @@
 	"icon_id": 1131,
 	"name_string_id": 100084,
 	"desc_string_id": 101252
+},
+{
+	"id": 1584,
+	"name": "Mysterious Cherish Ball",
+	"desc": "A mysterious Cherish Ball which\ncontains an unknown reward. It has a\nhigh base chance to contain a Shiny\nPokémon (1/6,000).\n\nExclusive to Lunar New Year 2025.",
+	"region_id": 10,
+	"icon_id": 1485,
+	"name_string_id": 101730,
+	"desc_string_id": 101782
+},
+{
+	"id": 1585,
+	"name": "Red Envelope",
+	"desc": "A red envelope which contains an\nunknown reward.\n\nMay contain exclusive items for Lunar\nNew Year 2025.\nUse to open.",
+	"region_id": 10,
+	"icon_id": 1225,
+	"name_string_id": 101132,
+	"desc_string_id": 101256
+},
+{
+	"id": 1586,
+	"name": "Lucky Red Envelope",
+	"desc": "An extra lucky red envelope which\ncontains an unknown reward.\n\nMay contain exclusive items for Lunar\nNew Year 2025.\nUse to open.",
+	"region_id": 10,
+	"icon_id": 1226,
+	"name_string_id": 101134,
+	"desc_string_id": 101258
 },
 {
 	"id": 1600,
@@ -8361,6 +8397,15 @@
 	"desc_string_id": 19999
 },
 {
+	"id": 2559,
+	"name": "Golden Cuffed Ponytail",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30024,
+	"name_string_id": 22047,
+	"desc_string_id": 19999
+},
+{
 	"id": 2771,
 	"name": "Glasses",
 	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
@@ -9366,6 +9411,24 @@
 	"region_id": 10,
 	"icon_id": 30054,
 	"name_string_id": 25100,
+	"desc_string_id": 19999
+},
+{
+	"id": 3381,
+	"name": "Elegant Scarf",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30054,
+	"name_string_id": 25101,
+	"desc_string_id": 19999
+},
+{
+	"id": 3382,
+	"name": "Sand Snake Scarf",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30054,
+	"name_string_id": 25102,
 	"desc_string_id": 19999
 },
 {
@@ -10926,6 +10989,42 @@
 	"desc_string_id": 19999
 },
 {
+	"id": 3711,
+	"name": "Green Sky Serpent Armor",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30065,
+	"name_string_id": 26175,
+	"desc_string_id": 19999
+},
+{
+	"id": 3712,
+	"name": "Black Sky Serpent Armor",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30065,
+	"name_string_id": 26176,
+	"desc_string_id": 19999
+},
+{
+	"id": 3713,
+	"name": "Cobra Hoodie",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30064,
+	"name_string_id": 26177,
+	"desc_string_id": 19999
+},
+{
+	"id": 3714,
+	"name": "Sand Snake Coat",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30064,
+	"name_string_id": 26178,
+	"desc_string_id": 19999
+},
+{
 	"id": 3792,
 	"name": "Unknown Item",
 	"desc": "Your client does not currently\nsupport\nthis item.\nPlease verify you have all required\nroms.",
@@ -11182,7 +11281,7 @@
 	"name": "Flower Crown",
 	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
 	"region_id": 10,
-	"icon_id": 30011,
+	"icon_id": 30014,
 	"name_string_id": 21261,
 	"desc_string_id": 19999
 },
@@ -11952,6 +12051,33 @@
 	"desc_string_id": 19999
 },
 {
+	"id": 4695,
+	"name": "Tiny White Wings",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30014,
+	"name_string_id": 21375,
+	"desc_string_id": 19999
+},
+{
+	"id": 4696,
+	"name": "Elegant Antennae",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30014,
+	"name_string_id": 21376,
+	"desc_string_id": 19999
+},
+{
+	"id": 4697,
+	"name": "Coiled Snake Hat",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30014,
+	"name_string_id": 21377,
+	"desc_string_id": 19999
+},
+{
 	"id": 4816,
 	"name": "Red Bicycle",
 	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
@@ -12345,6 +12471,51 @@
 	"region_id": 10,
 	"icon_id": 30113,
 	"name_string_id": 31051,
+	"desc_string_id": 19999
+},
+{
+	"id": 4868,
+	"name": "Xuanwu",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30115,
+	"name_string_id": 31052,
+	"desc_string_id": 19999
+},
+{
+	"id": 4869,
+	"name": "STRING_31053",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30111,
+	"name_string_id": 31053,
+	"desc_string_id": 19999
+},
+{
+	"id": 4870,
+	"name": "STRING_31054",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30111,
+	"name_string_id": 31054,
+	"desc_string_id": 19999
+},
+{
+	"id": 4871,
+	"name": "STRING_31055",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30111,
+	"name_string_id": 31055,
+	"desc_string_id": 19999
+},
+{
+	"id": 4872,
+	"name": "STRING_31056",
+	"desc": "A cosmetic item which can be used to\nmodify your appearance.",
+	"region_id": 10,
+	"icon_id": 30111,
+	"name_string_id": 31056,
 	"desc_string_id": 19999
 },
 {
