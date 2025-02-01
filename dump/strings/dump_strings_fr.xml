@@ -3627,7 +3627,7 @@
     <string id="101118">Potion de Transformation Infinie</string>
     <string id="101119">Une potion mystérieuse qui transforme l'apparence de l'utilisateur.\n\nUsages illimités.\nLes effets durent 1 heure.</string>
     <string id="101120">Charme d'Expérience</string>
-    <string id="101121">Un charme qui augmente le gain d'expérience de l'équipe du joueur.\n\nFonctionne avec d'autres bonus.\nConsommé lors de l'utilisation..\nLes effets durent 1 heure.\nLes membres de lien reçoivent un bonus de 10%.</string>
+    <string id="101121">Un charme qui augmente le gain d'expérience de l'équipe du joueur.\n\nSe cumule aux autres bonus.\nConsommé lors de l'utilisation..\nLes effets durent 1 heure.\nLes membres de lien reçoivent un bonus de 10%.</string>
     <string id="101122">Charme D'objet-aimant</string>
     <string id="101123">Un charme qui augmente les chances de trouver des objets dans les combats sauvages. Il augmente les chances qu'un {STRING_0} tienne un objet et les chances de trouver des objets au hasard.\n\nSe cumule avec d'autres bonus.\nConsommé lors de l'utilisation..\nL'effet dure 1 heure.\n Les membres du lien reçoivent un bonus de 10%.</string>
     <string id="101124">Charme de Points de Combat</string>
@@ -12837,7 +12837,7 @@
     <string id="200623">{00} a créé une zone étrange qui inverse\nl'Attaque et la Défense!</string>
     <string id="200624">{00} a projeté des\néclats métalliques!</string>
     <string id="200625">{00} a bondi en avant !</string>
-    <string id="200626">{00} let loose a volcanic spew!</string>
+    <string id="200626">{00} libère un flot de lave !</string>
     <string id="201000">{00} learned\n{01}!</string>
     <string id="201001">{00} and {01}\nare not compatible.\n\n{01} can't be learned.</string>
     <string id="201007">{00} already knows\n{01}.</string>
@@ -19397,8 +19397,8 @@
     <string id="16805109">Jixiang</string>
     <string id="16805110">Jiuer</string>
     <string id="16805111">Zhuzhu</string>
-    <string id="16805112">Bonne Année Lunaire de la part de PokeMMO !\nProfitez d'un taux de shiny de + {00} % durant cet event.\nS'ajoute aux modificateurs bonus.</string>
-    <string id="16805113">Bonne Année Lunaire de la part de PokeMMO !\nProfitez d'un taux de Shiny de +{00} % et d'un taux d'EXP de +{00} % durant cet event.\nS'ajoute aux modificateurs bonus.</string>
+    <string id="16805112">Bonne Année Lunaire de la part de PokeMMO !\nProfitez d'un taux de shiny de +{00}% durant cet event.\nSe cumule aux autres bonus.</string>
+    <string id="16805113">Bonne Année Lunaire de la part de PokeMMO !\nProfitez d'un taux de Shiny de +{00} % et d'un taux d'EXP de +{00} % durant cet event.\nSe cumule aux bonus.</string>
     <string id="16805114">Je suis le Maître {00} !\n\nJe cherche un {01}.\nSi vous m'en apportez un, je vous donnerai une\nrécompense spéciale.</string>
     <string id="16805115">Je suis le Maître {00}  !\n\nHé, c'est un {01} !\nTu veux te battre pour cela ?</string>
     <string id="16805116">Je suis le Maître {00} !\n\nVous devriez aller voir mes frères et sœurs.\nIls voudront peut-être vous affronter aussi !</string>
@@ -19410,9 +19410,9 @@
     <string id="16805122">{00}/{01} Raids terminés</string>
     <string id="16805123">Une statue de serpent qui commémore\nla nouvelle année.\n\n"Made in {00}" est gravé\n au dos.</string>
     <string id="16805124">{00} doit vaincre tous les raids {01}-Star disponibles\navant de défier ce raid.</string>
-    <string id="16805125">{00} Items Gathered</string>
-    <string id="16805126">Flung Items</string>
-    <string id="16805127">Enjoy a prosperous new year in PokeMMO!\nMoney earned from trainers is increased by +10% for the rest of this event.\nStacks with Money-rate bonus modifiers.</string>
+    <string id="16805125">{00} Objets Collectés</string>
+    <string id="16805126">Objets Jetés</string>
+    <string id="16805127">Profitez d'une nouvelle année prospère dans PokeMMO!\nL'argent gagné via les dresseurs est augmenté de +10% pour le reste de cet événement.\nSe cumule avec les autres bonus.</string>
     <string id="16806000">Un revendeur de livres à l'allure délabrée est apparu dans le centre commercial de {STRING_250000}.</string>
     <string id="16806001">Le revendeur de livres a été jeté hors du centre commercial.</string>
     <string id="16806002">Un tas de pierres suspect.\n\nRegarder plus près?</string>

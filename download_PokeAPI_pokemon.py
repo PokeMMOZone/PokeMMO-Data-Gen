@@ -420,7 +420,7 @@ def process_evolution_chain(chain):
 
 def process_pokemon_egg_moves(pokemon_name, moves):
     """Process egg moves for a given Pokémon and update the database."""
-    egg_moves = [move for move in moves if move["type"] == "egg_moves"]
+    egg_moves = [move for move in moves if move["type"] == "EGG"]
     if egg_moves:
         egg_moves_database[pokemon_name] = egg_moves
 
@@ -445,7 +445,7 @@ def add_egg_moves_to_evolutions(all_pokemon_data, pokemon_name, egg_moves):
                     existing_egg_move_ids = {
                         move["id"]
                         for move in evolution_moves
-                        if move["type"] == "egg_moves"
+                        if move["type"] == "EGG"
                     }
                     new_egg_moves = [
                         move

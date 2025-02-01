@@ -3635,7 +3635,7 @@
     <string id="101126">Amuleto Cromatico</string>
     <string id="101127">Un amuleto che aumenta le probabilità di incontrare un {STRING_0} cromatico.\n\nCumulativo con altri Bonus.\nSi consuma dopo l'utilizzo.\nL'effetto dura 1 ora.\nI membri Link ricevono un bonus del 5%.</string>
     <string id="101128">Amuleto Ricchezza</string>
-    <string id="101129">Un amuleto che incrementa i soldi guadagnati nelle battaglie contro gli allenatori.\n\nNon si accumula con altri bonus in denaro.\nConsumato dopo l'uso.\nL'effetto dura 1 ora.\nI membri Link ricevono un bonus del 10%.</string>
+    <string id="101129">Un amuleto che incrementa il denaro guadagnato dalle lotte contro gli allenatori.\n\nNon si accumula con altri bonus in denaro.\nConsumato dopo l'uso.\nL'effetto dura 1 ora.\nI membri Link ricevono un bonus del 10%.</string>
     <string id="101130">{STRING_245231} (Piccolo)</string>
     <string id="101131">Un oggetto che aumenta l'Esperienza guadagnata per un breve periodo di tempo.\n\nEXP x1.50.\nCumulativo con altri bonus.\nConsumato dopo l'uso.\nL'effetto dura 30 minuti.</string>
     <string id="101132">Busta Rossa</string>

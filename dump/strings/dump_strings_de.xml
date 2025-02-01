@@ -1475,7 +1475,7 @@
     <string id="5030">Die angeforderte Kampfwiederholung ist nicht mehr mit Ihrem Spielclient kompatibel.</string>
     <string id="5031">Select your {STRING_0} for Slot {00}:</string>
     <string id="5032">Bestätigen Sie Ihr Team:</string>
-    <string id="5033">Es wird darauf gewartet, dass die anderen Spieler ihre Teams bestätigen...</string>
+    <string id="5033">Es wird darauf gewartet, dass die anderen Spieler\nihre Teams bestätigen...</string>
     <string id="5034">Fehler bei der Verarbeitung der Kampfanimation für {00}</string>
     <string id="5035">Einfrieren des Kampfes festgestellt. Bitte poste deinen console.log im Forum.</string>
     <string id="5036">Das wilde {00} hat um Hilfe gerufen!\n\n{01} hat sich dem Kampf angeschlossen!</string>
