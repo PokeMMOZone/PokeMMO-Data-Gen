@@ -586,7 +586,7 @@ def process_varieties(species_id):
                 or "palkia-origin" in name
                 or "dialga-origin" in name
                 or "basculin-white-striped" in name
-                or "frillish-female" in name
+                or "-female" in name
             ):
                 continue
 
