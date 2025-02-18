@@ -115,22 +115,332 @@
     "wormadam-plant": {
         "obtainable": true,
         "shiny_tier": 1,
-        "shiny_points": 25
+        "shiny_points": 25,
+        "evolution_chain": {
+            "baby_trigger_item": null,
+            "chain": {
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": 1,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 20,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "wormadam-plant",
+                            "id": 413
+                        }
+                    },
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": 2,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 20,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "mothim",
+                            "id": 414
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "burmy",
+                    "id": 412
+                }
+            },
+            "id": 213
+        }
     },
     "wormadam-sandy": {
         "obtainable": true,
         "shiny_tier": 1,
-        "shiny_points": 25
+        "shiny_points": 25,
+        "evolution_chain": {
+            "baby_trigger_item": null,
+            "chain": {
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": 1,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 20,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "wormadam-plant",
+                            "id": 413
+                        }
+                    },
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": 2,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 20,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "mothim",
+                            "id": 414
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "burmy",
+                    "id": 412
+                }
+            },
+            "id": 213
+        }
     },
     "wormadam-trash": {
         "obtainable": true,
         "shiny_tier": 1,
-        "shiny_points": 25
+        "shiny_points": 25,
+        "evolution_chain": {
+            "baby_trigger_item": null,
+            "chain": {
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": 1,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 20,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "wormadam-plant",
+                            "id": 413
+                        }
+                    },
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": 2,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 20,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "mothim",
+                            "id": 414
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "burmy",
+                    "id": 412
+                }
+            },
+            "id": 213
+        }
     },
     "jirachi": {
         "obtainable": true
     },
     "shaymin-sky": {
         "obtainable": true
+    },
+    "burmy": {
+        "evolution_chain": {
+            "baby_trigger_item": null,
+            "chain": {
+                "evolves_to": [
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": 1,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 20,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "wormadam-plant",
+                            "id": 413
+                        }
+                    },
+                    {
+                        "evolution_details": [
+                            {
+                                "gender": 2,
+                                "held_item": null,
+                                "item": null,
+                                "known_move": null,
+                                "known_move_type": null,
+                                "location": null,
+                                "min_affection": null,
+                                "min_beauty": null,
+                                "min_happiness": null,
+                                "min_level": 20,
+                                "needs_overworld_rain": false,
+                                "party_species": null,
+                                "party_type": null,
+                                "relative_physical_stats": null,
+                                "time_of_day": "",
+                                "trade_species": null,
+                                "trigger": {
+                                    "name": "level-up"
+                                },
+                                "turn_upside_down": false
+                            }
+                        ],
+                        "evolves_to": [],
+                        "is_baby": false,
+                        "species": {
+                            "name": "mothim",
+                            "id": 414
+                        }
+                    }
+                ],
+                "is_baby": false,
+                "species": {
+                    "name": "burmy",
+                    "id": 412
+                }
+            },
+            "id": 213
+        }
     }
 }
