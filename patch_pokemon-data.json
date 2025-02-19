@@ -442,5 +442,23 @@
             },
             "id": 213
         }
+    },
+    "arceus": {
+        "obtainable": false
+    },
+    "lugia": {
+        "obtainable": false
+    },
+    "mewtwo": {
+        "obtainable": false
+    },
+    "rayquaza": {
+        "obtainable": false
+    },
+    "zekrom": {
+        "obtainable": false
+    },
+    "darkrai": {
+        "obtainable": false
     }
 }
