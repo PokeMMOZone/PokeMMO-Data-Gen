@@ -575,7 +575,19 @@ EXCLUDED_VARIATION_PATTERNS = [
     "-totem",
     "palkia-origin",
     "dialga-origin",
-    "basculin-white-striped"
+    "basculin-white-striped",
+    "unown-a",
+    "arceus-normal",
+    "arceus-unknown",
+    "arceus-fairy",
+    "mothim-plant",
+    "pichu-spiky-eared",
+    "burmy-plant",
+    "cherrim-overcast",
+    "shellos-west",
+    "gastrodon-west",
+    "deerling-spring",
+    "sawsbuck-spring"
 ]
 
 def process_varieties(species_id):
