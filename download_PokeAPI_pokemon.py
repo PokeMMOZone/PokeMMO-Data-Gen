@@ -815,7 +815,15 @@ def main():
                                 merged_form_data = {**species_data, **form_data}
                                 merged_form_data["varieties"] = varieties
                                 merged_form_data.pop("species", None)
-                                merged_form_data.pop("forms", None)
+                                merged_form_data.pop("form_order", None)
+                                merged_form_data.pop("form_names", None)
+                                merged_form_data.pop("form_name", None)
+                                merged_form_data.pop("names", None)
+                                merged_form_data.pop("pokemon", None)
+                                merged_form_data.pop("version_group", None)
+                                merged_form_data.pop("is_battle_only", None)
+                                merged_form_data.pop("is_default", None)
+                                merged_form_data.pop("is_mega", None)
                                 all_pokemon_data[form_name] = merged_form_data
 
     all_unique_moves = get_all_unique_moves(all_pokemon_data)
