@@ -5003,5 +5003,425 @@
                 "tier": "UB"
             }
         ]
+    },
+    "unown-b": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-c": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-d": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-e": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-f": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-g": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-h": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-i": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-j": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-k": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-l": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-m": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-n": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-o": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-p": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-q": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-r": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-s": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-t": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-u": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-v": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-w": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-x": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-y": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-z": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-exclamation": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "unown-question": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "burmy-sandy": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "burmy-trash": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "mothim-sandy": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "mothim-trash": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "cherrim-sunshine": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "shellos-east": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "gastrodon-east": {
+        "pvp": [
+            {
+                "tier": "UU"
+            }
+        ]
+    },
+    "arceus-bug": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
+    },
+    "arceus-dark": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
+    },
+    "arceus-dragon": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
+    },
+    "arceus-electric": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
+    },
+    "arceus-fighting": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
+    },
+    "arceus-fire": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
+    },
+    "arceus-flying": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
+    },
+    "arceus-ghost": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
+    },
+    "arceus-grass": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
+    },
+    "arceus-ground": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
+    },
+    "arceus-ice": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
+    },
+    "arceus-poison": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
+    },
+    "arceus-psychic": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
+    },
+    "arceus-rock": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
+    },
+    "arceus-steel": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
+    },
+    "arceus-water": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
+    },
+    "deerling-summer": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "deerling-autumn": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "deerling-winter": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "sawsbuck-summer": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "sawsbuck-autumn": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "sawsbuck-winter": {
+        "pvp": [
+            {
+                "tier": "UN"
+            }
+        ]
+    },
+    "genesect-douse": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
+    },
+    "genesect-shock": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
+    },
+    "genesect-burn": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
+    },
+    "genesect-chill": {
+        "pvp": [
+            {
+                "tier": "UB"
+            }
+        ]
     }
 }

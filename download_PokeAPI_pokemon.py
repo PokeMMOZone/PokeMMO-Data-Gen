@@ -813,7 +813,8 @@ def main():
                                     form_data["types"] = process_types(form_data["types"])
                                 remove_urls(form_data)
                                 merged_form_data = {**species_data, **form_data}
-                                merged_form_data["varieties"] = varieties
+                                merged_form_data.pop("sprites", None)
+                                merged_form_data.pop("types", None)
                                 merged_form_data.pop("species", None)
                                 merged_form_data.pop("form_order", None)
                                 merged_form_data.pop("form_names", None)
@@ -824,6 +825,16 @@ def main():
                                 merged_form_data.pop("is_battle_only", None)
                                 merged_form_data.pop("is_default", None)
                                 merged_form_data.pop("is_mega", None)
+                                merged_form_data["varieties"] = varieties
+                                merged_form_data["abilities"] = pokemon_data.get("abilities", [])
+                                merged_form_data["base_experience"] = pokemon_data.get("base_experience", [])
+                                merged_form_data["cries"] = pokemon_data.get("cries", [])
+                                merged_form_data["forms"] = forms_info
+                                merged_form_data["held_items"] = pokemon_data.get("held_items", [])
+                                merged_form_data["is_default"] = form_data.get("is_default", [])
+                                merged_form_data["sprites"] = pokemon_data.get("sprites", [])
+                                merged_form_data["stats"] = pokemon_data.get("stats", [])
+                                merged_form_data["types"] = form_data.get("types", [])
                                 all_pokemon_data[form_name] = merged_form_data
 
     all_unique_moves = get_all_unique_moves(all_pokemon_data)
