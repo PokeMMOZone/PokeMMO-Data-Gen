@@ -197,27 +197,31 @@ def main():
                         form_sprites = get_pokemon_form_sprites(form_info["id"])
                         if form_sprites:
                             if form_info["name"] not in all_sprites_data:
+                                filename_id = str(pokemon_sprites["id"])
+                                if "-" in form_info["name"]:
+                                    letter_part = form_info["name"].split("-", 1)[1]
+                                    filename_id = f"{filename_id}-{letter_part}"
                                 form_sprites["sprites"]["versions"] = {
                                     "generation-v": {
                                         "black-white": {
                                             "animated": {
-                                                "back_default": f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/{form_info['id']}.gif",
-                                                "back_female": None,
-                                                "back_shiny": f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/{form_info['id']}.gif",
-                                                "back_shiny_female": None,
-                                                "front_default": f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/{form_info['id']}.gif",
-                                                "front_female": None,
-                                                "front_shiny": f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/{form_info['id']}.gif",
-                                                "front_shiny_female": None,
+                                                "back_default": None if not form_sprites["sprites"].get("back_default") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/{filename_id}.gif",
+                                                "back_female": None if not form_sprites["sprites"].get("back_female") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/female/{filename_id}.gif",
+                                                "back_shiny": None if not form_sprites["sprites"].get("back_shiny") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/{filename_id}.gif",
+                                                "back_shiny_female": None if not form_sprites["sprites"].get("back_shiny_female") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/female/{filename_id}.gif",
+                                                "front_default": None if not form_sprites["sprites"].get("front_default") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/{filename_id}.gif",
+                                                "front_female": None if not form_sprites["sprites"].get("front_female") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/female/{filename_id}.gif",
+                                                "front_shiny": None if not form_sprites["sprites"].get("front_shiny") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/{filename_id}.gif",
+                                                "front_shiny_female": None if not form_sprites["sprites"].get("front_shiny_female") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/female/{filename_id}.gif",
                                             },
-                                            "back_default": f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/{form_info['id']}.png",
-                                            "back_female": None,
-                                            "back_shiny": f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/{form_info['id']}.png",
-                                            "back_shiny_female": None,
-                                            "front_default": f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/{form_info['id']}.png",
-                                            "front_female": None,
-                                            "front_shiny": f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/{form_info['id']}.png",
-                                            "front_shiny_female": None,
+                                            "back_default": None if not form_sprites["sprites"].get("back_default") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/{filename_id}.png",
+                                            "back_female": None if not form_sprites["sprites"].get("back_female") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/female/{filename_id}.png",
+                                            "back_shiny": None if not form_sprites["sprites"].get("back_shiny") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/{filename_id}.png",
+                                            "back_shiny_female": None if not form_sprites["sprites"].get("back_shiny_female") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/female/{filename_id}.png",
+                                            "front_default": None if not form_sprites["sprites"].get("front_default") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/{filename_id}.png",
+                                            "front_female": None if not form_sprites["sprites"].get("front_female") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/female/{filename_id}.png",
+                                            "front_shiny": None if not form_sprites["sprites"].get("front_shiny") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/{filename_id}.png",
+                                            "front_shiny_female": None if not form_sprites["sprites"].get("front_shiny_female") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/female/{filename_id}.png",
                                         }
                                     }
                                 }
