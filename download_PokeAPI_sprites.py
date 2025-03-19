@@ -197,6 +197,30 @@ def main():
                         form_sprites = get_pokemon_form_sprites(form_info["id"])
                         if form_sprites:
                             if form_info["name"] not in all_sprites_data:
+                                form_sprites["sprites"]["versions"] = {
+                                    "generation-v": {
+                                        "black-white": {
+                                            "animated": {
+                                                "back_default": f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/{form_info['id']}.gif",
+                                                "back_female": None,
+                                                "back_shiny": f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/{form_info['id']}.gif",
+                                                "back_shiny_female": None,
+                                                "front_default": f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/{form_info['id']}.gif",
+                                                "front_female": None,
+                                                "front_shiny": f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/{form_info['id']}.gif",
+                                                "front_shiny_female": None,
+                                            },
+                                            "back_default": f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/{form_info['id']}.png",
+                                            "back_female": None,
+                                            "back_shiny": f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/{form_info['id']}.png",
+                                            "back_shiny_female": None,
+                                            "front_default": f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/{form_info['id']}.png",
+                                            "front_female": None,
+                                            "front_shiny": f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/{form_info['id']}.png",
+                                            "front_shiny_female": None,
+                                        }
+                                    }
+                                }
                                 all_sprites_data[form_info["name"]] = form_sprites
 
     save_sprites_data(all_sprites_data)
