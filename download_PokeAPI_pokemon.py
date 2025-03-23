@@ -7,6 +7,7 @@ from requests.exceptions import SSLError
 # Base URLs for the PokeAPI
 current_dir = os.path.dirname(os.path.abspath(__file__))
 POKEMON_BASE_URL = "https://pokeapi.co/api/v2/pokemon/"
+POKEMON_FORM_URL = "https://pokeapi.co/api/v2/pokemon-form/"
 POKEMON_SPECIES_URL = "https://pokeapi.co/api/v2/pokemon-species/"
 DATA_SAVE_PATH = "./data/"
 ALL_POKEMON_FILE = "pokemon-data.json"
@@ -549,6 +550,46 @@ def process_past_types(pokemon_data):
                     break  # Stop processing after finding Generation 5 types
 
 
+EXCLUDED_VARIATION_PATTERNS = [
+    "-mega",
+    "-gmax",
+    "-alola",
+    "-hisui",
+    "-galar",
+    "-rock-star",
+    "-belle",
+    "-pop-star",
+    "-phd",
+    "-libre",
+    "-cosplay",
+    "-original-cap",
+    "-hoenn-cap",
+    "-sinnoh-cap",
+    "-unova-cap",
+    "-kalos-cap",
+    "-partner-cap",
+    "-starter",
+    "-world-cap",
+    "-primal",
+    "-paldea",
+    "-totem",
+    "palkia-origin",
+    "dialga-origin",
+    "basculin-white-striped",
+    "unown-a",
+    "arceus-normal",
+    "arceus-unknown",
+    "arceus-fairy",
+    "mothim-plant",
+    "pichu-spiky-eared",
+    "burmy-plant",
+    "cherrim-overcast",
+    "shellos-west",
+    "gastrodon-west",
+    "deerling-spring",
+    "sawsbuck-spring"
+]
+
 def process_varieties(species_id):
     response = request_with_retry(POKEMON_SPECIES_URL + str(species_id))
     if response.status_code == 200:
@@ -558,36 +599,7 @@ def process_varieties(species_id):
         processed_varieties = []
         for variety in varieties:
             name = variety["pokemon"]["name"]
-
-            # Exclude specific variations
-            if (
-                "-mega" in name
-                or "-gmax" in name
-                or "-alola" in name
-                or "-hisui" in name
-                or "-galar" in name
-                or "-rock-star" in name
-                or "-belle" in name
-                or "-pop-star" in name
-                or "-phd" in name
-                or "-libre" in name
-                or "-cosplay" in name
-                or "-original-cap" in name
-                or "-hoenn-cap" in name
-                or "-sinnoh-cap" in name
-                or "-unova-cap" in name
-                or "-kalos-cap" in name
-                or "-partner-cap" in name
-                or "-starter" in name
-                or "-world-cap" in name
-                or "-primal" in name
-                or "-paldea" in name
-                or "-totem" in name
-                or "palkia-origin" in name
-                or "dialga-origin" in name
-                or "basculin-white-striped" in name
-                or "-female" in name
-            ):
+            if any(pattern in name for pattern in EXCLUDED_VARIATION_PATTERNS):
                 continue
 
             variety_id = int(variety["pokemon"]["url"].split("/")[-2])
@@ -598,6 +610,19 @@ def process_varieties(species_id):
         return processed_varieties
 
     return []
+
+
+def process_forms(form_data):
+    processed_forms = []
+    for form in form_data:
+        form_name = form["name"]
+        if any(pattern in form_name for pattern in EXCLUDED_VARIATION_PATTERNS):
+            continue
+        form_response = request_with_retry(POKEMON_FORM_URL + form_name)
+        if form_response.status_code == 200:
+            form_json = form_response.json()
+            processed_forms.append({"name": form_name, "id": form_json["id"]})
+    return processed_forms
 
 
 def process_abilities(abilities):
@@ -612,10 +637,6 @@ def process_abilities(abilities):
         }
         for ability in abilities
     ]
-
-
-def process_forms(forms):
-    return [form["name"] for form in forms]
 
 
 def process_name_translations(names):
@@ -774,10 +795,47 @@ def main():
                     merged_data.pop(
                         "species", None
                     )  # Remove the 'species' key from merged data
-                    merged_data.pop("forms", None)
+                    # merged_data.pop("forms", None)
 
                     # Store the data for this variety in the main dictionary
                     all_pokemon_data[variety_name] = merged_data
+
+                    # Now process forms for the variety
+                    forms_info = process_forms(merged_data.get("forms", []))
+                    for form_info in forms_info:
+                        form_name = form_info["name"]
+                        if form_name not in all_pokemon_data:
+                            form_response = request_with_retry(POKEMON_FORM_URL + str(form_info["id"]))
+                            if form_response.status_code == 200:
+                                form_data = form_response.json()
+                                form_data.pop("moves", None)
+                                if "types" in form_data:
+                                    form_data["types"] = process_types(form_data["types"])
+                                remove_urls(form_data)
+                                merged_form_data = {**species_data, **form_data}
+                                merged_form_data.pop("sprites", None)
+                                merged_form_data.pop("types", None)
+                                merged_form_data.pop("species", None)
+                                merged_form_data.pop("form_order", None)
+                                merged_form_data.pop("form_names", None)
+                                merged_form_data.pop("form_name", None)
+                                merged_form_data.pop("names", None)
+                                merged_form_data.pop("pokemon", None)
+                                merged_form_data.pop("version_group", None)
+                                merged_form_data.pop("is_battle_only", None)
+                                merged_form_data.pop("is_default", None)
+                                merged_form_data.pop("is_mega", None)
+                                merged_form_data["varieties"] = varieties
+                                merged_form_data["abilities"] = pokemon_data.get("abilities", [])
+                                merged_form_data["base_experience"] = pokemon_data.get("base_experience", [])
+                                merged_form_data["cries"] = pokemon_data.get("cries", [])
+                                merged_form_data["forms"] = forms_info
+                                merged_form_data["held_items"] = pokemon_data.get("held_items", [])
+                                merged_form_data["is_default"] = form_data.get("is_default", [])
+                                merged_form_data["sprites"] = pokemon_data.get("sprites", [])
+                                merged_form_data["stats"] = pokemon_data.get("stats", [])
+                                merged_form_data["types"] = form_data.get("types", [])
+                                all_pokemon_data[form_name] = merged_form_data
 
     all_unique_moves = get_all_unique_moves(all_pokemon_data)
 
