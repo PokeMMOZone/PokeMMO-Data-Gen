@@ -223,6 +223,24 @@ def main():
                                             "front_shiny": None if not form_sprites["sprites"].get("front_shiny") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/{filename_id}.png",
                                             "front_shiny_female": None if not form_sprites["sprites"].get("front_shiny_female") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/female/{filename_id}.png",
                                         }
+                                    },
+                                    "generation-vii": {
+                                        "icons": {
+                                            "front_default": None if not form_sprites["sprites"].get("front_default") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/icons/{filename_id}.png",
+                                            "front_female": None if not form_sprites["sprites"].get("front_female") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/icons/female/{filename_id}.png"
+                                        },
+                                        "ultra-sun-ultra-moon": {
+                                            "front_default": None if not form_sprites["sprites"].get("front_default") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/{filename_id}.png",
+                                            "front_female": None if not form_sprites["sprites"].get("front_female") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/female/{filename_id}.png",
+                                            "front_shiny": None if not form_sprites["sprites"].get("front_shiny") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/{filename_id}.png",
+                                            "front_shiny_female": None if not form_sprites["sprites"].get("front_shiny_female") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/female/{filename_id}.png"
+                                        }
+                                    },
+                                    "generation-viii": {
+                                        "icons": {
+                                            "front_default": None if not form_sprites["sprites"].get("front_default") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-viii/icons/{filename_id}.png",
+                                            "front_female": None if not form_sprites["sprites"].get("front_female") else f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-viii/icons/female/{filename_id}.png"
+                                        }
                                     }
                                 }
                                 all_sprites_data[form_info["name"]] = form_sprites
