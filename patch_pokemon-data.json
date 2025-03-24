@@ -446,6 +446,54 @@
     "arceus": {
         "obtainable": false
     },
+    "arceus-bug": {
+        "obtainable": false
+    },
+    "arceus-dark": {
+        "obtainable": false
+    },
+    "arceus-dragon": {
+        "obtainable": false
+    },
+    "arceus-electric": {
+        "obtainable": false
+    },
+    "arceus-fighting": {
+        "obtainable": false
+    },
+    "arceus-fire": {
+        "obtainable": false
+    },
+    "arceus-flying": {
+        "obtainable": false
+    },
+    "arceus-ghost": {
+        "obtainable": false
+    },
+    "arceus-grass": {
+        "obtainable": false
+    },
+    "arceus-ground": {
+        "obtainable": false
+    },
+    "arceus-ice": {
+        "obtainable": false
+    },
+    "arceus-poison": {
+        "obtainable": false
+    },
+    "arceus-psychic": {
+        "obtainable": false
+    },
+    "arceus-rock": {
+        "obtainable": false
+    },
+    "arceus-steel": {
+        "obtainable": false
+    },
+    "arceus-water": {
+        "obtainable": false
+    },
     "lugia": {
         "obtainable": false
     },
