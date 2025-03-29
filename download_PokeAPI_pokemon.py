@@ -587,7 +587,10 @@ EXCLUDED_VARIATION_PATTERNS = [
     "shellos-west",
     "gastrodon-west",
     "deerling-spring",
-    "sawsbuck-spring"
+    "sawsbuck-spring",
+    "mothim-sandy",
+    "mothim-trash"
+    
 ]
 
 def process_varieties(species_id):

@@ -117,6 +117,8 @@ def process_varieties(species_id):
                     "palkia-origin",
                     "dialga-origin",
                     "basculin-white-striped",
+                    "mothim-sandy",
+                    "mothim-trash"
                 ]
             ):
                 continue
