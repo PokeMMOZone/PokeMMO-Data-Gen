@@ -43,6 +43,7 @@ It is very important that data in this project be as accurate as possible. If yo
 - `patch_data_files.py`: This script performs "patches" on the data. This is needed to handle changes that are different from the main series games. Example of the patching format will be below.
 - `patch_pokemon-data.json`: This file contains "patches" to the Pokemon data. Things should be added here to make changes to the data if it needs to be different from PokeAPI.
 - `patch_move-data.json`: This file contains "patches" to the Move data. Things should be added here to make changes to the data if it needs to be different from PokeAPI.
+- `patch_locations.json`: This file contains patches to the location data.
 - `dump\`: This folder contains data exported from the PokeMMO client. This will be used to keep moves and locations up to date.
 > Settings -> Utilities -> Dump Moddable Resources -> Pokedex Data
 

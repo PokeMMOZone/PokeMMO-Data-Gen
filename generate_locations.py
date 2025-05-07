@@ -3,10 +3,9 @@ import os
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 LOCATIONS_FILE = os.path.join(current_dir, "locations.json")
+PATCH_FILE = os.path.join(current_dir, "patch_locations.json")
 info_directory = os.path.join(current_dir, "dump/info")
-monsters_file = os.path.join(
-    info_directory, "monsters.json"
-)  # Path to the monsters.json file
+monsters_file = os.path.join(info_directory, "monsters.json")
 
 # Add your lookup dictionary here
 name_change_lookup = {
@@ -19,7 +18,29 @@ name_change_lookup = {
 }
 
 
+def apply_patch(locations_data, patch_data):
+    """Applies additions and removals from the patch file to the locations data."""
+    # Add locations
+    for pokemon, new_locations in patch_data.get("add", {}).items():
+        if pokemon not in locations_data:
+            locations_data[pokemon] = {"locations": []}
+        locations_data[pokemon]["locations"].extend(new_locations)
+
+    # Remove locations
+    for pokemon, locations_to_remove in patch_data.get("remove", {}).items():
+        if pokemon in locations_data:
+            locations_data[pokemon]["locations"] = [
+                loc
+                for loc in locations_data[pokemon]["locations"]
+                if loc["location"] not in locations_to_remove
+            ]
+            # Remove the Pokémon entry if no locations remain
+            if not locations_data[pokemon]["locations"]:
+                del locations_data[pokemon]
+
+
 def generate_locations_json(filepath):
+    """Generates the locations.json file."""
     # Dictionary to hold all location data
     locations_data = {}
 
@@ -37,6 +58,12 @@ def generate_locations_json(filepath):
 
             # Extracting the location information
             locations_data[pokemon_name] = {"locations": pokemon.get("locations", [])}
+
+    # Read and apply the patch file
+    if os.path.exists(PATCH_FILE):
+        with open(PATCH_FILE, "r", encoding="utf-8") as patch_file:
+            patch_data = json.load(patch_file)
+            apply_patch(locations_data, patch_data)
 
     # Write the compiled data to locations.json
     with open(LOCATIONS_FILE, "w", encoding="utf-8") as outfile:

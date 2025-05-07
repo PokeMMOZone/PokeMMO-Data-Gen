@@ -42966,6 +42966,15 @@
                 "min_level": 20,
                 "max_level": 30,
                 "rarity": "Uncommon"
+            },
+            {
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "location": "Ruins of Alph",
+                "min_level": 5,
+                "max_level": 5,
+                "rarity": "Very Common"
             }
         ]
     },
