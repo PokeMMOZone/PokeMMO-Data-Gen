@@ -1,5 +1,6 @@
 import json
 import os
+import re
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 LOCATIONS_FILE = os.path.join(current_dir, "locations.json")
@@ -16,6 +17,40 @@ name_change_lookup = {
     "mime jr.": "mime-jr",
     # Add more name mappings as needed
 }
+
+
+def extract_time_from_location(location_name):
+    """
+    Extracts time/season info from location name in parentheses, e.g. "Route 1 (Day/Morning)".
+    Returns (cleaned_location_name, time_string).
+    If no parentheses, returns (location_name, "ALL").
+    """
+    match = re.search(r"\(([^)]+)\)", location_name)
+    if match:
+        time = match.group(1)
+        # Remove the parenthetical from the location name
+        cleaned_location = re.sub(r"\s*\([^)]+\)", "", location_name)
+        return cleaned_location, time
+    else:
+        return location_name, "ALL"
+
+
+def process_locations(locations):
+    """
+    For each location dict, extract time info from the location name and add a 'time' field.
+    """
+    processed = []
+    for loc in locations:
+        # Defensive: skip if not a dict or missing 'location'
+        if not isinstance(loc, dict) or "location" not in loc:
+            processed.append(loc)
+            continue
+        cleaned_location, time = extract_time_from_location(loc["location"])
+        loc = dict(loc)  # shallow copy to avoid mutating input
+        loc["location"] = cleaned_location
+        loc["time"] = time
+        processed.append(loc)
+    return processed
 
 
 def apply_patch(locations_data, patch_data):
@@ -56,8 +91,10 @@ def generate_locations_json(filepath):
             if pokemon_name in name_change_lookup:
                 pokemon_name = name_change_lookup[pokemon_name]
 
-            # Extracting the location information
-            locations_data[pokemon_name] = {"locations": pokemon.get("locations", [])}
+            # Extracting the location information and process each location
+            raw_locations = pokemon.get("locations", [])
+            processed_locations = process_locations(raw_locations)
+            locations_data[pokemon_name] = {"locations": processed_locations}
 
     # Read and apply the patch file
     if os.path.exists(PATCH_FILE):

@@ -1,5 +1,6 @@
 import json
 import os
+import re
 
 
 def read_pokemon_data(file_path):
@@ -32,6 +33,7 @@ def generate_location_data(pokemon_data):
                 "min_level": encounter.get("min_level"),
                 "max_level": encounter.get("max_level"),
                 "rarity": encounter.get("rarity"),
+                "time": encounter.get("time", "ALL"),
             }
             location_data[location_key]["encounters"].append(encounter_info)
     return location_data
