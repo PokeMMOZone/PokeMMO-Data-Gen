@@ -548,24 +548,24 @@
         "shiny_points": 30
     },
     "omanyte": {
-        "shiny_tier": 1,
-        "shiny_points": 25
+        "shiny_tier": 2,
+        "shiny_points": 15
     },
     "omastar": {
-        "shiny_tier": 1,
-        "shiny_points": 25
+        "shiny_tier": 2,
+        "shiny_points": 15
     },
     "kabuto": {
-        "shiny_tier": 1,
-        "shiny_points": 25
+        "shiny_tier": 2,
+        "shiny_points": 15
     },
     "kabutops": {
-        "shiny_tier": 1,
-        "shiny_points": 25
+        "shiny_tier": 2,
+        "shiny_points": 15
     },
     "aerodactyl": {
-        "shiny_tier": 1,
-        "shiny_points": 25
+        "shiny_tier": 2,
+        "shiny_points": 15
     },
     "snorlax": {
         "shiny_tier": 1,
@@ -1384,12 +1384,12 @@
         "shiny_points": 25
     },
     "anorith": {
-        "shiny_tier": 1,
-        "shiny_points": 25
+        "shiny_tier": 2,
+        "shiny_points": 15
     },
     "armaldo": {
-        "shiny_tier": 1,
-        "shiny_points": 25
+        "shiny_tier": 2,
+        "shiny_points": 15
     },
     "feebas": {
         "shiny_tier": 1,
@@ -1628,20 +1628,20 @@
         "shiny_points": 2
     },
     "cranidos": {
-        "shiny_tier": 1,
-        "shiny_points": 25
+        "shiny_tier": 2,
+        "shiny_points": 15
     },
     "rampardos": {
-        "shiny_tier": 1,
-        "shiny_points": 25
+        "shiny_tier": 2,
+        "shiny_points": 15
     },
     "shieldon": {
-        "shiny_tier": 1,
-        "shiny_points": 25
+        "shiny_tier": 2,
+        "shiny_points": 15
     },
     "bastiodon": {
-        "shiny_tier": 1,
-        "shiny_points": 25
+        "shiny_tier": 2,
+        "shiny_points": 15
     },
     "burmy": {
         "shiny_tier": 1,
@@ -2252,20 +2252,20 @@
         "shiny_points": 2
     },
     "tirtouga": {
-        "shiny_tier": 1,
-        "shiny_points": 25
+        "shiny_tier": 2,
+        "shiny_points": 15
     },
     "carracosta": {
-        "shiny_tier": 1,
-        "shiny_points": 25
+        "shiny_tier": 2,
+        "shiny_points": 15
     },
     "archen": {
-        "shiny_tier": 1,
-        "shiny_points": 25
+        "shiny_tier": 2,
+        "shiny_points": 15
     },
     "archeops": {
-        "shiny_tier": 1,
-        "shiny_points": 25
+        "shiny_tier": 2,
+        "shiny_points": 15
     },
     "trubbish": {
         "shiny_tier": 4,
